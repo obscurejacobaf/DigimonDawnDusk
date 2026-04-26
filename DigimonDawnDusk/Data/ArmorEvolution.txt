@@ -16,19 +16,19 @@ Condition: Hawkmon at Lv20+ with 105 or more Defense Stat
 - Love: Patamon -> Pipismon
 Condition: Patamon at Lv21+ with 100 or more Speed Stat
 
-- Sincerity: Patamon -> Punchomon
+- Sincerity: Patamon -> Ponchomon
 Condition: Patamon at Lv 23+ with 2000 or more Dark EXP
 
 - Kindness: Patamon -> Prairiemon
 Condition: Patamon at Lv27+ with 135 or more Attack Stat
 
-- Courage: Tailmon/Gatomon -> Lynxmon
+- Courage: Gatomon -> Lynxmon
 Condition: Tailmon at Lv29+ with 130 or more Speed Stat
 
-- Sincerity: Tailmon/Gatomon -> Kabukimon
+- Sincerity: Gatomon -> Kabukimon
 Condition: Tailmon at Lv31+ with 2000 or more Insect/Plant EXP
 
-- Reliability: Tailmon/Gatomon -> Tylomon
+- Reliability: Gatomon -> Tylomon
 Condition: Tail mon at Lv27+ with 2200 or more Aquan EXP
 
 - Courage: Veemon -> Flamedramon

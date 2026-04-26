@@ -2045,7 +2045,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 130
-Digimon Name: Sorcerymon
+Digimon Name: Sorcermon
 Type: Balance
 
 Species: Holy
@@ -3393,7 +3393,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 213
-Digimon Name: WereGarurumonBlack
+Digimon Name: WereGarurumon (Black)
 Type: Speed
 
 Species: Beast
@@ -5378,7 +5378,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 328
-Digimon Name: Neptunmon
+Digimon Name: Neptunemon
 Type: Balance
 
 Species: Aquan
@@ -5756,7 +5756,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 349
-Digimon Name: Bantyo Leomon
+Digimon Name: BanchoLeomon
 Type: Balance
 
 Species: Beast
@@ -5918,7 +5918,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 358
-Digimon Name: Chaos Gallantmon
+Digimon Name: ChaosGallantmon
 Type: Attacker
 
 Species: Dark
@@ -6403,7 +6403,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 385
-Digimon Name: Shine Greymon Burst Mode
+Digimon Name: ShineGreymon Burst Mode
 Type: Attacker
 
 Species: Dragon
@@ -6421,7 +6421,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 386
-Digimon Name: Shine Greymon Ruin Mode
+Digimon Name: ShineGreymon Ruin Mode
 Type: MPType
 
 Species: Dark

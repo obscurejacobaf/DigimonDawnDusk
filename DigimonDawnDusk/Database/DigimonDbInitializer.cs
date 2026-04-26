@@ -13,6 +13,8 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 		InitTraits(context);
 		InitDigimon(context);
 		InitNormalEvolution(context);
+		InitArmorEvolution(context);
+		InitDNAEvolution(context);
 		InitMoves(context);
 	}
 
@@ -163,6 +165,104 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 				To = digimon[parts2[0]],
 				Requirements = parts2[1]
 			});
+		}
+
+		context.Evolutions.AddRange(evolutions);
+		context.SaveChanges();
+	}
+
+	private static void InitArmorEvolution(DigimonDbContext context)
+	{
+		using var stream = new FileStream(@"C:\Users\theja\source\repos\DigimonWorldDD\DigimonDawnDusk\Data\ArmorEvolution.txt", FileMode.Open);
+		using var reader = new StreamReader(stream);
+
+		var digimon = context.Digimon.ToDictionary(x => x.Name, StringComparer.OrdinalIgnoreCase);
+		var evolutions = new List<Evolution>();
+
+		var evolution = new Evolution();
+
+		while (true)
+		{
+			var line = reader.ReadLine();
+			if (line == null)
+				break;
+
+			if (line == string.Empty)
+				continue;
+
+			if (line.StartsWith("- "))
+			{
+				var parts1 = line[2..].Split(": ");
+				var parts2 = parts1[1].Split(" -> ");
+
+				evolution.From = digimon[parts2[0]];
+				evolution.To = digimon[parts2[1]];
+				evolution.Requirements = parts1[0];
+				continue;
+			}
+
+			if (line.StartsWith("Condition: "))
+			{
+				evolution.Requirements += $" {line[11..]}";
+				evolutions.Add(evolution);
+				evolution = new();
+				continue;
+			}
+
+			throw new NotImplementedException(line);
+		}
+
+		context.Evolutions.AddRange(evolutions);
+		context.SaveChanges();
+	}
+
+	private static void InitDNAEvolution(DigimonDbContext context)
+	{
+		using var stream = new FileStream(@"C:\Users\theja\source\repos\DigimonWorldDD\DigimonDawnDusk\Data\DNAEvolution.txt", FileMode.Open);
+		using var reader = new StreamReader(stream);
+
+		var digimonList = context.Digimon.ToDictionary(x => x.Name, StringComparer.OrdinalIgnoreCase);
+		Digimon workingDigimon = null!;
+
+		var evolutions = new List<Evolution>();
+		var tempEvolutions = new HashSet<Evolution>();
+
+		while (true)
+		{
+			var line = reader.ReadLine();
+			if (line == null)
+				break;
+
+			if (line == string.Empty)
+				continue;
+
+			if (line.StartsWith("- "))
+			{
+				var parts = line[2..].Split(" + ");
+
+				foreach (var part in parts)
+					tempEvolutions.Add(new()
+					{
+						From = digimonList[part],
+						To = workingDigimon,
+					});
+
+				continue;
+			}
+
+			if (line.StartsWith('('))
+			{
+				var desc = line[1..(line.Length - 1)];
+				foreach (var ev in tempEvolutions)
+				{
+					ev.Requirements = desc;
+				}
+				evolutions.AddRange(tempEvolutions);
+				tempEvolutions = [];
+				continue;
+			}
+
+			workingDigimon = digimonList[line];
 		}
 
 		context.Evolutions.AddRange(evolutions);

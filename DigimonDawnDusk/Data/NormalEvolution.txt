@@ -10,7 +10,7 @@ Gummymon -> Renamon: Lv12+, Spd 70+
 Renamon -> Kyubimon: Lv23+, Spr 125+
 Kyubimon -> Taomon: Lv36+, Friendship 80%+, Spr 185+
 Taomon -> Sakuyamon: Lv52+, Holy EXP16000+, Must have Befriended Kuzuhamon
-Renamon -> Sorcerymon: Friendship 70%+, Holy EXP700+
+Renamon -> Sorcermon: Friendship 70%+, Holy EXP700+
 Puttimon -> Salamon: Lv7+
 Salamon -> Gatomon: Lv18+, Friendship 70%+
 Gatomon -> Angewomon: Lv35+, Attack 160+, Holy EXP2700+
@@ -56,7 +56,7 @@ Phantomon -> Ghoulmon (Black): Lv49+, Atk 230+, Drak EXP10500+
 Phantomon -> Apocalymon: Lv71+, Dark EXP44444+, Must have Befriended Apocalymon
 Tsukaimon -> Devidramon: Lv22+, Dragon EXP350+, Dark EXP300+
 Devidramon -> Kimeramon: Lv44+, Dark EXP11000+, Must have Befriended Kimeramon
-Kimeramon -> MoonMillenniummon: Lv66+, Spr 370+, Must have Befriended Milleniumon
+Kimeramon -> MoonMillenniummon: Lv66+, Spr 370+, Must have Befriended Millenniummon
 Devidramon -> Gigadramon: Lv40+, Atk 195+, Machine EXP4400+
 Moonmon -> Lunamon: Lv9+, Friendship 50%+
 Lunamon -> Lekismon: Lv19+, Friendship 70%+
@@ -137,8 +137,8 @@ WereGarurumon -> MetalGarurumon: Lv52+, Friendship 90%+, Must have Befriended Ga
 Gabumon -> JungleMojyamon: Lv17+, Beast EXP350+
 Tsunomon -> Goburimon: Lv12+, Atk 60+
 Goburimon -> Ogremon: Lv26+, Atk 120+, Beast EXP750+
-Ogremon -> WereGarurumonBlack: Lv41+, Spd 190+, Dark EXP6500+
-WereGarurumonBlack -> Gulfmon: Lv56+, Dark EXP15000+, Beast EXP10000+
+Ogremon -> WereGarurumon (Black): Lv41+, Spd 190+, Dark EXP6500+
+WereGarurumon (Black) -> Gulfmon: Lv56+, Dark EXP15000+, Beast EXP10000+
 Goburimon -> Minotarumon: Lv23+, Def 95+, Beast EXP360+
 Minotarumon -> Etemon: Lv34+, Spr 135+, Beast EXP3800+
 Etemon -> MetalEtemon: Lv46+, Def 200+, Beast EXP10000+
@@ -307,5 +307,5 @@ Lucemon Chaos Mode -> Daemon: Lv67+, Attack 390+, Dark EXP 50000+
 Paildramon -> Imperialdramon Dragon Mode: Lv56+, Dragon EXP 22000+, Must have Befriended Chibomon
 Paildramon -> Imperialdramon Fighter Mode: Lv60+, Friendship 80%+, Must have Befriended Imperialdramon Dragon Mode
 Vademon -> Ebemon: Lv47+, Attack 245+, Machine EXP 11000+
-Dragomon -> Neptunmon: Lv62+, Spirit 340+, Aquan EXP 44000+
+Dragomon -> Neptunemon: Lv62+, Spirit 340+, Aquan EXP 44000+
 Silphymon -> Valkyrimon: Lv52+, Speed 260+, Holy EXP 12000+
