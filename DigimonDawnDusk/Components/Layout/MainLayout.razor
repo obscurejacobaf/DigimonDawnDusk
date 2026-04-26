@@ -1,0 +1,41 @@
+﻿@inherits LayoutComponentBase
+
+<div class="offcanvas offcanvas-start" tabindex="-1" id="sideBar">
+	<div class="offcanvas-header">
+		<h5 class="offcanvas-title" id="offcanvasLabel">Digimon Dawn/Dusk</h5>
+		<button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+	</div>
+	<div class="offcanvas-body">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<button class="btn btn-primary" @onclick="HomeNav" data-bs-dismiss="offcanvas" data-bs-target="#sideBar">Home</button>
+				</div>
+			</div>
+			<div class="row mt-2">
+			</div>
+			<div class="col">
+				<button class="btn btn-primary" @onclick="MovesNav" data-bs-dismiss="offcanvas" data-bs-target="#sideBar">Moves</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid mt-2">
+	<div class="row">
+		<div class="col">
+			<button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#sideBar">
+				Menu
+			</button>
+		</div>
+	</div>
+	@Body
+</div>
+
+@code {
+	[Inject]
+	NavigationManager Navigation { get; set; } = default!;
+
+	private void HomeNav() => Navigation.NavigateTo("/");
+	private void MovesNav() => Navigation.NavigateTo("/Moves");
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DigimonDawnDusk/DigimonDawnDusk.csproj" Id="05af94ea-1bde-49ee-a89f-a098c4d35c86">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

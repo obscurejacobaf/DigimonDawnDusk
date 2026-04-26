@@ -1,0 +1,51 @@
+﻿@typeparam T
+
+<div class="bg-dark p-3">
+	<div class="form-check">
+		<input class="form-check-input"
+			   type="checkbox"
+			   id="@MyId"
+			   checked="checked"
+			   @onchange="SetAll" />
+		<label class="form-check-label" for="@MyId">All</label>
+	</div>
+
+	@foreach (var item in Value)
+	{
+		var tId = $"{MyId}_{item.Value}";
+
+		<div class="form-check">
+			<input class="form-check-input"
+				   type="checkbox"
+				   id="@tId"
+				   checked="@item.IsSelected"
+				   @onchange="(e) => OnChanged(item, e)" />
+			<label class="form-check-label" for="@tId">@item.Value</label>
+		</div>
+	}
+</div>
+
+@code {
+	private string MyId { get; set; } = Guid.NewGuid().ToString();
+	[Parameter] public required string Placeholder { get; set; }
+
+	[Parameter] public required MultiSelectItems<T> Value { get; set; }
+	[Parameter] public EventCallback<MultiSelectItems<T>> ValueChanged { get; set; }
+
+	private async Task SetAll(ChangeEventArgs e)
+	{
+		var val = (bool)e.Value!;
+		foreach (var value in Value)
+		{
+			value.IsSelected = val;
+		}
+		await ValueChanged.InvokeAsync(Value);
+		await InvokeAsync(StateHasChanged);
+	}
+
+	private async Task OnChanged(MultiSelectItem<T> item, ChangeEventArgs e)
+	{
+		item.IsSelected = (bool)e.Value!;
+		await ValueChanged.InvokeAsync(Value);
+	}
+}

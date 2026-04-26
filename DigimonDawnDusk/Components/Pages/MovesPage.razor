@@ -1,0 +1,108 @@
+﻿@page "/Moves"
+@using DigimonDawnDusk.Database
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using Microsoft.EntityFrameworkCore
+
+<QuickGrid Items="Moves" Class="table">
+	<PropertyColumn Property="m => m.Attribute" Title="Attribute" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="AttributeEnum" @bind-Value="Attributes" Placeholder="Attribute..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.AttackTimes" Title="Hits" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="int" @bind-Value="AttackTimes" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.Name" Title="Name" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="string" @bind-Value="Names" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.Effect" Title="Effect" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="int" @bind-Value="Effects" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.SingleTargetEffect" Title="S Effect" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="int" @bind-Value="SEffects" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.AOEEffect" Title="AOE Effect" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="int" @bind-Value="AOEEffects" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.Description" Title="Description" Sortable="true">
+		<ColumnOptions>
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.Fixed" Title="Fixed" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="bool" @bind-Value="Fixes" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.MpCost" Title="MP Cost" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="int" @bind-Value="MP" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.LevelGained" Title="Level Gained" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="int" @bind-Value="LevelGained" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="m => m.GainedBy" Title="Gained By">
+		<ColumnOptions>
+			<ColumnFilter T="string" @bind-Value="GainedBy" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+</QuickGrid>
+
+@code{
+	[Inject]
+	public required IDbContextFactory<DigimonDbContext> Factory { get; init; }
+	private List<Move> AllMoves = default!;
+	private IQueryable<Move> Moves => ApplyFilter();
+
+	private MultiSelectItems<AttributeEnum> Attributes = default!;
+	private MultiSelectItems<int> AttackTimes = new([1, 2, 3]);
+	private MultiSelectItems<string> Names = default!;
+	private MultiSelectItems<int> Effects = default!;
+	private MultiSelectItems<int> SEffects = default!;
+	private MultiSelectItems<int> AOEEffects = default!;
+	private MultiSelectItems<string> Ranges = default!;
+	private MultiSelectItems<bool> Fixes = new([true, false]);
+	private MultiSelectItems<int> MP = default!;
+	private MultiSelectItems<int> LevelGained = default!;
+	private MultiSelectItems<string> GainedBy = default!;
+
+	// TODO: Description
+	// TODO GainedBy
+
+	protected override async Task OnInitializedAsync()
+	{
+		using var context = await Factory.CreateDbContextAsync();
+		AllMoves = await context.Moves.Include(x => x.Digimon).AsNoTracking().ToListAsync();
+		Attributes = new(Enum.GetValues<AttributeEnum>());
+		Names = new(AllMoves.Select(x => x.Name));
+		Effects = new(AllMoves.Select(x => x.Effect));
+		SEffects = new(AllMoves.Select(x => x.SingleTargetEffect));
+		Ranges = new(AllMoves.Select(x => x.Range));
+		AOEEffects = new(AllMoves.Select(x => x.AOEEffect));
+		GainedBy = new(await context.Digimon.Select(x => x.Name).AsNoTracking().ToListAsync());
+		LevelGained = new(AllMoves.Select(x => x.LevelGained));
+		MP = new(AllMoves.Select(x => x.MpCost));
+	}
+
+	private IQueryable<Move> ApplyFilter()
+	{
+		var moves = AllMoves.AsQueryable();
+			//.Where(x => Attributes.Contains(x.Attribute) &&
+			//AttackTimes.Contains(x.AttackTimes)// &&
+			/*etc*///);
+
+		return moves;
+	}
+}

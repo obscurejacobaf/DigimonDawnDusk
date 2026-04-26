@@ -1,0 +1,2907 @@
+Holy
+1x
+TinyHolyFlame
+Effect & Range: 30, (XOOOX) Fixed
+MP Cost: 23
+Description: Gather energy of light and blow up 3 zones
+Level Gained: 2
+Gained By: Chicchimon
+Holy Cannon
+Effect & Range: 89, (OXOXO) Fixed
+MP Cost: 48
+Description: Fire a ball of light and attack 3 zones
+Level Gained: 40
+Gained By: Puttimon, Kyubimon, Seasarmon, Mega Gargomon, Cannondramon, Eaglemon, Valkyrimon
+Light Wave
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 135
+Description: Reduce attack in 4 zones with waves of light
+Level Gained: 44
+Gained By: Calumon, Tyilinmon, Neptunmon, Babamon
+Starlight
+Effect & Range: 76, (XOOOX) Fixed
+MP Cost: 48
+Description: Blow up 3 zones with starlight energy
+Level Gained: 30
+Gained By: Sunmon, Gatomon, Wizardmon, Rapidmon, Kabukimon
+Holy Bolt
+Effect & Range: 25, (XXOXX) Selectable
+MP Cost: 10
+Description: Fire a small ball of light and attack 1 zone
+Level Gained: 6
+Gained By: Tapirmon, PawnChessmon (White), Coronamon, Unimon
+Holy Hand
+Effect & Range: 36, (XXOXX) Selectable
+MP Cost: 27
+Description: Attack 1 zone with a fist of holy power
+Level Gained: 30
+Gained By: Salamon, Apemon, Starmon, Monzaemon, Kongoumon
+Grand Cross
+Effect & Range: 29, (XXOXX) Selectable
+MP Cost: 12
+Description: Slash 1 zone with holy power and administer justice
+Level Gained: 17
+Gained By: Renamon, Kudamon, Coronamon, Angemon
+Flash Ray
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 62
+Description: Confuse enemies in 3 zones with flashing light (Confuse)
+Level Gained: 33
+Gained By: Kudamon, Seasarmon, Piximon, Deramon, Lampmon, PrinceMamemon, Magna Dramon
+Celestial Cross
+Effect & Range: 99, (XXOXX) Selectable
+MP Cost: 46
+Description: Slash 1 zone and administer the justice of light
+Level Gained: 41
+Gained By: Angemon, Angewomon, Taomon, Lucemon Chaos Mode, BishopChessmon, Flaremon, Kongoumon, Kuzuhamon
+Celestial Hand
+Effect & Range: 73, (XXOOX) Selectable
+MP Cost: 50
+Description: Attack 2 zones with a fist of holy power
+Level Gained: 43
+Gained By: Angemon, Monzaemon, Angewomon, SuperStarmon, Lucemon Chaos Mode, Flaremon, Magnamon, Pharaohmon
+Raging Light
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist light in 2 zones with the power of light
+Level Gained: 28
+Gained By: Gatomon, Firamon, Seraphimon
+Holy Slash
+Effect & Range: 80, (XOOOX) Selectable
+MP Cost: 70
+Description: Slash 3 zones with a strike filled with holy power
+Level Gained: 42
+Gained By: Piximon, MagnaAngemon, Tyilinmon, Knightmon, Sakuyamon, Ophanimon
+Fatal Cross
+Effect & Range: 124, (XOOOX) Selectable
+MP Cost: 133
+Description: Slash 3 zones with strong holy power
+Level Gained: 61
+Gained By: Angewomon, Tyilinmon, Gallantmon, Anubismon, Chronomon Holy Mode, Apollomon, Chaosmon
+Warning of Light
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 93
+Description: Attack with power of light in 3 zones and reduce Spirit
+Level Gained: 40
+Gained By: MagnaAngemon, BishopChessmon, Kongoumon, Ophanimon, Babamon, Kuzuhamon
+Royal Cannon
+Effect & Range: 160, (OOOOO) Fixed
+MP Cost: 220
+Description: Fire powerful balls of light and destroy 5 zones
+Level Gained: 80
+Gained By: Magnamon, Omnimon, Gallantmon Crimson Mode, Sleipmon, Duftmon
+Fatal Cannon
+Effect & Range: 120, (XOOOO) Selectable
+MP Cost: 137
+Description: Fire a ball of light and attack 4 zones with purifying energy
+Level Gained: 56
+Gained By: Shakkoumon, Phoenixmon, Omnimon, Seraphimon, Sakuyamon, Ophanimon, Eaglemon, Goldramon, Magna Dramon
+Starlight EX
+Effect & Range: 138, (OOOOO) Fixed
+MP Cost: 197
+Description: Gather pure star light and destroy 5 zones
+Level Gained: 70
+Gained By: Phoenixmon, Seraphimon, Magna Dramon, Chronomon Holy Mode, MirageGaogamon Burst Mode
+2x
+Shine Slash
+Effect & Range: 115, (XOXOX) Selectable
+MP Cost: 165
+Description: Slash 2 zones with shining holy power
+Level Gained: 60
+Gained By: MagnaAngemon, Knightmon, Kongoumon, Imperialdramon Paladin Mode, Gallantmon, Gallantmon Crimson Mode, SL Angemon, Valkyrimon, Alphamon, ShineGreymon, Shine Greymon Burst Mode, Duftmon
+Fatal Hand
+Effect & Range: 116, (XXOOX) Selectable
+MP Cost: 160
+Description: Attack 2 zones hard with holy fists
+Level Gained: 59
+Gained By: Lampmon, Cherubimon (Good), Goldramon, Pharaohmon, Alphamon, Apollomon
+3x
+Royal Slash
+Effect & Range: 145, (XXOXX) Selectable
+MP Cost: 260
+Description: Use a blade of holy power to slash 1 zone
+Level Gained: 90
+Gained By: Omnimon, Imperialdramon Paladin Mode, Gallantmon, Gallantmon Crimson Mode, Alphamon, Duftmon
+Buff
+Power of Love
+Effect & Range: —, (XXOXX) Selectable
+MP Cost: 88
+Description: Resurrect ally in 1 zone with a loving hug
+Level Gained: 41
+Gained By: Calumon, Frigimon, Monzaemon, Cherubimon (Good)
+Absolute Healing
+Effect & Range: —, (OOOOO) Fixed
+MP Cost: 170
+Description: Restore ally HP in 5 zones with holy power
+Level Gained: 60
+Gained By: Calumon, Seraphimon, Magna Dramon, Chronomon Holy Mode
+Purification
+Effect & Range: —, (OOOOO) Fixed
+MP Cost: 135
+Description: Restore HP and status disorder in 5 zones
+Level Gained: 57
+Gained By: Tapirmon, Kabukimon, Yatagaramon, Magnamon, Phoenixmon, Sakuyamon, Babamon, Varodurumon, Lotosmon
+Light Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise resist light in 3 zones with power of light
+Level Gained: 30
+Gained By: Renamon, Gatomon, Kyubimon, Gallantmon
+Mental Cure
+Effect & Range: —, (XXOXX) Selectable
+MP Cost: 140
+Description: Restore MP of ally in 1 zone with power of light
+Level Gained: 48
+Gained By: Kudamon, Angewomon, Lampmon, Plesiomon, Eaglemon, Rosemon Burst Mode
+Saint Heal
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 140
+Description: Restore HP of allies in 4 zones with holy power
+Level Gained: 35
+Gained By: Seasarmon, MagnaAngemon, Ophanimon
+Lore of Light
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 110
+Description: Raise spirit of 4 zones with wisdom of light
+Level Gained: 50
+Gained By: Sorcerymon, Scorpiomon, Taomon, Cherrymon, Jijimon, KingChessmon
+Light Mandala
+Effect & Range: —, (XOOOX) Fixed
+MP Cost: 250
+Description: Barrier raises all resistance of allies in 5 zones
+Level Gained: 60
+Gained By: Sakuyamon, Kuzuhamon
+Dark
+1x
+Pit Crusher
+Effect & Range: 78, (XOXOX) Selectable
+MP Cost: 63
+Description: Destroy 2 zones of data with arrows of darkness (Paralyze)
+Level Gained: 38
+Gained By: Pagumon, Dokugumon, SkullGreymon, Myotismon, Datamon, Infermon, Crescemon
+Death Cannon
+Effect & Range: 101, (XOOOX) Selectable
+MP Cost: 99
+Description: Burn 3 zones with a cannon attack of darkness
+Level Gained: 45
+Gained By: Kuramon, Devimon, SkullGreymon, BlackRapidmon, Kimeramon, Garbagemon, Diaboromon, Cannondramon, Dark Dramon, Millenniummon
+Dark Claw
+Effect & Range: 79, (XXOOX) Selectable
+MP Cost: 48
+Description: Slash 2 zones with claws of darkness (Poison)
+Level Gained: 30
+Gained By: Tsumemon, Keramon, Devimon, Bakemon, Raremon, DKTyrannomon, DKLizardmon, Sangloupmon, Wendigomon, Octomon, IceDevimon, Devidramon, Dokugumon, SkullGreymon, Myotismon, LadyDevimon, Marine Devimon, Kimeramon, EXTyrannomon, Argomon Ultimate, Diaboromon, Millenniummon, Megidramon
+Black Blast
+Effect & Range: 45, (XXOXX) Selectable
+MP Cost: 28
+Description: Attack 1 zone with an energy ball of darkness
+Level Gained: 30
+Gained By: Moonmon, Tsukaimon, DoKunemon, Devimon, Raremon, Roachmon, Minotarumon, Octomon, Centarumon, Piximon, Ponchomon
+Nightmare
+Effect & Range: 99, (XOOOX) Selectable
+MP Cost: 108
+Description: Attack 3 zones with nightmare, reducing all resistance
+Level Gained: 45
+Gained By: Tapirmon, Vilemon, Digitamamon, Devitamamon
+Shadow Claw
+Effect & Range: 27, (XXOXX) Selectable
+MP Cost: 12
+Description: Slash 1 zone with a claw of darkness (Poison)
+Level Gained: 12
+Gained By: DemiDevimon, Keramon, Aruraumon, Dracmon, Lunamon, Bakemon, Vilemon, DKLizardmon, Sangloupmon, Aurumon
+Raging Darkness
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist dark in 2 zones with power of darkness
+Level Gained: 28
+Gained By: DemiDevimon, Lopmon, Tsukaimon, DoKunemon, Bakemon, Kurisarimon, Vilemon, Lekismon, Shine Greymon Ruin Mode
+Dark Whisper
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 122
+Description: Reduce Spirit in 4 zones with sweet words of darkness
+Level Gained: 52
+Gained By: DemiDevimon, Dragomon, Myotismon, Phantomon, Puppetmon, MaloMyotismon, Moon=Millenniummon, Lotosmon
+Dark Crusher
+Effect & Range: 29, (XXOXX) Selectable
+MP Cost: 12
+Description: Destroy data in 1 zone with arrow of darkness (Paralyze)
+Level Gained: 11
+Gained By: Hagurumon, Keramon, Dracmon, Lunamon, Raremon, Gesomon
+Poison Powder
+Effect & Range: 43, (XOOOO) Selectable
+MP Cost: 90
+Description: Attack 4 zones by scattering poisonous powder (Poison)
+Level Gained: 35
+Gained By: Aruraumon, Mushroomon, DoKunemon, Flymon, RedVegiemon, Dokugumon, Arukenimon
+Junk Attack
+Effect & Range: 38, (XXOXX) Selectable
+MP Cost: 24
+Description: A dangerous attack at 1 zone throwing your poop
+Level Gained: 25
+Gained By: Numemon, Veggiemon, Sukamon, Roachmon, PlatinumSukamon, Geremon, Nanimon
+Cursed Slash
+Effect & Range: 51, (XXOXX) Selectable
+MP Cost: 39
+Description: Slash 1 zone with cursing power (Sleep)
+Level Gained: 34
+Gained By: Kurisarimon, Weedmon, Musyamon, Dragomon, Karatenmon, Vajiramon, Anubismon
+Dark Blast
+Effect & Range: 83, (XXOOX) Selectable
+MP Cost: 62
+Description: Attack 2 zones with energy balls of condensed darkness
+Level Gained: 40
+Gained By: DKLizardmon, Etemon, LadyDevimon, Mummymon, Infermon, BlackRapidmon, Marine Devimon, Vademon, EXTyrannomon, Argomon Ultimate, MetalEtemon, Ghoulmon, Beelzemon
+Chaos Slash
+Effect & Range: 93, (XXOOX) Selectable
+MP Cost: 76
+Description: Slash 2 zones with the power of chaos (Confusion)
+Level Gained: 45
+Gained By: Musyamon, Marine Devimon, Gigadramon, Phantomon, Vajiramon, Crescemon, Piedmon, Zanbamon, Chaos Gallantmon, BlackWarGreymon, Skull Mammothmon, Megidramon, Shine Greymon Ruin Mode, Chaosmon
+D Mag. Square
+Effect & Range: —, (OOOOO) Fixed
+MP Cost: 155
+Description: Reduce resistance in 5 zones with dark ritual
+Level Gained: 62
+Gained By: Myotismon, LadyDevimon, Piedmon, Lilithmon, Dianamon, Beelzemon Blast Mode
+Chaos Blast
+Effect & Range: 120, (XOOOX) Selectable
+MP Cost: 124
+Description: Attack 3 zones with energy balls of darkness and chaos
+Level Gained: 60
+Gained By: LadyDevimon, Lucemon Chaos Mode, MetalEtemon, VenomMyotismon, Cherubimon (Evil), Armageddemon, MaloMyotismon, Black SaintGargomon, Beelzemon, Dark Dramon, Ghoulmon (Black), Shine Greymon Ruin Mode, Lotosmon, Argomon Mega, Chaosmon
+Demon Blast
+Effect & Range: 146, (OOOOO) Fixed
+MP Cost: 205
+Description: Destroy 5 zones with energy balls of darkness
+Level Gained: 80
+Gained By: Lucemon Chaos Mode, Creepymon, MaloMyotismon, Beelzemon, ZeedMillenniummon, Ghoulmon (Black), Lilithmon, Beelzemon Blast Mode
+Demon Slash
+Effect & Range: 141, (XOOOX) Selectable
+MP Cost: 162
+Description: Slash 3 zones with the power of darkness
+Level Gained: 65
+Gained By: Creepymon, Cherubimon (Evil), MaloMyotismon, Zanbamon, Apocalymon, Ghoulmon (Black), Chaos Gallantmon, Dianamon, Argomon Mega
+Destroy Cannon
+Effect & Range: 145, (XOOOX) Fixed
+MP Cost: 166
+Description: Destroy space-time with a dark cannon in 3 zones
+Level Gained: 70
+Gained By: Devitamamon, Armageddemon, Ebemon, Gulfmon, ZeedMillenniummon, Ghoulmon (Black), Millenniummon, Moon=Millenniummon, Shine Greymon Ruin Mode
+2x
+Demon Claw
+Effect & Range: 128, (XXOOX) Selectable
+MP Cost: 180
+Description: Slash 2 zones with claws of darkness (Poison)
+Level Gained: 60
+Gained By: Matadormon, Creepymon, VenomMyotismon, Ghoulmon, Devitamamon, Beelzemon, Gulfmon, ZeedMillenniummon, Lilithmon, Beelzemon Blast Mode
+3x
+Random Poop
+Effect & Range: 48, (XXOXX) Selectable
+MP Cost: 109
+Description: Repeatedly throw your poop at 1 zone
+Level Gained: 38
+Gained By: Numemon, Sukamon, PlatinumSukamon, Garbagemon
+01 Crusher
+Effect & Range: 92, (XXOXX) Selectable
+MP Cost: 187
+Description: Destroy 1 zone with arrow of darkness (Paralyze)
+Level Gained: 55
+Gained By: Digitamamon, EXTyrannomon, Piedmon, VenomMyotismon, Ghoulmon, Devitamamon, Diaboromon, Parasimon, Apocalymon, ZeedMillenniummon, Skull Mammothmon, Dianamon, Ravemon Burst Mode
+Buff
+Black Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise resist dark in 3 zones with power of darkness
+Level Gained: 30
+Gained By: Tsukaimon, Candlemon, Devimon, Raremon, Musyamon, Infermon, Phantomon, Chaos Gallantmon
+Dark Savior
+Effect & Range: —, (XXOXX) Selectable
+MP Cost: 58
+Description: Resurrect ally in 1 zone with a hand of darkness
+Level Gained: 30
+Gained By: Dracmon, Anubismon, Lilithmon
+Dark Knowledge
+Effect & Range: —, (XXOOX) Selectable
+MP Cost: 84
+Description: Give knowledge of darkness and raise Spirit of 2 zones
+Level Gained: 35
+Gained By: Bakemon, Wizardmon, RedVegiemon, Etemon, Mummymon, Aurumon, Piedmon
+Dark Counter
+Effect & Range: —, (XXXOX) Selectable
+MP Cost: 150
+Description: Give a countering effect to allies with darkness in 2 zones
+Level Gained: 36
+Gained By: Kurisarimon, Ebidramon, Hyogamon, Musyamon, Phantomon, VenomMyotismon, Dark Dramon, Chaos Gallantmon
+Mental Essence
+Effect & Range: —, (XXXOX) Selectable
+MP Cost: 120
+Description: Restore MP of ally in 1 zone with dark power
+Level Gained: 38
+Gained By: Kurisarimon, Woodmon, Antylamon, Crescemon, Argomon Mega
+Pyramid Power
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 180
+Description: Raise all resistance in 3 zones with mysterious power
+Level Gained: 55
+Gained By: Mummymon, Anubismon, Pharaohmon
+Fire
+1x
+Giga Breath
+Effect & Range: 89, (XXOOX) Selectable
+MP Cost: 53
+Description: Unleash a big fire ball and burn 2 zones
+Level Gained: 37
+Gained By: Koromon, Botamon, DotAgumon, Candlemon, Birdramon, Flarerizamon, GeoGreymon, Monochromon, MetalGreymon, WarGrowlmon, RiseGreymon, Allomon, Flaremon
+Mega Napalm
+Effect & Range: 55, (XOOOX) Fixed
+MP Cost: 47
+Description: Create fire pillars with fireballs in 3 zones
+Level Gained: 37
+Gained By: Gigimon, Agumon, Guilmon, Greymon, Tyrannomon, Garurumon, Wizardmon, Growlmon, Kyubimon, DKTyrannomon, Flarerizamon, Monochromon, Golemon, Monochromon, BlackWarGrowlmon, Shadramon, Flamedramon
+Dramon Claw
+Effect & Range: 48, (XXOXX) Selectable
+MP Cost: 29
+Description: Slash 1 zone with claws filled with the power of a dragon
+Level Gained: 33
+Gained By: Monodramon, Guilmon, BlackAgumon, DotAgumon, Greymon, Tyrannomon, ExVeemon, Growlmon, Reptiledramon, Flarerizamon, GeoGreymon, Veedramon, WarGrowlmon, Triceramon, BlackWarGrowlmon, MameTyramon, Allomon, Flamedramon
+Small Breath
+Effect & Range: 24, (XXOXX) Selectable
+MP Cost: 10
+Description: Unleash a small fireball and attack 1 zone
+Level Gained: 4
+Gained By: Agumon, Gabumon, Biyomon, Terriermon, Impmon, BlackAgumon, Muchomon, Solarmon, Candlemon, Coronamon, Kyubimon
+Raging Flame
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist fire in 2 zones with power of flame
+Level Gained: 28
+Gained By: Agumon, Candlemon, Firamon, Shadramon
+Tiny Bomb
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 11
+Description: Throw a small bomb and blow up 1 zone
+Level Gained: 15
+Gained By: ToyAgumon, Keramon, Falcomon, Goburimon, Lalamon, ToyAgumon (Black), Mushroomon, BomberNanimon, Kiwimon
+Normal Missile
+Effect & Range: 51, (XXOXX) Selectable
+MP Cost: 31
+Description: Fire a missile and engulf 1 zone in flames
+Level Gained: 27
+Gained By: Kamemon, Guardromon, Tankmon, Andromon
+Normal Bomb
+Effect & Range: 43, (XXOOX) Selectable
+MP Cost: 28
+Description: Throw two small bombs and blow up 2 zones
+Level Gained: 30
+Gained By: Wizardmon, BomberNanimon, Tankmon, Golemon, Firamon, Toucanmon, Cherrymon, Seahomon
+Twin Missile
+Effect & Range: 88, (XOXOX) Selectable
+MP Cost: 47
+Description: Fire 2 missiles and engulf 2 zones in flames
+Level Gained: 42
+Gained By: Guardromon, Andromon, Rapidmon, BlackRapidmon, Magnamon, GigaSeadramon, MetalGarurumon, MachineDramon, HiAndromon
+Screw D Claw
+Effect & Range: 121, (XOOOX) Selectable
+MP Cost: 119
+Description: Slash 3 zones with dragon claws using a spinning charge
+Level Gained: 55
+Gained By: Cyberdramon, WarGreymon, Dorugoramon, BlackWarGreymon
+Mega Meteo Fall
+Effect & Range: 132, (OOOOO) Fixed
+MP Cost: 182
+Description: Drop meteors on 5 zones and cause devastation
+Level Gained: 63
+Gained By: SuperStarmon, Meteormon, Dorugoramon, BlackWarGreymon, GrandisKuwagamon, Chronomon Holy Mode
+Geomgm Napalm
+Effect & Range: 127, (XOOOO) Selectable
+MP Cost: 146
+Description: Create fire pillars of magma with fire balls in 4 zones
+Level Gained: 60
+Gained By: Vermilimon, Creepymon, Imperialdramon Dragon Mode, Armageddemon, GrandisKuwagamon, Megidramon, Shine Greymon Burst Mode
+2x
+Double D Claw
+Effect & Range: 74, (XXOXX) Selectable
+MP Cost: 92
+Description: Slash 1 zone with powerful dragon claws
+Level Gained: 44
+Gained By: Greymon, Growlmon, Cyberdramon, Paildramon, Triceramon, AeroVeedramon, Flamedramon, WarGreymon, Imperialdramon Dragon Mode, Imperialdramon Fighter Mode, Imperialdramon Dragon Mode (Black), Dorugoramon, BlackWarGreymon
+Meteor Fall
+Effect & Range: 83, (XOXOX) Selectable
+MP Cost: 115
+Description: Summon a meteor and burn 2 zones
+Level Gained: 45
+Gained By: Birdramon, Starmon, Okuwamon, Dinobeemon
+Volcano Napalm
+Effect & Range: 71, (XOXOX) Selectable
+MP Cost: 108
+Description: Create fire pillars with fireballs in 2 zones
+Level Gained: 46
+Gained By: Volcanomon, WarGrowlmon, Kimeramon, Shadramon, Vermilimon, Lanksmon, WarGreymon, Cannondramon
+Giga Missile
+Effect & Range: 118, (XOOOX) Selectable
+MP Cost: 182
+Description: Fire potent missiles and engulf 3 zones in flames
+Level Gained: 70
+Gained By: MetalGreymon, Gigadramon, MetalTyrannomon, GigaSeadramon, MetalGarurumon, HiAndromon, Mega Gargomon, Black SaintGargomon
+Burst Breath
+Effect & Range: 137, (XXOOX) Selectable
+MP Cost: 193
+Description: Unleash a bursting fireball burning 2 zones
+Level Gained: 70
+Gained By: WarGreymon, Imperialdramon Fighter Mode, Imperialdramon Dragon Mode (Black), Apollomon, Shine Greymon Burst Mode
+3x
+Gatling Bomb
+Effect & Range: 63, (XXOXX) Selectable
+MP Cost: 121
+Description: Fire a bomb into 1 zone attacking from the inside
+Level Gained: 55
+Gained By: BomberNanimon, Deputymon, MetalMamemon, Datamon, Mummymon, RookChessmon, Puppetmon, Mega Gargomon, Black SaintGargomon, Apocalymon
+Buff
+Fire Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise resist fire in 3 zones with power of flame
+Level Gained: 30
+Gained By: Birdramon, Monochromon, Lanksmon
+Blazing Power
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 110
+Description: Raise Attack of allies in 3 zones with power of flame
+Level Gained: 35
+Gained By: Dinohumon, MameTyramon, Vermilimon, Lanksmon, Flaremon, Imperialdramon Dragon Mode, Imperialdramon Paladin Mode, Imperialdramon Dragon Mode (Black)
+Burst Counter
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 180
+Description: Give a countering effect to allies with flame in 3 zones
+Level Gained: 45
+Gained By: HerculesKabuterimon, Gallantmon Crimson Mode, Goldramon, KingChessmon, Apollomon, Shine Greymon Burst Mode
+Earth
+1x
+Charge
+Effect & Range: 3, (XXOXX) Selectable
+MP Cost: 3
+Description: Tackle an enemy in 1 zone
+Level Gained: 2
+Gained By: Chicchimon, Koromon, Tsunomon, Poyomon, Tokomon, Tanemon, Pagumon, Kapurimon, Kuramon, Puttimon, Chibomon, Dorimon, Calumon, Gigimon, Gummymon, Kokomon, Tsumemon, Minomon, Wanyamon, Budmon, Botamon, Sunmon, Moonmon
+Heavy Tackle
+Effect & Range: 73, (XOOOX) Selectable
+MP Cost: 59
+Description: Attack 3 zones with a heavy tackle
+Level Gained: 36
+Gained By: Tsunomon, Ankylomon, Akatorimon, Minotarumon, Diatrymon, Fugamon, Tsuchidarumon, Tortamon, Golemon, Volcanomon, Monzaemon, Etemon, Digitamamon, Mammothmon, ShogunGekomon, MegaKabuterimon (Red), DoruGreymon, Triceramon, Whamon (Ultimate), Big Mamemon, Vermilimon, Brachiomon, Allomon, Skull Mammothmon, Susanoomon, Argomon Mega
+Sharp Fang
+Effect & Range: 50, (XXOXX) Selectable
+MP Cost: 32
+Description: Bite an enemy in 1 zone with sharp fangs
+Level Gained: 34
+Gained By: Wanyamon, Tyrannomon, Garurumon, Grizzmon, Dorugamon, Reptiledramon, DKTyrannomon, DKLizardmon, Flarerizamon, GeoGreymon, Gaogamon, NiseDrimogemon, Coelamon, Devidramon, WarGarurumon (Black), WarGarurumon (Blue)
+Claw Attack
+Effect & Range: 22, (XXOXX) Selectable
+MP Cost: 8
+Description: Scratch 1 zone with long claws
+Level Gained: 3
+Gained By: Agumon, Gabumon, Tentomon, Otamamon, Gomamon, Armadillomon, Renamon, Kumamon, SnowAgumon, BlackAgumon
+Light Tackle
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 9
+Description: Attack 1 zone with a swift tackle
+Level Gained: 2
+Gained By: Veemon, Dorumon, Betamon, Patamon, Biyomon, Gotsumon, Tapirmon, DemiDevimon, ToyAgumon, Salamon, Wormmon, Armadillomon, Terriermon, Lopmon, Impmon, Goburimon, Kumamon, Muchomon, Gizamon, ToyAgumon (Black), Tsukaimon, PawnChessmon (Black), PawnChessmon (White), DoKunemon, Veggiemon, Kiwimon
+Middle Tackle
+Effect & Range: 43, (XOOOX) Selectable
+MP Cost: 39
+Description: Attack 3 zones with a powerful tackle
+Level Gained: 27
+Gained By: Veemon, Guilmon, Armadillomon, Kamemon, Greymon, Tyrannomon, Kabuterimon, Garurumon, ExVeemon, Ankylomon, Seasarmon, Dorugamon, Unimon, GeoGreymon, Sunflowmon, Drimogemon, MoriShellmon, Tsuchidarumon, Tortamon, Shellmon, SandYanmamon, Nanimon, Monochromon, JungleMojyamon, Toucanmon, Vajiramon, Flamedramon, Kenkimon
+Sharp Claw
+Effect & Range: 38, (XXOOX) Selectable
+MP Cost: 28
+Description: Slash 2 zones with long sharp claws
+Level Gained: 22
+Gained By: Guilmon, Gabumon, Armadillomon, SnowGoblimon, BlackAgumon, Kudamon, Dracmon, Garurumon, Sukamon, Kokatorimon, Gatomon, ExVeemon, Birdramon, Dorugamon, Akatorimon, Gaogamon, Diatrymon, Peckmon, Drimogemon, NiseDrimogemon, Wendigomon, Fugamon, Gesomon, Coelamon, Saberdramon, Firamon, Prairiemon
+Raging Beast
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist earth in 2 zones with the power of a beast
+Level Gained: 28
+Gained By: Dorumon, Terriermon, Goburimon, Ogremon, Minotarumon, JungleMojyamon
+Small Cutter
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 10
+Description: Slash 1 zone
+Level Gained: 4
+Gained By: Gabumon, Palmon, Hawkmon, Falcomon, Kotemon, Crabmon
+Pummel Whack
+Effect & Range: 61, (XOOOX) Selectable
+MP Cost: 48
+Description: Unleash fatal beast punches at 3 zones
+Level Gained: 33
+Gained By: Kumamon, Gaomon, Ogremon, Grizzmon, Minotarumon, Fugamon, WarGarurumon (Black), Pandamon, Ponchomon
+Cross Cutter
+Effect & Range: 42, (XXOXX) Selectable
+MP Cost: 26
+Description: Slash 1 zone with a crisscross attack
+Level Gained: 30
+Gained By: Crabmon, Kokatorimon, Kuwagamon, Dinohumon, Kiwimon, Akatorimon, Ikkakumon, Sunflowmon, Peckmon, NiseDrimogemon, Ebidramon, Shellmon, SandYanmamon, Weedmon, Okuwamon
+Power Cutter
+Effect & Range: 73, (XXOOX) Selectable
+MP Cost: 43
+Description: Slash 2 zones with powerful quick crisscross attacks
+Level Gained: 40
+Gained By: DotAgumon, Kabuterimon, Ankylomon, Growlmon, Drimogemon, Ebidramon, Okuwamon, Scorpiomon, Blossomon, Antylamon, Kyukimon, Divermon, Triceramon, Deramon, Zudomon, Toucanmon, Lilamon, Matadormon, Garbagemon, Giromon, Prairiemon, SaberLeomon, Neptunmon, Bantyo Leomon, Skull Mammothmon, GrandisKuwagamon, Minervamon
+Winning Punch
+Effect & Range: 85, (XXOOX) Selectable
+MP Cost: 65
+Description: Unleash quick fatal punches to 2 zones
+Level Gained: 41
+Gained By: Ogremon, Togemon, ExVeemon, JungleMojyamon, Veedramon, Volcanomon, Pandamon, Divermon, Mamemon, Meteormon, MachGaogamon, GrapLeomon, Ponchomon, MetalEtemon, Pukumon, Bantyo Leomon, Vikemon
+Beast King Fist
+Effect & Range: 70, (XXOOX) Selectable
+MP Cost: 45
+Description: Unleash fatal lion punches at 2 zones
+Level Gained: 35
+Gained By: Leomon, GrapLeomon
+Forlorn Fang
+Effect & Range: 122, (XXOXX) Selectable
+MP Cost: 99
+Description: Crush the enemy in 1 zone with sharp fangs
+Level Gained: 52
+Gained By: Reptiledramon, Devidramon, SkullGreymon, WarGarurumon (Black), Kimeramon, MetalTyrannomon, Allomon, Gulfmon, Megidramon
+Beast Whack
+Effect & Range: 148, (XOOOO) Selectable
+MP Cost: 155
+Description: Destroy 4 zones with the power of lion and beast
+Level Gained: 75
+Gained By: Bantyo Leomon, MirageGaogamon Burst Mode, Beelzemon Blast Mode, Minervamon, Duftmon
+2x
+Gatling Punch
+Effect & Range: 22, (XXOXX) Selectable
+MP Cost: 15
+Description: Unleash a hard fist punch to 1 zone
+Level Gained: 8
+Gained By: Monodramon, Veemon, Salamon, Terriermon, Lopmon, Penguinmon, Goburimon, Kumamon, Gaomon, Coronamon, Ogremon, Leomon, Togemon, Gargomon, Icemon, Gawappamon, Tsuchidarumon, Woodmon, RedVegiemon, Nanimon, Mojyamon, JungleMojyamon, Veedramon, Etemon
+Cyclone Claw
+Effect & Range: 66, (XXOXX) Selectable
+MP Cost: 89
+Description: Slash 1 zone with claws as swift as a whirlwind
+Level Gained: 40
+Gained By: Aquilamon, Grizzmon, Gaogamon, Drimogemon, Saberdramon, WarGarurumon (Black), WarGarurumon (Blue), Garudamon, Taomon, Pandamon, DoruGreymon, Matadormon, Lanksmon, Yatagaramon, Prairiemon, SaberLeomon, ShineGreymon, MirageGaogamon, DotMirageGaogamon
+Royal Claw
+Effect & Range: 109, (XXOOX) Selectable
+MP Cost: 152
+Description: Slash 2 zone with very sharp and hard claws
+Level Gained: 60
+Gained By: WarGarurumon (Blue), SaberLeomon, Gryphonmon, Jijimon, MirageGaogamon
+3x
+Flash Punch
+Effect & Range: 102, (XXOXX) Selectable
+MP Cost: 190
+Description: Unleash a fatal punch with fighting spirit
+Level Gained: 66
+Gained By: Mamemon, Pukumon, PrinceMamemon, Bantyo Leomon, Goldramon, Vikemon, Susanoomon
+Buff
+Beast Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise resist earth in 3 zones with power of beast
+Level Gained: 30
+Gained By: Dorumon, Shamamon, Leomon, Ankylomon
+Cure Poison
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 45
+Description: Magic restores HP and cures poison in 3 zones
+Level Gained: 32
+Gained By: Shamamon, Dinohumon
+Wind
+1x
+Top Gun
+Effect & Range: 82, (XXOXX) Selectable
+MP Cost: 38
+Description: Unleash a ball of exploding hot air in 1 zone
+Level Gained: 39
+Gained By: Tokomon, Unimon, Centarumon, Silphymon
+Air Gun
+Effect & Range: 22, (XXOXX) Selectable
+MP Cost: 9
+Description: Unleash a ball of exploding air in 1 zone
+Level Gained: 3
+Gained By: Monodramon, Patamon, Unimon
+Small Tornado
+Effect & Range: 28, (XOXOX) Selectable
+MP Cost: 13
+Description: Cause a small typhoon and attack 2 zones
+Level Gained: 13
+Gained By: Monodramon, Patamon, Hawkmon, Renamon, Shamamon, Gaomon, Airdramon
+Air Cutter
+Effect & Range: 50, (XXOOX) Selectable
+MP Cost: 33
+Description: Slash 2 zones with sharp blades of air
+Level Gained: 28
+Gained By: Veemon, Hawkmon, Kotemon, Airdramon, Kokatorimon, Stingmon, Reppamon, Saberdramon, Kogamon, Veedramon, Pipismon, Silphymon
+Wind Claw
+Effect & Range: 21, (XXOXX) Selectable
+MP Cost: 8
+Description: Slash 1 zone with claws with the power of the wind
+Level Gained: 9
+Gained By: Biyomon, Hawkmon, Falcomon, Penguinmon, Muchomon, Dfalcomon, Reppamon
+Sonic Voice
+Effect & Range: 43, (XXOXX) Selectable
+MP Cost: 23
+Description: Unleash a sonic ball and attack 1 zone with its impact
+Level Gained: 29
+Gained By: Salamon, Gekomon, Vilemon, Aquilamon, Diatrymon, Wendigomon, Tortamon, Dolphmon, Pipismon, MachGaogamon, Seahomon
+Raging Wind
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist wind in 2 zones with power of wind
+Level Gained: 28
+Gained By: Muchomon, Aquilamon
+Gashing Breeze
+Effect & Range: 47, (XXOOX) Selectable
+MP Cost: 31
+Description: Slash 2 zones by causing a vacuum storm
+Level Gained: 33
+Gained By: Dfalcomon, Reppamon, Fugamon, Ninjamon, Antylamon, Karatenmon, Kyukimon, Shurimon
+Hyper-Tornado
+Effect & Range: 118, (XOOOO) Selectable
+MP Cost: 134
+Description: Cause a strong typhoon and blow away 4 zones
+Level Gained: 47
+Gained By: Airdramon, Gaogamon, DoruGreymon, Yatagaramon, Lampmon, Valkyrimon, Justimon, Varodurumon
+Big Tornado
+Effect & Range: 77, (OXOXO) Fixed
+MP Cost: 48
+Description: Cause a big typhoon and attack 3 zones
+Level Gained: 37
+Gained By: Angemon, Gargomon, SandYanmamon, Yatagaramon
+Petrifier
+Effect & Range: 53, (XOOOX) Fixed
+MP Cost: 82
+Description: Stare with evil eyes and petrify 3 zones (Paralyze)
+Level Gained: 34
+Gained By: Kokatorimon, Akatorimon, Devidramon, Pharaohmon
+High Sonic Voice
+Effect & Range: 69, (XOOOX) Fixed
+MP Cost: 62
+Description: Unleash a strong sonic ball and attack 3 zones
+Level Gained: 45
+Gained By: Diatrymon, Wendigomon, Volcanomon, ShogunGekomon, Pipismon, MachGaogamon, Shadramon, Gryphonmon, Plesiomon, Gulfmon
+DL Gash Breeze
+Effect & Range: 75, (XXOOX) Fixed
+MP Cost: 108
+Description: Slash 2 zones by causing multiple vacuum storms
+Level Gained: 48
+Gained By: Reppamon, Karatenmon, Kyukimon, SL Angemon, Ravemon
+Top Gun Bomb
+Effect & Range: 124, (XOOOX) Fixed
+MP Cost: 116
+Description: Unleash a dense ball of air in 3 zones
+Level Gained: 62
+Gained By: Deramon, Silphymon, AeroVeedramon, Phoenixmon, Gryphonmon, Valkyrimon, Varodurumon, Chaosmon
+Dbl Crescent
+Effect & Range: 128, (XXOXX) Fixed
+MP Cost: 116
+Description: Slash 4 zones with vacuum blades from both hands
+Level Gained: 60
+Gained By: MirageGaogamon, MirageGaogamon Burst Mode, DotMirageGaogamon, Minervamon
+2x
+Crescent Cutter
+Effect & Range: 64, (XXOOX) Selectable
+MP Cost: 103
+Description: Slash 2 zones with multiple blades of air
+Level Gained: 38
+Gained By: Dfalcomon, Garudamon, Dinobeemon, Pipismon, AeroVeedramon, Argomon Ultimate, Zanbamon
+Spiral Claw
+Effect & Range: 103, (XXOXX) Selectable
+MP Cost: 132
+Description: Slash 1 zone with claws of tornado power
+Level Gained: 50
+Gained By: Peckmon, Garudamon, Silphymon, Aurumon, Gryphonmon, Eaglemon, Ravemon, Varodurumon, Ravemon Burst Mode
+3x
+Buff
+Sonic Counter
+Effect & Range: —, (XXOOX) Fixed
+MP Cost: 150
+Description: Give a countering effect to allies with wind in 2 zones
+Level Gained: 36
+Gained By: Chibomon, Gaomon, Togemon, Grizzmon, Ninjamon, WarGarurumon (Blue), AeroVeedramon, Knightmon, SaberLeomon, Jijimon, SL Angemon
+Healing Air
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 55
+Description: Wind restores HP and cures poison in 3 zones
+Level Gained: 36
+Gained By: Patamon, Airdramon, Wizardmon, Kyukimon
+Wind Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise resist wind in 3 zones with power of wind
+Level Gained: 30
+Gained By: Penguinmon, Saberdramon, Garudamon
+Mind Reader
+Effect & Range: —, (XXOOX) Selectable
+MP Cost: 115
+Description: Read the enemy's mind to speed up allies in 2 zones
+Level Gained: 45
+Gained By: Apemon, Kogamon, Taomon, Karatenmon, Aurumon, Tyilinmon, Jijimon
+Thunder
+1x
+Rain of Pollen
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 100
+Description: Reduce Attack in 3 zones with a strange secretion
+Level Gained: 27
+Gained By: Tanemon, Floramon, Aruraumon, Veggiemon, Geremon, Blossomon
+Power Blaster
+Effect & Range: 76, (XOOOX) Selectable
+MP Cost: 62
+Description: Fire large electric balls and attack 3 zones
+Level Gained: 44
+Gained By: Minomon, Thunderballmon, Megakabuterimon (Blue), MegaSeadramon, MegaKabuterimon (Red), Lilamon, HerculesKabuterimon, Ebemon, MetalSeadramon, Justimon
+Lullaby
+Effect & Range: —, (OOOOO) Fixed
+MP Cost: 111
+Description: Affect 5 zones with a song of sleep (Sleep)
+Level Gained: 30
+Gained By: Budmon, Lalamon, Frigimon
+Tiny Blaster
+Effect & Range: 24, (XXOXX) Selectable
+MP Cost: 9
+Description: Produce a small electric ball and attack 1 zone
+Level Gained: 7
+Gained By: Betamon, Tentomon, Floramon, Kunemon, Kokuwamon
+Thunder
+Effect & Range: 50, (XXOOX) Selectable
+MP Cost: 34
+Description: Summon thunder and attack 2 zones
+Level Gained: 28
+Gained By: Betamon, Shamamon, Yanmamon, Parrotmon, Sinduramon
+Surprise Blow
+Effect & Range: 28, (XOXOX) Selectable
+MP Cost: 18
+Description: Attack 2 zones with a sneaky attack
+Level Gained: 20
+Gained By: Biyomon, Wormmon, Penguinmon, Lalamon, Kunemon, Mushroomon, Togemon, Roachmon, Sunflowmon, NiseDrimogemon, MoriShellmon, Geremon, Woodmon, Snimon, Flymon, SandYanmamon, RedVegiemon, Weedmon, Ponchomon
+Electric Rage
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist thunder in 2 zones with power of electricity
+Level Gained: 28
+Gained By: Palmon, Kunemon, Kuwagamon, Flymon, Thunderballmon
+Unexpected Blow
+Effect & Range: 47, (OXOXO) Fixed
+MP Cost: 33
+Description: Attack 3 zones with unexpected moves
+Level Gained: 28
+Gained By: Palmon, Mushroomon, Apemon, MoriShellmon, Gesomon, Woodmon, Flymon, Sinduramon, Prairiemon
+Stun Whipping
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 32
+Description: Tie up enemies with vines and attack 2 zones (Paralyze)
+Level Gained: 31
+Gained By: Palmon, Floramon, Veggiemon, Weedmon, Arukenimon, Rosemon
+Thunder Claw
+Effect & Range: 42, (XXOOX) Selectable
+MP Cost: 29
+Description: Slash 2 zones with an electrified claw (Paralyze)
+Level Gained: 26
+Gained By: Tentomon, Aruraumon, Kabuterimon, Kuwagamon, Stingmon, Yanmamon, Parrotmon
+Shock Net
+Effect & Range: 25, (OOOOO) Fixed
+MP Cost: 68
+Description: Attack 5 zones with electrified net reducing Speed
+Level Gained: 30
+Gained By: Wormmon, Kunemon, Wizardmon, Kogamon, Dokugumon, Arukenimon
+Instant Blow
+Effect & Range: 81, (XOOOX) Selectable
+MP Cost: 63
+Description: Make a quick attack to 3 zones
+Level Gained: 36
+Gained By: Kuwagamon, Stingmon, Aquilamon, Roachmon, Megakabuterimon (Blue), Dinobeemon, Pandamon, Meteormon, Kabukimon, Boltmon, Zanbamon, Kuzuhamon, QueenChessmon
+Air Thunder
+Effect & Range: 85, (XOOOX) Selectable
+MP Cost: 70
+Description: Manipulate the air and drop thunder on 3 zones
+Level Gained: 40
+Gained By: Yanmamon, Parrotmon, Sinduramon, Cherubimon (Good), Cherubimon (Evil), Ravemon
+Drain Whipping
+Effect & Range: 54, (XXOXX) Selectable
+MP Cost: 69
+Description: Attack with a whip which absorbs HP (HP Drain)
+Level Gained: 44
+Gained By: Blossomon, Cherrymon, Vademon, Argomon Ultimate, Rosemon, Parasimon, Lotosmon
+F Temptation
+Effect & Range: 116, (XOOOO) Selectable
+MP Cost: 137
+Description: Attack 4 zones with energy of temptation (Confuse)
+Level Gained: 55
+Gained By: Lillymon, Rosemon, Rosemon Burst Mode
+Pollen Spray
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 85
+Description: Paralyze 4 zones with enchanted dance and sweet fragrance
+Level Gained: 41
+Gained By: Lilamon, Matadormon, Vademon
+Electro Blaster
+Effect & Range: 124, (XOOOO) Selectable
+MP Cost: 134
+Description: Seal strong electric power in a ball and attack 4 zones
+Level Gained: 60
+Gained By: HerculesKabuterimon, MirageGaogamon, MirageGaogamon Burst Mode, DotMirageGaogamon, Rosemon Burst Mode
+Glory Thunder
+Effect & Range: 148, (OOOOO) Fixed
+MP Cost: 208
+Description: Summon thunder to attack 5 zones
+Level Gained: 77
+Gained By: Cherubimon (Good), Cherubimon (Evil), Susanoomon, Ravemon Burst Mode
+2x
+Double Blaster
+Effect & Range: 38, (XXOXX) Selectable
+MP Cost: 68
+Description: Fire multiple electric balls to attack 1 zone
+Level Gained: 33
+Gained By: Kokuwamon, Kabuterimon, Gargomon, Yanmamon, Thunderballmon, Deputymon, Centarumon, Megakabuterimon (Blue), Lillymon, MegaKabuterimon (Red), Paildramon, Lilamon
+Wild TD Claw
+Effect & Range: 63, (XXOOX) Selectable
+MP Cost: 100
+Description: Slash 2 zones with electrified claws (Paralyze)
+Level Gained: 40
+Gained By: Stingmon, Okuwamon, MegaKabuterimon (Red), Dinobeemon, Sinduramon, HerculesKabuterimon, GrandisKuwagamon
+Electro Whipping
+Effect & Range: 110, (XXOOX) Selectable
+MP Cost: 156
+Description: Attack 2 zones with a whip that deludes enemies (Confuse)
+Level Gained: 62
+Gained By: Arukenimon, Rosemon, Babamon, Parasimon, Rosemon Burst Mode
+3x
+Buff
+Electric Shock
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 108
+Description: Resurrect ally in 3 zones with electric shocks
+Level Gained: 38
+Gained By: Tentomon, Kokuwamon
+Gaia Healing
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 150
+Description: Restore HP of allies in 4 zones with earth power
+Level Gained: 40
+Gained By: Wormmon, Floramon, Lalamon, Kiwimon, Tsuchidarumon, Megakabuterimon (Blue), Blossomon, Deramon, Cherrymon, Minervamon
+Electric Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise resist thunder in 3 zones with power of electricity
+Level Gained: 30
+Gained By: Thunderballmon, Parrotmon
+Water
+1x
+Rainbow Spit
+Effect & Range: 101, (XXOXX) Selectable
+MP Cost: 122
+Description: Spit mysterious foam at an enemy in 1 zone
+Level Gained: 60
+Gained By: Chicchimon, Koromon, Tsunomon, Poyomon, Tokomon, Tanemon, Pagumon, Kapurimon, Kuramon, Puttimon, Chibomon, Dorimon, Gigimon, Gummymon, Kokomon, Tsumemon, Minomon, Wanyamon, Budmon, Botamon, Sunmon, Moonmon
+Bubble Blow
+Effect & Range: 58, (XOOOO) Selectable
+MP Cost: 72
+Description: Spit large amounts of acid foam at an enemy in 4 zones
+Level Gained: 42
+Gained By: Poyomon, Gummymon, Kokomon, Brachiomon, Seahomon, MarineAngemon
+Acid Rain
+Effect & Range: 35, (XOOOX) Selectable
+MP Cost: 81
+Description: Attack 3 zones with acid rain and reduce Defense
+Level Gained: 30
+Gained By: Betamon, Gekomon, Geremon, KaratsukiNumemon, Brachiomon, Shaujinmon
+Frothier Spit
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 10
+Description: Spit a stronger acid foam at an enemy in 1 zone
+Level Gained: 9
+Gained By: Otamamon, Crabmon, Gizamon, Numemon, Gekomon
+Lullaby Bubble
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 103
+Description: Envelope 4 zones with bubbles of sleep (Sleep)
+Level Gained: 30
+Gained By: Otamamon, Gekomon
+Hydro Water
+Effect & Range: 25, (XXOXX) Selectable
+MP Cost: 9
+Description: Shoot a stream of water and attack 1 zone
+Level Gained: 5
+Gained By: Gomamon, Syakomon, Lunamon
+Ice Blast
+Effect & Range: 44, (XXOXX) Selectable
+MP Cost: 28
+Description: Attack an enemy in 1 zone with an ice arrow
+Level Gained: 16
+Gained By: Gomamon, Impmon, SnowGoblimon, SnowAgumon, Seadramon, Icemon, Hyogamon, IceDevimon, Mojyamon, Lekismon
+Double Wave
+Effect & Range: 47, (XXOOX) Selectable
+MP Cost: 33
+Description: Cause a tsunami to attack enemies in 2 zones
+Level Gained: 30
+Gained By: Gomamon, Seadramon, Gawappamon, Coelamon, Dolphmon, Tylomon
+Little Blizzard
+Effect & Range: 28, (XXOOX) Selectable
+MP Cost: 13
+Description: Freeze 2 zones with a small ice storm
+Level Gained: 10
+Gained By: Lopmon, Impmon, SnowGoblimon, SnowAgumon
+Raging Water
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist water in 2 zones with power of water
+Level Gained: 28
+Gained By: SnowGoblimon, Kamemon, Lunamon, Octomon
+Freeze Bolt
+Effect & Range: 60, (XOOOX) Selectable
+MP Cost: 96
+Description: Attack 3 zones by freezing the ground and reducing Speed
+Level Gained: 40
+Gained By: SnowAgumon, Ikkakumon, Icemon, IceDevimon, Piximon, Moon=Millenniummon, Sleipmon
+Big Ice Blast
+Effect & Range: 66, (XXOOX) Selectable
+MP Cost: 45
+Description: Attack enemies in 2 zones with big ice arrows
+Level Gained: 37
+Gained By: Seadramon, Wizardmon, Ikkakumon, Icemon, Hyogamon, Mojyamon, Mammothmon, Zudomon, Crescemon
+Megaton Hydro
+Effect & Range: 72, (XXOOX) Selectable
+MP Cost: 63
+Description: Shoot a strong stream of water and attack 2 zones
+Level Gained: 37
+Gained By: Coelamon, Shellmon, Dolphmon, Tylomon, Dragomon, Divermon, Whamon (Ultimate), Shaujinmon
+Blizzard
+Effect & Range: 67, (XOOOX) Selectable
+MP Cost: 59
+Description: Freeze 3 zones with a strong ice storm
+Level Gained: 40
+Gained By: Frigimon, IceDevimon, Mojyamon, Mammothmon, MetalGarurumon, Vikemon
+Poison Rain
+Effect & Range: 55, (XOOOX) Selectable
+MP Cost: 84
+Description: Attack 3 zones with poisonous rain (Poison)
+Level Gained: 46
+Gained By: KaratsukiNumemon, ShogunGekomon, Marine Devimon, Plesiomon
+Crazy Ice Blast
+Effect & Range: 105, (OOOOO) Fixed
+MP Cost: 120
+Description: Attack enemies in 5 zones with lots of ice arrows
+Level Gained: 53
+Gained By: Mammothmon, Zudomon, Vikemon, Moon=Millenniummon, Sleipmon, Dianamon
+Triple Wave
+Effect & Range: 81, (XOOOX) Selectable
+MP Cost: 71
+Description: Cause a large tsunami to attack enemies in 3 zones
+Level Gained: 41
+Gained By: Tylomon, MegaSeadramon, Zudomon, Seahomon
+Ocean Wave
+Effect & Range: 117, (OOOOO) Fixed
+MP Cost: 132
+Description: Summon a legendary big wave to attack 5 zones
+Level Gained: 63
+Gained By: Whamon (Ultimate), MarineAngemon, Neptunmon
+Royal Blizzard
+Effect & Range: 146, (OOOOO) Fixed
+MP Cost: 191
+Description: Freeze 5 zones with a severe ice storm
+Level Gained: 70
+Gained By: Omnimon, Sleipmon
+2x
+Gigaton Hydro
+Effect & Range: 115, (XXOOX) Selectable
+MP Cost: 158
+Description: Shoot multiple bursts of water at 2 zones
+Level Gained: 54
+Gained By: ShogunGekomon, Dragomon, Whamon (Ultimate), Neptunmon, JumboGamemon
+3x
+Buff
+Healing Spring
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 110
+Description: Restore HP of allies in 3 zones with healing rain
+Level Gained: 30
+Gained By: Otamamon, Frigimon, KaratsukiNumemon, Lekismon, Brachiomon, MarineAngemon
+Hard Shell
+Effect & Range: —, (XXOOX) Selectable
+MP Cost: 87
+Description: Raise Defense in 2 zones with power of a hard shell
+Level Gained: 29
+Gained By: Syakomon, Crabmon, Kamemon, MoriShellmon, Tortamon, Ebidramon, Shellmon, KaratsukiNumemon, Digitamamon, Scorpiomon, Toucanmon
+Water Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise resist water in 3 zones with power of water
+Level Gained: 30
+Gained By: Syakomon, Seadramon, Ikkakumon, Gesomon, Hyogamon
+Water of Life
+Effect & Range: —, (OOOOO) Fixed
+MP Cost: 148
+Description: Resurrect allies in 5 zones with waves of life
+Level Gained: 58
+Gained By: Shaujinmon, MarineAngemon, Plesiomon
+Steel
+1x
+Boost Tackle
+Effect & Range: 49, (XXOXX) Selectable
+MP Cost: 28
+Description: Accelerate with energy power and charge 1 zone
+Level Gained: 32
+Gained By: Kapurimon, Kokuwamon, Starmon, BomberNanimon, PlatinumSukamon, Tankmon, KnightChessmon (White), KnightChessmon (Black), Infermon, Mamemon, RiseGreymon, MameTyramon, EXTyrannomon, ToyAgumon, Hagurumon, Solarmon, Omekamon
+Tiny Metal
+Effect & Range: 32, (XXOXX) Selectable
+MP Cost: 12
+Description: Fire small metal projectiles and attack 1 zone
+Level Gained: 14
+Gained By: Dorimon, Dorumon, Syakomon, ToyAgumon (Black), Hookmon
+Soulful Kick
+Effect & Range: 55, (XXOXX) Selectable
+MP Cost: 34
+Description: Smash 1 zone with a hard kick full of soul
+Level Gained: 25
+Gained By: Gotsumon, Leomon, Starmon, Dolphmon, Omekamon, Nanimon, KnightChessmon (White), KnightChessmon (Black), Lekismon
+Raging Machine
+Effect & Range: 40, (XXOOX) Selectable
+MP Cost: 55
+Description: Lower resist steel in 2 zones with machine power
+Level Gained: 28
+Gained By: Gotsumon, Clockmon
+Energy Bolt
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 10
+Description: Fire an energy ball and blow up 1 zone
+Level Gained: 6
+Gained By: ToyAgumon, Hagurumon, ToyAgumon (Black), PawnChessmon (Black), Solarmon, Mekanorimon, Sukamon, Deputymon
+Nano Break
+Effect & Range: 62, (XOOOO) Selectable
+MP Cost: 115
+Description: Attack 4 zones with nanomachines and reduce Defense
+Level Gained: 41
+Gained By: Hagurumon, Clockmon, Datamon, Giromon, Puppetmon, Diaboromon, Armageddemon, Parasimon, KingChessmon
+Metal Star
+Effect & Range: 53, (OXOXO) Fixed
+MP Cost: 36
+Description: Throw shuriken at 3 zones all at once
+Level Gained: 30
+Gained By: Falcomon, Gawappamon, Sangloupmon, Peckmon, Ninjamon, Kogamon, Kabukimon, Shurimon, Shakkoumon
+Mini Blade
+Effect & Range: 22, (XXOXX) Selectable
+MP Cost: 8
+Description: Slash 1 zone with a small blade
+Level Gained: 7
+Gained By: Kotemon, Gizamon, PawnChessmon (Black), PawnChessmon (White), Snimon
+Normal Blade
+Effect & Range: 44, (XXOXX) Selectable
+MP Cost: 26
+Description: Slash 1 zone with a sharp blade
+Level Gained: 27
+Gained By: Kotemon, Gizamon, Mekanorimon, Dinohumon, Hookmon, Reptiledramon, DKTyrannomon, PlatinumSukamon, Sangloupmon, Octomon, Snimon, Clockmon, KnightChessmon (White), KnightChessmon (Black), MetalMamemon, Andromon, MegaSeadramon
+Rainbow Force
+Effect & Range: 50, (XXOXX) Selectable
+MP Cost: 30
+Description: Attack 1 zone with a prismatic energy ball
+Level Gained: 2
+Gained By: Dfalcomon, DotAgumon
+Energy Shot
+Effect & Range: 70, (XOOOX) Selectable
+MP Cost: 55
+Description: Fire energy balls all at once and blow up 3 zones
+Level Gained: 37
+Gained By: Mekanorimon, Guardromon, Hookmon, MetalMamemon, Megadramon, Lillymon, Gigadramon, RiseGreymon, Vademon, MetalTyrannomon, BishopChessmon, RookChessmon, JumboGamemon
+Mega Metal Star
+Effect & Range: 88, (XOOOO) Selectable
+MP Cost: 92
+Description: Throw two huge shuriken and slash 4 zones
+Level Gained: 45
+Gained By: Ninjamon, Garbagemon, Giromon, Shurimon
+Justice Kick
+Effect & Range: 140, (XXOXX) Selectable
+MP Cost: 114
+Description: Punish the enemy in 1 zone with a hard kick of justice
+Level Gained: 65
+Gained By: SuperStarmon, GrapLeomon, Justimon
+Energy Cannon
+Effect & Range: 110, (XOOOO) Selectable
+MP Cost: 130
+Description: Fire a volley of strong energy balls blowing up 4 zones
+Level Gained: 56
+Gained By: GigaSeadramon, MachineDramon, Imperialdramon Paladin Mode, Mega Gargomon, Imperialdramon Dragon Mode (Black), Black SaintGargomon, Cannondramon, Apocalymon, Ebemon, MetalSeadramon, Millenniummon, QueenChessmon
+Omega R Force
+Effect & Range: 130, (XOOOX) Selectable
+MP Cost: 120
+Description: Attack 3 zones with strong prismatic energy balls
+Level Gained: 2
+Gained By: DotShineGreymon, DotMirageGaogamon
+2x
+Rising Ray
+Effect & Range: 81, (XXOXX) Selectable
+MP Cost: 94
+Description: Fire a shining energy ball into 1 zone
+Level Gained: 40
+Gained By: Mekanorimon, Sunflowmon, Clockmon, Tankmon, Deputymon, MetalMamemon, Lillymon, Paildramon, Rapidmon, RiseGreymon, Shakkoumon, Imperialdramon Dragon Mode, Imperialdramon Fighter Mode, Ghoulmon, DotShineGreymon
+Heavy Metal
+Effect & Range: 70, (XOOOX) Selectable
+MP Cost: 123
+Description: Fire several metal projectiles attacking 3 zones
+Level Gained: 42
+Gained By: Dorugamon, Apemon, Antylamon, DoruGreymon, Big Mamemon
+Double Blade
+Effect & Range: 77, (XXOXX) Selectable
+MP Cost: 103
+Description: Slash 1 zone quickly with a sharp blade
+Level Gained: 42
+Gained By: Snimon, MetalGreymon, Megadramon, Scorpiomon, Paildramon, WarGrowlmon, BlackWarGrowlmon, MetalTyrannomon, Vajiramon, Shaujinmon, Shurimon, MetalGarurumon, Boltmon, MetalSeadramon, Ravemon
+Laser Blade
+Effect & Range: 111, (XXOXX) Selectable
+MP Cost: 142
+Description: Slash 1 zone with an energy laser blade
+Level Gained: 56
+Gained By: Andromon, MegaSeadramon, BlackWarGrowlmon, Tekkamon, MachineDramon, HiAndromon, Boltmon, SL Angemon, Dark Dramon, Justimon, Ravemon Burst Mode, DotShineGreymon
+Burst Tackle
+Effect & Range: 87, (XXOXX) Selectable
+MP Cost: 99
+Description: Charge 1 zone with great speed
+Level Gained: 45
+Gained By: Cyberdramon, SuperStarmon, Mamemon, Meteormon, MameTyramon, Tekkamon, RookChessmon, Kenkimon, MetalEtemon, Pukumon, Boltmon, PrinceMamemon, MetalSeadramon, ShineGreymon, JumboGamemon
+Shining Ray
+Effect & Range: 118, (XOXOX) Selectable
+MP Cost: 168
+Description: Fire shining energy balls into 2 zones
+Level Gained: 60
+Gained By: Imperialdramon Fighter Mode, HiAndromon, PrinceMamemon, ShineGreymon, JumboGamemon, QueenChessmon, DotShineGreymon
+3x
+Buff
+Great Wall
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 111
+Description: Machine defense raises Defense of allies in 3 zones
+Level Gained: 42
+Gained By: Gotsumon, Guardromon, Golemon, Big Mamemon, Knightmon, RookChessmon, Kenkimon, Shakkoumon, Pukumon, Dorugoramon
+Boost On
+Effect & Range: —, (XXOXX) Selectable
+MP Cost: 100
+Description: Speed up an ally in 1 zone with machine power
+Level Gained: 36
+Gained By: PawnChessmon (Black), Gargomon, Gawappamon, Omekamon, Centarumon, Megadramon, Tylomon, Rapidmon, Divermon, MachGaogamon, Giromon, Tekkamon, Alphamon, KingChessmon
+Medical System
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 95
+Description: Restore ally HP in 3 zones with nanomachine power
+Level Gained: 33
+Gained By: PawnChessmon (White), Solarmon
+Battle Stamp
+Effect & Range: —, (XXOXX) Selectable
+MP Cost: 105
+Description: Raise Attack of an ally in 1 zone with machine power
+Level Gained: 45
+Gained By: Hookmon, MetalGreymon, BlackRapidmon, Gigadramon, Tekkamon, GrapLeomon, Kenkimon, MachineDramon, Susanoomon, QueenChessmon
+Machine Coat
+Effect & Range: —, (XOOOX) Selectable
+MP Cost: 50
+Description: Raise reist steel in 3 zones with machine power
+Level Gained: 30
+Gained By: Omekamon, KnightChessmon (White), KnightChessmon (Black)
+Nanomech Heal
+Effect & Range: —, (XOOOO) Selectable
+MP Cost: 115
+Description: Restore HP and status disorder in 4 zones
+Level Gained: 49
+Gained By: Megadramon, Datamon, Big Mamemon, BishopChessmon, GigaSeadramon, Puppetmon, Ebemon
+Special Techniques
+1x
+Frothy Spit
+Effect & Range: 12, (XXOXX) Selectable
+MP Cost: 6
+Attribute: Water
+Description: Spit acid foam at an enemy in 1 zone
+Gained By: Chicchimon, Koromon, Tsunomon, Poyomon, Tokomon, Tanemon, Pagumon, Kapurimon, Puttimon, Chibomon, Dorimon, Gigimon, Gummymon, Kokomon, Minomon, Wanyamon, Budmon, Botamon, Sunmon, Moonmon
+Glare Eye
+Effect & Range: 11, (XXOXX) Selectable
+MP Cost: 8
+Attribute: Dark
+Description: Attack 1 zone with a glare filled with dark power
+Gained By: Kuramon
+Nail Scratch
+Effect & Range: 18, (XXOXX) Selectable
+MP Cost: 9
+Attribute: Dark
+Description: Scratch 1 zone with a small claw of dark power
+Gained By: Tsumemon
+Headbutt
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 10
+Attribute: Earth
+Description: Attack 1 zone with a very strong head butt
+Gained By: Monodramon, Veemon
+Pepper Breath
+Effect & Range: 29, (XXOXX) Selectable
+MP Cost: 13
+Attribute: Fire
+Description: Cause an explosion at 1 zone with a small ball of flame
+Gained By: Agumon, BlackAgumon
+Fire Ball
+Effect & Range: 24, (XXOOX) Selectable
+MP Cost: 14
+Attribute: Fire
+Description: Set off a blast at 2 zones with balls of fire
+Gained By: Guilmon, DotAgumon
+Beast Attack
+Effect & Range: 28, (XXOXX) Selectable
+MP Cost: 10
+Attribute: Earth
+Description: Attack 1 zone with a swift blow of a powerful beast
+Gained By: Dorumon, Gabumon, Armadillomon, Kumamon, Gaomon
+Water Shot
+Effect & Range: 28, (XXOXX) Selectable
+MP Cost: 11
+Attribute: Water
+Description: Attack 1 zone with a bursting stream of water
+Gained By: Betamon, Otamamon, Gomamon, Syakomon, Crabmon, Gizamon, Kamemon
+Boom Bubble
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 10
+Attribute: Wind
+Description: Attack 1 zone by sending a small ball of air
+Gained By: Patamon, Dfalcomon
+Beak Attack
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 9
+Attribute: Wind
+Description: Poke 1 zone with a hard beak
+Gained By: Biyomon, Hawkmon, Falcomon, Penguinmon, Muchomon
+Poison Ivy
+Effect & Range: 24, (XXOXX) Selectable
+MP Cost: 10
+Attribute: Thunder
+Description: Attack 1 zone with poisonous ivy (Poison)
+Gained By: Palmon, Floramon, Aruraumon
+Super Shocker
+Effect & Range: 29, (XXOXX) Selectable
+MP Cost: 11
+Attribute: Thunder
+Description: Electrocute 1 zone with a small ball of electricity
+Gained By: Tentomon, Kunemon, Mushroomon, DoKunemon
+Angry Rock
+Effect & Range: 32, (XXOXX) Selectable
+MP Cost: 12
+Attribute: Steel
+Description: Attack 1 zone by firing a rock from the head
+Gained By: Gotsumon
+Holy Shoot
+Effect & Range: 30, (XXOXX) Selectable
+MP Cost: 13
+Attribute: Holy
+Description: Cause an explosion in 1 zone with a small ball of light
+Gained By: Tapirmon, Salamon, Kudamon, Coronamon
+Demi Dart
+Effect & Range: 20, (XXOXX) Selectable
+MP Cost: 14
+Attribute: Dark
+Description: Attack 1 zone with syringes of darkness (HP Drain)
+Gained By: DemiDevimon, Dracmon, Lunamon
+Machine Attack
+Effect & Range: 25, (XXOXX) Selectable
+MP Cost: 9
+Attribute: Steel
+Description: Inflict a hard blow full of machine power in 1 zone
+Gained By: ToyAgumon, Hagurumon, ToyAgumon (Black), Solarmon
+Petite Tackle
+Effect & Range: 23, (XXOXX) Selectable
+MP Cost: 8
+Attribute: Thunder
+Description: Tackle 1 zone with your small body (Confuse)
+Gained By: Wormmon, Lalamon
+Tiny Twister
+Effect & Range: 24, (XXOOX) Selectable
+MP Cost: 13
+Attribute: Wind
+Description: Attack 2 zones with a small typhoon
+Gained By: Terriermon
+Dark Twister
+Effect & Range: 25, (XXOOX) Selectable
+MP Cost: 13
+Attribute: Dark
+Description: Attack 2 zones with a small typhoon of dark energy
+Gained By: Lopmon, Tsukaimon
+Dark Fire
+Effect & Range: 29, (XXOXX) Selectable
+MP Cost: 13
+Attribute: Fire
+Description: Attack 1 zone with a small ball of fire from the abyss
+Gained By: Impmon, Candlemon
+Crazy Giggle
+Effect & Range: 30, (XXOXX) Selectable
+MP Cost: 12
+Attribute: Dark
+Description: Attack 1 zone with a ball filled with dark energy
+Gained By: Keramon
+Goburi Strike
+Effect & Range: 29, (XXOXX) Selectable
+MP Cost: 12
+Attribute: Fire
+Description: Throw a ball of fire striking 1 zone
+Gained By: Goburimon, Shamamon
+Snow Claw
+Effect & Range: 27, (XXOXX) Selectable
+MP Cost: 10
+Attribute: Water
+Description: Slash 1 zone with claws of freezing air
+Gained By: SnowGoblimon, SnowAgumon
+Bone Spear
+Effect & Range: 26, (XXOXX) Selectable
+MP Cost: 9
+Attribute: Steel
+Description: Slash 1 zone with a spear
+Gained By: PawnChessmon (Black), PawnChessmon (White)
+Lightning Arrow
+Effect & Range: 28, (XXOXX) Selectable
+MP Cost: 11
+Attribute: Thunder
+Description: Pierce 1 zone with an electric shock (Paralyze)
+Gained By: Kokuwamon, Kotemon
+Power Laser
+Effect & Range: 54, (OXOXO) Fixed
+MP Cost: 33
+Attribute: Steel
+Description: Attack 3 zones with a laser beam
+Gained By: Mekanorimon, Guardromon
+Fiery Breath
+Effect & Range: 48, (XXOOX) Selectable
+MP Cost: 32
+Attribute: Fire
+Description: Set off a blast of fire in 2 zones with a big fireball
+Gained By: Greymon, GeoGreymon, Monochromon
+Fire Breath
+Effect & Range: 52, (XXOXX) Selectable
+MP Cost: 29
+Attribute: Fire
+Description: Strike 1 zone with a fireball causing a pillar of fire
+Gained By: Tyrannomon, Growlmon, Flarerizamon
+Touch of Evil
+Effect & Range: 44, (XXOOX) Selectable
+MP Cost: 33
+Attribute: Dark
+Description: Slash enemies in 2 zones with power of darkness (Paralyze)
+Gained By: Devimon, Bakemon, Vilemon, Devidramon
+Fatal Tornado
+Effect & Range: 51, (XOOOO) Selectable
+MP Cost: 47
+Attribute: Wind
+Description: Damage enemies in 4 zones with a whirling tornado
+Gained By: Airdramon
+Water Wave
+Effect & Range: 39, (XOOOX) Selectable
+MP Cost: 35
+Attribute: Water
+Description: Attack 3 zones with a big tsunami
+Gained By: Seadramon, Gekomon, Ebidramon, Coelamon, Shellmon, Dolphmon
+Nume Charge
+Effect & Range: 38, (XXOXX) Selectable
+MP Cost: 25
+Attribute: Water
+Description: Charge 1 zone with a slippery body (Paralyze)
+Gained By: Numemon, Geremon, KaratsukiNumemon
+Electro Shocker
+Effect & Range: 55, (XXOXX) Selectable
+MP Cost: 33
+Attribute: Thunder
+Description: Electrify 1 zone by firing a big electric ball
+Gained By: Kabuterimon, Roachmon, Yanmamon, SandYanmamon
+Heaven Knuckle
+Effect & Range: 53, (XXOXX) Selectable
+MP Cost: 31
+Attribute: Holy
+Description: Punch at 1 zone with a holy iron fist
+Gained By: Angemon, Gatomon
+Branch Drain
+Effect & Range: 47, (XXOXX) Selectable
+MP Cost: 35
+Attribute: Thunder
+Description: Take HP from an enemy in 1 zone (HP Drain)
+Gained By: Veggiemon, Woodmon, Weedmon
+Scar Nail
+Effect & Range: 43, (XXOOX) Selectable
+MP Cost: 27
+Attribute: Steel
+Description: Slash 2 zones with dirty filthy claws (Confuse)
+Gained By: Sukamon, Raremon, PlatinumSukamon
+Shishiomaru
+Effect & Range: 67, (XXOOX) Selectable
+MP Cost: 38
+Attribute: Earth
+Description: Slash 2 zones with the legendary sword "Shishioumaru"
+Gained By: Leomon
+Shadow Slash
+Effect & Range: 50, (XXOXX) Selectable
+MP Cost: 30
+Attribute: Thunder
+Description: Slash 1 zone with lightning speed
+Gained By: Kuwagamon, Snimon, Ninjamon, Kogamon
+Thunder Ball
+Effect & Range: 52, (XOXOX) Selectable
+MP Cost: 34
+Attribute: Thunder
+Description: Attack 2 zones with bolts of lightning
+Gained By: Wizardmon
+X Laser
+Effect & Range: 55, (XXOXX) Selectable
+MP Cost: 31
+Attribute: Fire
+Description: Burn 1 zone with a laser beam fired from the X mark
+Gained By: ExVeemon
+Spiking FN
+Effect & Range: 66, (XXOXX) Selectable
+MP Cost: 38
+Attribute: Thunder
+Description: Pierce 1 zone with a pile of energy
+Gained By: Stingmon
+Meteor Wing
+Effect & Range: 49, (XOXOX) Selectable
+MP Cost: 29
+Attribute: Fire
+Description: Send burning wings flying to damage enemies in 2 zones
+Gained By: Birdramon, Saberdramon
+Megaton Press
+Effect & Range: 65, (XOOOX) Fixed
+MP Cost: 38
+Attribute: Earth
+Description: Squash 3 zones with a heavy body
+Gained By: Ankylomon
+Foxtail Inferno
+Effect & Range: 61, (XXOXX) Selectable
+MP Cost: 35
+Attribute: Fire
+Description: Send a dragon shaped flame to burn 1 zone
+Gained By: Kyubimon
+Data Crusher
+Effect & Range: 48, (OOXOO) Fixed
+MP Cost: 42
+Attribute: Dark
+Description: Slash 4 zones with numerous tentacles
+Gained By: Kurisarimon
+Blast Shot
+Effect & Range: 50, (XXOXX) Selectable
+MP Cost: 30
+Attribute: Wind
+Description: Send ballistic waves and attack 1 zone
+Gained By: Aquilamon, Kiwimon, Akatorimon
+Heavy Attack
+Effect & Range: 57, (XXOXX) Selectable
+MP Cost: 35
+Attribute: Earth
+Description: Attack 1 zone with a blow with the power of a beast
+Gained By: Grizzmon, Minotarumon, Wendigomon, Tsuchidarumon
+Fighting Spirit
+Effect & Range: 59, (XXOXX) Selectable
+MP Cost: 32
+Attribute: Steel
+Description: Fire a big metal ball and crash it into 1 zone
+Gained By: Dorugamon
+Meteor Squall
+Effect & Range: 44, (XOXOX) Selectable
+MP Cost: 35
+Attribute: Fire
+Description: Summon meteors of fire and attack 2 zones
+Gained By: Starmon, Wizardmon, Sorcerymon
+Powerful Punch
+Effect & Range: 53, (XXOXX) Selectable
+MP Cost: 32
+Attribute: Steel
+Description: Punch 1 zone with a punch full of powerful energy
+Gained By: BomberNanimon, Thunderballmon, Nanimon, Golemon
+Aerial Attack
+Effect & Range: 50, (XXOXX) Selectable
+MP Cost: 30
+Attribute: Holy
+Description: Fire a shot of holy energy at an enemy in 1 zone
+Gained By: Unimon
+Fire Blast
+Effect & Range: 45, (XOOOO) Selectable
+MP Cost: 47
+Attribute: Fire
+Description: Burn 4 zones by breathing fire
+Gained By: DKTyrannomon, DKLizardmon
+Ice Punch
+Effect & Range: 48, (XXOOX) Selectable
+MP Cost: 30
+Attribute: Water
+Description: Attack 2 zones with a fist of powerful cold
+Gained By: Icemon, Frigimon, Hyogamon, IceDevimon
+Spiral Blow
+Effect & Range: 49, (XOOOX) Selectable
+MP Cost: 39
+Attribute: Wind
+Description: Attack 3 zones by unleashing a powerful tornado
+Gained By: Gaogamon
+Sunshine Beam
+Effect & Range: 55, (XXOXX) Selectable
+MP Cost: 32
+Attribute: Thunder
+Description: Attack 1 zone with a beam of solar energy
+Gained By: Sunflowmon, RedVegiemon
+DJ Shooter
+Effect & Range: 52, (OXOXO) Fixed
+MP Cost: 32
+Attribute: Steel
+Description: Slash 3 zones by firing a spinning disk
+Gained By: Gawappamon
+Drain Slash
+Effect & Range: 53, (XXOXX) Selectable
+MP Cost: 40
+Attribute: Dark
+Description: Slash 1 zone with a strike filled with darkness (HP Drain)
+Gained By: Sangloupmon, Musyamon
+Drill Spin
+Effect & Range: 60, (XXOXX) Selectable
+MP Cost: 41
+Attribute: Earth
+Description: Slash 1 zone to pieces with a drill slash (Death)
+Gained By: Drimogemon, NiseDrimogemon, MoriShellmon
+Strng Carapace
+Effect & Range: 60, (OXOXO) Fixed
+MP Cost: 29
+Attribute: Earth
+Description: Attack 3 zones with rock missiles
+Gained By: Tortamon
+Deadly Shade
+Effect & Range: 44, (XXOOX) Selectable
+MP Cost: 31
+Attribute: Water
+Description: Attack 2 zones while inflicting paralysis (Paralyze)
+Gained By: Octomon, Gesomon
+Poison Sting
+Effect & Range: 52, (XXOXX) Selectable
+MP Cost: 31
+Attribute: Dark
+Description: Attack 1 zone with a sharp poisonous needle (Poison)
+Gained By: Flymon, Dokugumon
+Paint Rocket
+Effect & Range: 50, (XOOOX) Fixed
+MP Cost: 37
+Attribute: Steel
+Description: Cover enemies in 3 zones with paint
+Gained By: Omekamon
+Chrono Breaker
+Effect & Range: 63, (XOOOX) Fixed
+MP Cost: 44
+Attribute: Steel
+Description: Destroy time in 3 zones
+Gained By: Clockmon
+Quick Shot
+Effect & Range: 49, (XXOXX) Selectable
+MP Cost: 28
+Attribute: Steel
+Description: Shoot out 1 zone with a quick draw
+Gained By: Deputymon
+Vibeless Arrow
+Effect & Range: 53, (XXOXX) Selectable
+MP Cost: 30
+Attribute: Fire
+Description: Burn 1 zone by firing intense heat balls from mouth
+Gained By: Veedramon
+Night Lancer
+Effect & Range: 56, (XXOXX) Selectable
+MP Cost: 34
+Attribute: Steel
+Description: Slash 1 zone by charging at an enemy with darts
+Gained By: KnightChessmon (White), KnightChessmon (Black)
+Flame Dive
+Effect & Range: 58, (XXOOX) Selectable
+MP Cost: 35
+Attribute: Fire
+Description: Attack 2 zones from the sky engulfed in flames
+Gained By: Firamon
+Big Bang Tackle
+Effect & Range: 92, (XOOOX) Selectable
+MP Cost: 84
+Attribute: Dark
+Description: Tackle 3 zones with explosive power
+Gained By: Volcanomon
+Giga Blaster
+Effect & Range: 100, (XXOOX) Selectable
+MP Cost: 70
+Attribute: Fire
+Description: Destroy 2 zones with two powerful missiles
+Gained By: MetalGreymon
+Lovely Attack
+Effect & Range: 80, (XOOOX) Selectable
+MP Cost: 75
+Attribute: Holy
+Description: Attack 3 zones by shooting lots of hearts of love
+Gained By: Monzaemon
+Skull Destroy
+Effect & Range: 101, (XOOOX) Fixed
+MP Cost: 81
+Attribute: Dark
+Description: Destroy 3 zones by firing missiles (Poison)
+Gained By: SkullGreymon
+Energy Bomb
+Effect & Range: 93, (XOOOX) Fixed
+MP Cost: 63
+Attribute: Steel
+Description: Blow up 3 zones with the "psycho blaster"
+Gained By: MetalMamemon
+Lightning Blade
+Effect & Range: 82, (XXOOX) Selectable
+MP Cost: 71
+Attribute: Steel
+Description: Slash 2 zones by unleashing blades of energy
+Gained By: Andromon
+Love Serenade
+Effect & Range: 85, (XOOOO) Selectable
+MP Cost: 72
+Attribute: Earth
+Description: Attack 4 zones by singing a love song (Confuse)
+Gained By: Etemon
+Enigma
+Effect & Range: 72, (XOOOO) Selectable
+MP Cost: 84
+Attribute: Dark
+Description: Attack 4 zones with mysterious power (Paralyze)
+Gained By: Digitamamon
+Tusk Strike
+Effect & Range: 92, (XOXOX) Selectable
+MP Cost: 80
+Attribute: Earth
+Description: Charge and pierce through 2 zones (Death)
+Gained By: Mammothmon
+Horn Buster
+Effect & Range: 94, (XXOOX) Selectable
+MP Cost: 63
+Attribute: Thunder
+Description: Attack 2 zones with a large, hard, electrified horn
+Gained By: Megakabuterimon (Blue)
+S Arm's Omega
+Effect & Range: 95, (XXOXX) Selectable
+MP Cost: 64
+Attribute: Thunder
+Description: Slash 1 zone with sharp scissor-like claws (Paralyze)
+Gained By: Okuwamon
+Musical Fist
+Effect & Range: 80, (XOOOX) Selectable
+MP Cost: 78
+Attribute: Wind
+Description: Attack 3 zones with a cool song (Confuse)
+Gained By: ShogunGekomon
+Holy Arrow
+Effect & Range: 100, (XXOXX) Selectable
+MP Cost: 65
+Attribute: Holy
+Description: Attack 1 zone with a powerful arrow of light
+Gained By: Angewomon
+Torpedo Attack
+Effect & Range: 83, (XXOXX) Selectable
+MP Cost: 53
+Attribute: Water
+Description: Attack a target in 1 zone without mercy
+Gained By: Tylomon
+Lightning Javelin
+Effect & Range: 94, (OXOXO) Fixed
+MP Cost: 71
+Attribute: Thunder
+Description: Unleash a blast of lightning at 3 zones (Paralyze)
+Gained By: MegaSeadramon
+F Trident
+Effect & Range: 98, (XXOXX) Selectable
+MP Cost: 58
+Attribute: Water
+Description: Slash 1 zone by throwing a pike (Paralyze)
+Gained By: Dragomon
+Midnight Raid
+Effect & Range: 101, (XOOOX) Fixed
+MP Cost: 99
+Attribute: Dark
+Description: Attack 3 zones with bats of darkness (MP Drain)
+Gained By: Myotismon
+Darkness Wave
+Effect & Range: 96, (OXOXO) Fixed
+MP Cost: 71
+Attribute: Dark
+Description: Burn 3 zones with dark energy
+Gained By: LadyDevimon
+Shadow Wing
+Effect & Range: 87, (XOOOX) Selectable
+MP Cost: 70
+Attribute: Wind
+Description: Slash 3 zones with fast sonic waves
+Gained By: Garudamon
+Horn Buster
+Effect & Range: 100, (XXOOX) Selectable
+MP Cost: 63
+Attribute: Thunder
+Description: Attack 2 zones with a large, sturdy, electrified horn
+Gained By: MegaKabuterimon (Red)
+Erase Claw
+Effect & Range: 102, (OOOOO) Fixed
+MP Cost: 110
+Attribute: Steel
+Description: Destroy data in 5 zones by releasing shock waves
+Gained By: Cyberdramon
+Heaven's Gate
+Effect & Range: 105, (XOOOX) Fixed
+MP Cost: 115
+Attribute: Holy
+Description: Open a dimension door destroying 3 zones (Death)
+Gained By: MagnaAngemon
+D Masquerade
+Effect & Range: 94, (XOOOX) Selectable
+MP Cost: 72
+Attribute: Thunder
+Description: Slash 3 zones with high speed (Paralyze)
+Gained By: Dinobeemon
+Bunny Blade
+Effect & Range: 88, (XOXOX) Selectable
+MP Cost: 58
+Attribute: Dark
+Description: Slash 2 zones into pieces with both hands
+Gained By: Antylamon
+Spider Thread
+Effect & Range: 82, (OXOXO) Fixed
+MP Cost: 63
+Attribute: Thunder
+Description: Slash 3 zones with sharp spider's thread
+Gained By: Arukenimon
+Necrophobia
+Effect & Range: 82, (XOOOX) Selectable
+MP Cost: 73
+Attribute: Dark
+Description: Send spirits to attack an enemy in 3 zones (Sleep)
+Gained By: Mummymon
+Atomic BRT
+Effect & Range: 103, (XOOOX) Fixed
+MP Cost: 77
+Attribute: Fire
+Description: Burn 3 zones with fire
+Gained By: WarGrowlmon
+Mjollnir Ltning
+Effect & Range: 89, (XXOXX) Selectable
+MP Cost: 53
+Attribute: Thunder
+Description: Unleash powerful lightning on 1 zone (Paralyze)
+Gained By: Parrotmon
+Energy Grenade
+Effect & Range: 91, (XOOOX) Selectable
+MP Cost: 70
+Attribute: Dark
+Description: Blow up 3 zones with balls of dark energy
+Gained By: Infermon
+Animal Nail
+Effect & Range: 88, (XXOOX) Selectable
+MP Cost: 58
+Attribute: Earth
+Description: Slash 2 zones with powerful claws of a beast
+Gained By: Pandamon
+Guilty Black
+Effect & Range: 87, (XXOOX) Selectable
+MP Cost: 67
+Attribute: Water
+Description: Pollute 2 zones with highly poisonous ink (Poison)
+Gained By: Marine Devimon
+Puyavaha
+Effect & Range: 88, (OXOXO) Fixed
+MP Cost: 62
+Attribute: Thunder
+Description: Drop lightning on 3 zones
+Gained By: Sinduramon
+Crazy Sonic
+Effect & Range: 77, (XOOOX) Selectable
+MP Cost: 63
+Attribute: Wind
+Description: Attack 3 zones by unleashing strong sonic waves (Confuse)
+Gained By: Pipismon
+Metal Meteor
+Effect & Range: 101, (XOOOX) Fixed
+MP Cost: 80
+Attribute: Steel
+Description: Unleash a big iron ball into 3 zones
+Gained By: DoruGreymon
+Tryhorn A
+Effect & Range: 87, (XOOOX) Fixed
+MP Cost: 62
+Attribute: Earth
+Description: Charge 3 zones with 3 hard horns
+Gained By: Triceramon
+Royal Nuts
+Effect & Range: 81, (OXOXO) Fixed
+MP Cost: 54
+Attribute: Wind
+Description: Unleash egg-like objects and attack 3 zones
+Gained By: Deramon
+Sonic Blades
+Effect & Range: 75, (XOOOO) Selectable
+MP Cost: 89
+Attribute: Wind
+Description: Unleash sharp blades of wind in 4 zones
+Gained By: Silphymon
+Hail Strike
+Effect & Range: 80, (OOOOO) Fixed
+MP Cost: 99
+Attribute: Fire
+Description: Countless meteors fall down on 5 zones
+Gained By: SuperStarmon
+Atomic BRT
+Effect & Range: 78, (OOOOO) Fixed
+MP Cost: 97
+Attribute: Dark
+Description: Burn 5 zones with a flame of darkness
+Gained By: BlackWarGrowlmon
+Vulcan Hammer
+Effect & Range: 92, (XOOOX) Fixed
+MP Cost: 76
+Attribute: Thunder
+Description: Attack 3 zones with Thor's Hammer
+Gained By: Zudomon
+Tidal Wave
+Effect & Range: 91, (XOOOO) Selectable
+MP Cost: 91
+Attribute: Water
+Description: Attack enemies in 4 zones with a big tsunami
+Gained By: Whamon (Ultimate)
+Beak Twister
+Effect & Range: 92, (XXOXX) Selectable
+MP Cost: 77
+Attribute: Wind
+Description: Attack 1 zone with large beaks (Death)
+Gained By: Toucanmon
+TRI Revolver
+Effect & Range: 102, (XXOOX) Selectable
+MP Cost: 88
+Attribute: Fire
+Description: Burn 2 zones by firing 3 fire balls consecutively
+Gained By: RiseGreymon
+Gaoga Tornado
+Effect & Range: 85, (OOOOO) Fixed
+MP Cost: 107
+Attribute: Earth
+Description: Attack 5 zones with a barrage of punches
+Gained By: MachGaogamon
+Hurricane Blade
+Effect & Range: 101, (XXOXX) Selectable
+MP Cost: 65
+Attribute: Holy
+Description: Slash 1 zone by attacking from the sky
+Gained By: Tyilinmon
+Flare Buster
+Effect & Range: 98, (XOXOX) Selectable
+MP Cost: 58
+Attribute: Fire
+Description: Blow fire from both arms and burn 2 zones
+Gained By: Shadramon
+Full Bloom
+Effect & Range: 84, (XOOOX) Selectable
+MP Cost: 77
+Attribute: Holy
+Description: Attack 3 zones with blossoms and light (Sleep)
+Gained By: Kabukimon
+Illusion M
+Effect & Range: 64, (XOOOX) Fixed
+MP Cost: 83
+Attribute: Thunder
+Description: Attack 3 zones with a strange mist (HP Drain)
+Gained By: Cherrymon
+Poop Bazooka
+Effect & Range: 68, (XXOXX) Selectable
+MP Cost: 55
+Attribute: Earth
+Description: Fire poop at 1 zone with a bazooka made from a can
+Gained By: Garbagemon
+Eternal Sleep
+Effect & Range: 111, (XXOXX) Selectable
+MP Cost: 90
+Attribute: Dark
+Description: Destroy 1 zone with a combination of various attacks
+Gained By: Lucemon Chaos Mode
+Met Lariat
+Effect & Range: 84, (XXOXX) Selectable
+MP Cost: 50
+Attribute: Steel
+Description: Crash your small body into 1 zone like a bullet
+Gained By: MameTyramon
+Deadly Bomb
+Effect & Range: 90, (XOOOX) Selectable
+MP Cost: 81
+Attribute: Fire
+Description: Throw powerful bombs and blow up 3 zones
+Gained By: Giromon
+Devil's Kiss
+Effect & Range: 70, (XOOOO) Selectable
+MP Cost: 76
+Attribute: Steel
+Description: Reduce Spirit by attacking 4 zones with a sexy kiss
+Gained By: Vademon
+Electric Katana
+Effect & Range: 85, (XXOXX) Selectable
+MP Cost: 53
+Attribute: Thunder
+Description: Slice 1 zone quickly with an electric sword (Paralyze)
+Gained By: Tekkamon
+Pretty Attack
+Effect & Range: 78, (XXOXX) Selectable
+MP Cost: 51
+Attribute: Steel
+Description: Attack 1 zone by throwing a pretty heart (Sleep)
+Gained By: EXTyrannomon
+Volcano SS
+Effect & Range: 94, (XXOOX) Selectable
+MP Cost: 58
+Attribute: Fire
+Description: Burn 2 zones by firing balls of fire
+Gained By: Vermilimon
+Soul Chopper
+Effect & Range: 89, (XXOOX) Selectable
+MP Cost: 86
+Attribute: Dark
+Description: Slash 2 zones with a big chained sickle (Death)
+Gained By: Phantomon
+Terra Blade
+Effect & Range: 66, (XXOXX) Selectable
+MP Cost: 88
+Attribute: Thunder
+Description: Slash 1 zone with electric power
+Gained By: Vajiramon
+V Wing Blade
+Effect & Range: 102, (XXOOX) Selectable
+MP Cost: 72
+Attribute: Wind
+Description: Unleash sharp energy waves at 2 zones from the sky
+Gained By: AeroVeedramon
+Berserk Sword
+Effect & Range: 92, (XXOXX) Selectable
+MP Cost: 59
+Attribute: Holy
+Description: Slash 1 zone in a single sweep with your trusty sword
+Gained By: Knightmon
+Brachio Bubble
+Effect & Range: 68, (XOOOO) Selectable
+MP Cost: 87
+Attribute: Water
+Description: Attack 4 zones with multiple bubbles (Sleep)
+Gained By: Brachiomon
+Dino Burst
+Effect & Range: 93, (XOOOX) Selectable
+MP Cost: 75
+Attribute: Fire
+Description: Attack 3 zones by breathing a fiery wind (Paralyze)
+Gained By: Allomon
+Thermal Mane
+Effect & Range: 87, (XOOOX) Selectable
+MP Cost: 69
+Attribute: Fire
+Description: Cause an explosion in 3 zones with a big flame
+Gained By: Lanksmon
+Whirl Form
+Effect & Range: 83, (XOOOX) Selectable
+MP Cost: 79
+Attribute: Water
+Description: Attack 3 zones with a twister of water (Confuse)
+Gained By: Shaujinmon
+Spiritual Kick
+Effect & Range: 103, (XOOOX) Fixed
+MP Cost: 83
+Attribute: Holy
+Description: Destroy 3 zones with holy energy
+Gained By: Yatagaramon
+Bishop Laser
+Effect & Range: 78, (XOOOO) Selectable
+MP Cost: 83
+Attribute: Steel
+Description: Burn down 4 zones by releasing energy from a staff
+Gained By: BishopChessmon
+Guren Juuouha
+Effect & Range: 101, (XOOOO) Selectable
+MP Cost: 102
+Attribute: Fire
+Description: Unleash a lion spirited first of fire at 4 zones
+Gained By: Flaremon
+Fire Rocket
+Effect & Range: 102, (XXOXX) Selectable
+MP Cost: 76
+Attribute: Fire
+Description: Attack 1 zone by becoming a flaming rocket (Death)
+Gained By: Flamedramon
+EXT. War
+Effect & Range: 104, (XOOOO) Selectable
+MP Cost: 103
+Attribute: Holy
+Description: Unleash radiant energy and exterminate 4 zones
+Gained By: Magnamon
+Sonic Ears
+Effect & Range: 87, (OXOXO) Fixed
+MP Cost: 59
+Attribute: Earth
+Description: Slash 3 zones with the blades on both ears
+Gained By: Prairiemon
+Kusanagi
+Effect & Range: 88, (OXOXO) Fixed
+MP Cost: 65
+Attribute: Wind
+Description: Slash 3 zones instantly with big shuriken
+Gained By: Shurimon
+Crazy Crane
+Effect & Range: 93, (XOOOX) Selectable
+MP Cost: 72
+Attribute: Steel
+Description: Swing around a heavy crane and attack 3 zones
+Gained By: Kenkimon
+Tequila Knuckle
+Effect & Range: 85, (XXOOX) Selectable
+MP Cost: 53
+Attribute: Dark
+Description: Attack 2 zones with fierce punches (Confuse)
+Gained By: Ponchomon
+Justice Beam
+Effect & Range: 99, (XOOOX) Selectable
+MP Cost: 86
+Attribute: Holy
+Description: Burn 3 zones by firing beams from both eyes
+Gained By: Shakkoumon
+Giga Scssr Claw
+Effect & Range: 135, (XOOOX) Selectable
+MP Cost: 138
+Attribute: Thunder
+Description: Attack 3 zones with horns filled with electricity (Paralyze)
+Gained By: HerculesKabuterimon
+Nuclear Punch
+Effect & Range: 113, (XOOOX) Fixed
+MP Cost: 114
+Attribute: Steel
+Description: Punch 3 zones with metal fists
+Gained By: MetalEtemon
+Ocean Love
+Effect & Range: 119, (XOOOX) Fixed
+MP Cost: 135
+Attribute: Water
+Description: Demoralize enemy by throwing heart balls at 3 zones
+Gained By: MarineAngemon
+G Sea Destroy
+Effect & Range: 149, (OOOOO) Fixed
+MP Cost: 200
+Attribute: Steel
+Description: Blow up 5 zones with a torpedo of energy
+Gained By: GigaSeadramon
+Chaos Flare
+Effect & Range: 148, (OOOOO) Fixed
+MP Cost: 195
+Attribute: Dark
+Description: Burn 5 zones with flames of darkness
+Gained By: Creepymon
+Crimson Flame
+Effect & Range: 135, (OOOOO) Fixed
+MP Cost: 186
+Attribute: Fire
+Description: Unleash crimson flames to burn 5 zones
+Gained By: Phoenixmon
+Puppet Pummel
+Effect & Range: 125, (XXOXX) Selectable
+MP Cost: 118
+Attribute: Steel
+Description: Destroy 1 zone with a hammer filled with explosive (Confuse)
+Gained By: Puppetmon
+Terra Force
+Effect & Range: 137, (XOOOX) Selectable
+MP Cost: 140
+Attribute: Fire
+Description: Burn enemies in 3 zones with a giant energy ball
+Gained By: WarGreymon
+Freezing Breath
+Effect & Range: 135, (OOOOO) Fixed
+MP Cost: 175
+Attribute: Water
+Description: Freeze 5 zones with icy breath
+Gained By: MetalGarurumon
+Giga Cannon
+Effect & Range: 138, (XOOOX) Selectable
+MP Cost: 142
+Attribute: Steel
+Description: Blow up 3 zones with 2 powerful energy cannons
+Gained By: MachineDramon
+Mega Crusher
+Effect & Range: 132, (XOOOX) Selectable
+MP Cost: 151
+Attribute: Fire
+Description: Unleash a powerful fireball and destroy 3 zones
+Gained By: Imperialdramon Dragon Mode
+Giga Fire
+Effect & Range: 142, (OOOOO) Fixed
+MP Cost: 188
+Attribute: Steel
+Description: Unleash a burst of energy destroying 5 zones
+Gained By: Imperialdramon Fighter Mode
+Omega Blade
+Effect & Range: 174, (XOOOO) Selectable
+MP Cost: 215
+Attribute: Holy
+Description: Attack enemies in 4 zones with Omnimon's blade
+Gained By: Imperialdramon Paladin Mode
+Seven Heavens
+Effect & Range: 146, (OOOOO) Fixed
+MP Cost: 199
+Attribute: Holy
+Description: Destroy 5 zones with 7 balls of light
+Gained By: Seraphimon
+Atomic Ray
+Effect & Range: 127, (XOOOX) Fixed
+MP Cost: 155
+Attribute: Steel
+Description: Blow up 3 zones with a fusion beam (Death)
+Gained By: HiAndromon
+B Death Cloud
+Effect & Range: 112, (XOOOX) Selectable
+MP Cost: 110
+Attribute: Dark
+Description: Destroy data in 3 zones with gas of darkness (Death)
+Gained By: Devitamamon
+Dark Spear
+Effect & Range: 146, (XXOXX) Selectable
+MP Cost: 127
+Attribute: Dark
+Description: Throw a spear of dark power at 1 zone
+Gained By: Cherubimon (Evil)
+FIN Elysion
+Effect & Range: 140, (XOOOO) Selectable
+MP Cost: 170
+Attribute: Holy
+Description: Attack 4 zones with light energy from a shield
+Gained By: Gallantmon
+GA Missile
+Effect & Range: 126, (OOOOO) Fixed
+MP Cost: 168
+Attribute: Steel
+Description: Destroy 5 zones with huge missiles
+Gained By: Mega Gargomon
+Izuna
+Effect & Range: 134, (XOOOX) Fixed
+MP Cost: 124
+Attribute: Holy
+Description: Slash 3 zones by unleashing a fox-like creature
+Gained By: Sakuyamon
+Catastrophe C
+Effect & Range: 132, (XOOOX) Selectable
+MP Cost: 129
+Attribute: Dark
+Description: Destroy 3 zones by firing dark balls from the chest
+Gained By: Diaboromon
+Vortex P
+Effect & Range: 148, (XXOXX) Selectable
+MP Cost: 140
+Attribute: Water
+Description: Slash 1 zone with a huge pike
+Gained By: Neptunmon
+Needle Squall
+Effect & Range: 124, (OXOXO) Fixed
+MP Cost: 117
+Attribute: Water
+Description: Rain down small Pukumon to sting 3 zones
+Gained By: Pukumon
+SPSonic Voice
+Effect & Range: 117, (XOOOX) Selectable
+MP Cost: 125
+Attribute: Wind
+Description: Destroy data in 3 zones with a sonic wave (Paralyze)
+Gained By: Gryphonmon
+Sorrow Blue
+Effect & Range: 118, (XXOXX) Selectable
+MP Cost: 109
+Attribute: Water
+Description: Attack 1 zone with a sad cry sure to demoralize the enemy
+Gained By: Plesiomon
+Pandemonium F
+Effect & Range: 146, (XOOOX) Selectable
+MP Cost: 177
+Attribute: Fire
+Description: Burn 3 zones with fire from the abyss (Confuse)
+Gained By: MaloMyotismon
+Mega Crusher
+Effect & Range: 140, (XOOOX) Fixed
+MP Cost: 128
+Attribute: Dark
+Description: Unleash a ball of darkness destroying 3 zones
+Gained By: Imperialdramon Dragon Mode (Black)
+Tomahawk S
+Effect & Range: 123, (XOOOO) Selectable
+MP Cost: 139
+Attribute: Steel
+Description: Swing a "battle axe" and throw it at 4 zones
+Gained By: Boltmon
+Purple Rain
+Effect & Range: 117, (OXOXO) Fixed
+MP Cost: 114
+Attribute: Wind
+Description: Attack 3 zones with heavy poisonous rain (Poison)
+Gained By: PrinceMamemon
+Sephirothic C
+Effect & Range: 134, (XOOOO) Selectable
+MP Cost: 172
+Attribute: Holy
+Description: Attack 4 zones with balls of light energy
+Gained By: Ophanimon
+Slicing Slash
+Effect & Range: 138, (XXOOX) Selectable
+MP Cost: 174
+Attribute: Dark
+Description: Slash 2 zones with a huge sword (Death)
+Gained By: Zanbamon
+GA Missile
+Effect & Range: 126, (OOOOO) Fixed
+MP Cost: 168
+Attribute: Dark
+Description: Launch missiles to create an explosion in 5 zones
+Gained By: Black SaintGargomon
+Empress Haze
+Effect & Range: 113, (XOOOO) Selectable
+MP Cost: 132
+Attribute: Holy
+Description: Attack enemies in 4 zones with light wave (Paralyze)
+Gained By: Babamon
+Amemit
+Effect & Range: 154, (XXOXX) Selectable
+MP Cost: 158
+Attribute: Dark
+Description: Summon beast from abyss and attack 1 zone (Death)
+Gained By: Anubismon
+EL Bind
+Effect & Range: 118, (XXOXX) Selectable
+MP Cost: 113
+Attribute: Thunder
+Description: Unleash an electric shock at 1 zone (MP Drain, Paralyze)
+Gained By: Parasimon
+Heaven's Ripper
+Effect & Range: 124, (XOOOX) Selectable
+MP Cost: 131
+Attribute: Holy
+Description: Slash 3 zones to pieces with blades of light
+Gained By: SL Angemon
+C Phoenix
+Effect & Range: 123, (XOOOX) Selectable
+MP Cost: 139
+Attribute: Holy
+Description: Charge at 3 zones at high speed with hard armor
+Gained By: Eaglemon
+Suprme Courage
+Effect & Range: 136, (XOOOX) Selectable
+MP Cost: 172
+Attribute: Fire
+Description: Tackle 3 zones with everything you have
+Gained By: Dorugoramon
+King Lion
+Effect & Range: 148, (XXOOX) Selectable
+MP Cost: 155
+Attribute: Earth
+Description: Slash 2 zones violently with a dagger
+Gained By: Bantyo Leomon
+Gigastick L
+Effect & Range: 142, (XXOXX) Selectable
+MP Cost: 131
+Attribute: Dark
+Description: Slash 1 zone with a lance of darkness
+Gained By: Dark Dramon
+Darkness Zone
+Effect & Range: 175, (OOOOO) Fixed
+MP Cost: 240
+Attribute: Dark
+Description: Cover 5 zones with eternal darkness (Confuse)
+Gained By: Apocalymon
+Brain RP
+Effect & Range: 140, (XXOXX) Selectable
+MP Cost: 125
+Attribute: Steel
+Description: Absorb data in 1 zone with a ray gun (MPDrain)
+Gained By: Ebemon
+Dead Scream
+Effect & Range: 142, (OOOOO) Fixed
+MP Cost: 188
+Attribute: Dark
+Description: Attack 5 zones with a scream (Paralyze)
+Gained By: Gulfmon
+Fatal Flame
+Effect & Range: 142, (OOOOO) Fixed
+MP Cost: 194
+Attribute: Holy
+Description: Destroy 5 zones by unleashing holy energy
+Gained By: Goldramon
+T Destroyer
+Effect & Range: 155, (OOOOO) Fixed
+MP Cost: 205
+Attribute: Dark
+Description: Destroy 5 zones with power of an evil deity
+Gained By: ZeedMillenniummon
+Illuminator
+Effect & Range: 115, (XOOOX) Selectable
+MP Cost: 124
+Attribute: Holy
+Description: Slash 3 zones by unleashing a fox-like creature
+Gained By: Kuzuhamon
+Ultimate Stream
+Effect & Range: 136, (XOOOO) Selectable
+MP Cost: 167
+Attribute: Steel
+Description: Attack 4 zones with powerful energy fired from a cannon
+Gained By: MetalSeadramon
+Appndge Blade
+Effect & Range: 141, (XXOXX) Selectable
+MP Cost: 150
+Attribute: Steel
+Description: Slash enemies in 1 zone with arm blades (Death)
+Gained By: Justimon
+Terra Force
+Effect & Range: 127, (OOOOO) Fixed
+MP Cost: 170
+Attribute: Dark
+Description: Attack 5 zones with bullets of negative energy
+Gained By: BlackWarGreymon
+Spiral Bone
+Effect & Range: 125, (XOOOO) Selectable
+MP Cost: 142
+Attribute: Earth
+Description: Unleash bones of the spine slashing 4 zones (Poison)
+Gained By: Skull Mammothmon
+DM Scissors
+Effect & Range: 141, (XXOXX) Selectable
+MP Cost: 143
+Attribute: Thunder
+Description: Slash 1 zone with sharp scissors (Death)
+Gained By: GrandisKuwagamon
+Necro Mist
+Effect & Range: 121, (XOOOX) Selectable
+MP Cost: 150
+Attribute: Dark
+Description: Attack 3 zones with a mummifying gas (HPDrain)
+Gained By: Pharaohmon
+Celestial Blade
+Effect & Range: 161, (OOOOO) Fixed
+MP Cost: 240
+Attribute: Holy
+Description: Slash 5 zones with an enormous sword
+Gained By: Susanoomon
+DIGI of Soul
+Effect & Range: 143, (XOOOX) Selectable
+MP Cost: 193
+Attribute: Holy
+Description: Slash 3 zones quickly with strong light energy
+Gained By: Alphamon
+Holy Flame
+Effect & Range: 146, (XOOXX) Selectable
+MP Cost: 161
+Attribute: Holy
+Description: Destroy 2 zones by unleashing light energy
+Gained By: Magna Dramon
+T Unlimited
+Effect & Range: 143, (XOOOX) Selectable
+MP Cost: 168
+Attribute: Dark
+Description: Create a space of darkness and destroy 3 zones
+Gained By: Millenniummon
+Death Crystal
+Effect & Range: 154, (XOOOX) Selectable
+MP Cost: 199
+Attribute: Dark
+Description: Destroy the hearts in 3 zones with the crystal of darkness
+Gained By: Moon=Millenniummon
+Glorious Burst
+Effect & Range: 145, (XOOOO) Selectable
+MP Cost: 180
+Attribute: Fire
+Description: Burn 4 zones with fireballs released from the wings
+Gained By: ShineGreymon, DotShineGreymon
+Spiral R Claw
+Effect & Range: 139, (XXOOX) Selectable
+MP Cost: 134
+Attribute: Wind
+Description: Slash 2 zones by charging with the left claw
+Gained By: Ravemon
+Heart Breaker
+Effect & Range: 137, (XXOXX) Selectable
+MP Cost: 119
+Attribute: Steel
+Description: Attack an enemy's weak spot in 1 zone
+Gained By: QueenChessmon
+Checkmate
+Effect & Range: 125, (XOOOX) Fixed
+MP Cost: 136
+Attribute: Holy
+Description: Attack 3 zones by using smart tactics in a pinch
+Gained By: KingChessmon
+Holy Flare
+Effect & Range: 200, (XOOOX) Fixed
+MP Cost: 280
+Attribute: Holy
+Description: Blast 3 zones with holy power
+Gained By: Chronomon Holy Mode
+Phantom Pain
+Effect & Range: 126, (XOOOX) Selectable
+MP Cost: 158
+Attribute: Dark
+Description: Envelope 3 zones with a mysterious nightmare (Confuse)
+Gained By: Lilithmon
+Solblaster
+Effect & Range: 158, (XOOOX) Selectable
+MP Cost: 202
+Attribute: Fire
+Description: Burn 3 zones with a small sun-like energy bomb
+Gained By: Apollomon
+Torrid Weiss
+Effect & Range: 155, (OOOOO) Fixed
+MP Cost: 221
+Attribute: Dark
+Description: Attack 5 zones with flames of darkness randomly
+Gained By: Shine Greymon Ruin Mode
+Fullmoon Meteo I
+Effect & Range: 177, (XOOOX) Selectable
+MP Cost: 197
+Attribute: Earth
+Description: Attack 3 zones with weapons made from energy
+Gained By: MirageGaogamon Burst Mode
+SV Fantasia
+Effect & Range: 138, (XXOXX) Selectable
+MP Cost: 124
+Attribute: Thunder
+Description: Attack 1 zone by unleashing a rainbow aura from a staff
+Gained By: Lotosmon
+Chaotic Flare
+Effect & Range: 154, (XOOOX) Fixed
+MP Cost: 189
+Attribute: Dark
+Description: Destroy 3 zones with shots from a cannon
+Gained By: Beelzemon Blast Mode
+Charite
+Effect & Range: 139, (XOOOX) Selectable
+MP Cost: 197
+Attribute: Thunder
+Description: Cover 3 zones with a cloak of the aura of love (Sleep)
+Gained By: Rosemon Burst Mode
+Mystic Cannon
+Effect & Range: 160, (XOOOX) Selectable
+MP Cost: 194
+Attribute: Dark
+Description: Blow up 3 zones with powerful cursed volleys
+Gained By: Argomon Mega
+Bantyo Blade
+Effect & Range: 145, (XXOXX) Selectable
+MP Cost: 129
+Attribute: Holy
+Description: Strike 1 zone in a single sweep with the Bantyo Arm
+Gained By: Chaosmon
+2x
+Leaf Blade
+Effect & Range: 23, (XXOXX) Selectable
+MP Cost: 22
+Attribute: Wind
+Description: Throw sharp leaf blades at 1 zone
+Gained By: Renamon
+Freeze Fang
+Effect & Range: 40, (XXOXX) Selectable
+MP Cost: 47
+Attribute: Earth
+Description: Slash 1 zone with a claw of freezing cold
+Gained By: Garurumon
+Bone Strike
+Effect & Range: 39, (XXOXX) Selectable
+MP Cost: 46
+Attribute: Earth
+Description: Attack 1 zone with a hard bone club
+Gained By: Ogremon, Apemon, Fugamon, Mojyamon, JungleMojyamon
+Feather Shoot
+Effect & Range: 39, (XXOXX) Selectable
+MP Cost: 45
+Attribute: Wind
+Description: Slice up 1 zone by firing sharp-edged feathers
+Gained By: Kokatorimon, Peckmon
+Bunny Pummel
+Effect & Range: 44, (XXOXX) Selectable
+MP Cost: 54
+Attribute: Steel
+Description: Fire guns at 1 zone randomly
+Gained By: Gargomon
+Energy Ray
+Effect & Range: 43, (XXOXX) Selectable
+MP Cost: 53
+Attribute: Holy
+Description: Fire a solar ball of light at 1 zone
+Gained By: Seasarmon, Centarumon
+Dino Slash
+Effect & Range: 40, (XXOXX) Selectable
+MP Cost: 48
+Attribute: Fire
+Description: Slash 1 zone with the power of a dragon
+Gained By: Dinohumon, Reptiledramon
+Metal Shot
+Effect & Range: 40, (XXOXX) Selectable
+MP Cost: 46
+Attribute: Steel
+Description: Fire on 1 zone with hard metal balls
+Gained By: Hookmon, Tankmon
+Harpoon Torpedo
+Effect & Range: 41, (XXOXX) Selectable
+MP Cost: 49
+Attribute: Steel
+Description: Attack 1 zone with horn missiles
+Gained By: Ikkakumon
+Fang Attack
+Effect & Range: 41, (XXOXX) Selectable
+MP Cost: 50
+Attribute: Wind
+Description: Slash 1 zone with quick sharp claws
+Gained By: Reppamon
+Moon Night Bomb
+Effect & Range: 40, (XXOXX) Selectable
+MP Cost: 53
+Attribute: Water
+Description: Attack 1 zone with sleep inducing bubbles (Sleep)
+Gained By: Lekismon
+Genocide A
+Effect & Range: 54, (XOOOX) Selectable
+MP Cost: 112
+Attribute: Fire
+Description: Fire missiles from the arms attacking 3 zones
+Gained By: Megadramon
+Bit Bomb
+Effect & Range: 79, (XXOXX) Selectable
+MP Cost: 86
+Attribute: Dark
+Description: Throw a CPU virus bomb a 1 zones (Poison)
+Gained By: Piximon
+Stinger S
+Effect & Range: 72, (XXOOX) Selectable
+MP Cost: 105
+Attribute: Water
+Description: Slash 2 zones with an energetic blade
+Gained By: Scorpiomon
+Spiral Flower
+Effect & Range: 51, (XOOOX) Selectable
+MP Cost: 109
+Attribute: Thunder
+Description: Fires flower shuriken at an enemy in 3 zones
+Gained By: Blossomon
+Flower Cannon
+Effect & Range: 73, (XXOXX) Selectable
+MP Cost: 83
+Attribute: Thunder
+Description: Use flower cannons to attack enemies in 1 zone
+Gained By: Lillymon
+Desperado BRT
+Effect & Range: 80, (XOXOX) Selectable
+MP Cost: 100
+Attribute: Steel
+Description: Fire energy waves at 2 zones from a cannon
+Gained By: Paildramon
+Rapid Fire
+Effect & Range: 78, (XXOOX) Selectable
+MP Cost: 98
+Attribute: Fire
+Description: Attack 2 zones with homing missiles
+Gained By: Rapidmon
+Lethal Cards
+Effect & Range: 74, (XXOOX) Selectable
+MP Cost: 101
+Attribute: Holy
+Description: Post tags in 2 zones an explode them
+Gained By: Taomon
+Rapid Fire
+Effect & Range: 66, (XOOOX) Selectable
+MP Cost: 115
+Attribute: Dark
+Description: Blow up 3 zones with homing missiles
+Gained By: BlackRapidmon
+Shogekiha
+Effect & Range: 69, (XOXOX) Selectable
+MP Cost: 104
+Attribute: Wind
+Description: Slash 2 zones to pieces with a blast wave (Sleep)
+Gained By: Karatenmon
+Harpoon Jab
+Effect & Range: 70, (XXOXX) Selectable
+MP Cost: 85
+Attribute: Water
+Description: Stab 1 zone with a harpoon called "Trent"
+Gained By: Divermon
+Smiley Bomb
+Effect & Range: 77, (XXOXX) Selectable
+MP Cost: 82
+Attribute: Steel
+Description: Throw a bomb and blow up 1 zones
+Gained By: Mamemon
+MN Clutch
+Effect & Range: 70, (XXOXX) Selectable
+MP Cost: 106
+Attribute: Wind
+Description: Slash 1 zone in stealth with sharp claws (Death)
+Gained By: Aurumon
+Cosmo Flash
+Effect & Range: 80, (XOXOX) Selectable
+MP Cost: 102
+Attribute: Steel
+Description: Attack 2 zones with meteorites
+Gained By: Meteormon
+Genocide Gear
+Effect & Range: 89, (XOXOX) Selectable
+MP Cost: 110
+Attribute: Dark
+Description: Blow up 2 zones with missiles of darkness
+Gained By: Gigadramon
+Lila Shower
+Effect & Range: 73, (XOXOX) Selectable
+MP Cost: 103
+Attribute: Thunder
+Description: Attack 2 zones by firing continuous beams
+Gained By: Lilamon
+Vortex Kick
+Effect & Range: 78, (XXOOX) Selectable
+MP Cost: 106
+Attribute: Earth
+Description: Kick enemies in 2 zones
+Gained By: GrapLeomon
+Lunatic Dance
+Effect & Range: 72, (XXOOX) Selectable
+MP Cost: 108
+Attribute: Dark
+Description: Dance and slash 2 zones with a weapon (Confuse)
+Gained By: Crescemon
+Popper
+Effect & Range: 85, (XXOOX) Selectable
+MP Cost: 105
+Attribute: Holy
+Description: Slap enemies in 2 zones with 6 arms
+Gained By: Kongoumon
+Prizm Rainbow
+Effect & Range: 73, (XXOXX) Selectable
+MP Cost: 85
+Attribute: Water
+Description: Unleash a rainbow beam and attack 1 zone
+Gained By: Seahomon
+Hupunos Claw
+Effect & Range: 77, (XXOOX) Selectable
+MP Cost: 96
+Attribute: Dark
+Description: Slash 2 zones with cursed tentacles (Sleep)
+Gained By: Argomon Ultimate
+Howling Crusher
+Effect & Range: 114, (XXOOX) Selectable
+MP Cost: 142
+Attribute: Earth
+Description: Slash 2 zones with with sharp, huge claws
+Gained By: SaberLeomon
+Rose Rapier
+Effect & Range: 109, (XXOXX) Selectable
+MP Cost: 127
+Attribute: Thunder
+Description: Slash 1 zone with the tip of a whip (Confusion)
+Gained By: Rosemon
+Transcndnt Swd
+Effect & Range: 146, (XXOOX) Selectable
+MP Cost: 201
+Attribute: Holy
+Description: Slash 2 zones with ballistic waves of light
+Gained By: Omnimon
+Eye Blow
+Effect & Range: 110, (XXOXX) Selectable
+MP Cost: 136
+Attribute: Dark
+Description: Shoot arrows at 1 zone from the evil eyes
+Gained By: Ghoulmon
+Lightning Spear
+Effect & Range: 110, (XXOXX) Selectable
+MP Cost: 136
+Attribute: Thunder
+Description: Throw a spear of lightning at 1 zone
+Gained By: Cherubimon (Good)
+Invincible Swd
+Effect & Range: 152, (XOOOX) Selectable
+MP Cost: 224
+Attribute: Holy
+Description: Slash 3 zones with the "Blutgang" energy sword
+Gained By: Gallantmon Crimson Mode
+ULTI Flare
+Effect & Range: 155, (XXOXX) Selectable
+MP Cost: 224
+Attribute: Fire
+Description: Attack 1 zone by shooting balls of fire
+Gained By: Armageddemon
+Dynamic Cannon
+Effect & Range: 114, (XXOOX) Selectable
+MP Cost: 145
+Attribute: Fire
+Description: Attack 2 zones with fireballs from a cannon
+Gained By: Cannondramon
+Double Impact
+Effect & Range: 122, (XXOOX) Selectable
+MP Cost: 174
+Attribute: Dark
+Description: Shoot 2 zones with two favorite shotguns
+Gained By: Beelzemon
+Eye Blow
+Effect & Range: 112, (XOXOX) Selectable
+MP Cost: 184
+Attribute: Dark
+Description: Shoot arrows at 2 zones from the evil eyes (Death)
+Gained By: Ghoulmon (Black)
+Mystic Pulse
+Effect & Range: 135, (XXOOX) Selectable
+MP Cost: 198
+Attribute: Dark
+Description: Attack 2 zones with the Gorgon shield (Poison)
+Gained By: Chaos Gallantmon
+Fenrir Sword
+Effect & Range: 108, (XXOOX) Selectable
+MP Cost: 138
+Attribute: Water
+Description: Slash 2 zones with a freezing sword (Sleep)
+Gained By: Valkyrimon
+Mjollnir Hammer
+Effect & Range: 119, (XXOOX) Selectable
+MP Cost: 151
+Attribute: Water
+Description: Attack 2 zones with the weapon "Mjollnir"
+Gained By: Vikemon
+Megido Flame
+Effect & Range: 140, (XXOOX) Selectable
+MP Cost: 204
+Attribute: Fire
+Description: Burn 2 zones with a reckless fire of anger
+Gained By: Megidramon
+Jumbo Crater
+Effect & Range: 149, (OOOOO) Fixed
+MP Cost: 203
+Attribute: Steel
+Description: Fire shining energy balls into 2 zones
+Gained By: JumboGamemon
+Crescnt Harken
+Effect & Range: 116, (XOXOX) Selectable
+MP Cost: 159
+Attribute: Dark
+Description: A succession of attacks on 2 zones (Confuse)
+Gained By: Dianamon
+Musou Tenshou
+Effect & Range: 137, (XOOOX) Selectable
+MP Cost: 212
+Attribute: Wind
+Description: Attack 3 zones by unleashing an aura of darkness
+Gained By: Ravemon Burst Mode
+Strike Roll
+Effect & Range: 106, (XOOOX) Selectable
+MP Cost: 201
+Attribute: Earth
+Description: Slash 3 zones with the sword of "Olympia"
+Gained By: Minervamon
+Leopard Mode
+Effect & Range: 130, (XXOOX) Selectable
+MP Cost: 193
+Attribute: Holy
+Description: Slash 2 zones in the form of a beast
+Gained By: Duftmon
+3x
+Needle Spray
+Effect & Range: 33, (XXOXX) Selectable
+MP Cost: 77
+Attribute: Thunder
+Description: Attack 1 zone with consecutive punches
+Gained By: Togemon
+Wolf Claw
+Effect & Range: 58, (XXOXX) Selectable
+MP Cost: 113
+Attribute: Dark
+Description: Slash 1 zone with claws of dark power
+Gained By: WarGarurumon (Black)
+Wolf Claw
+Effect & Range: 58, (XXOXX) Selectable
+MP Cost: 113
+Attribute: Earth
+Description: Slash 1 zone with sharp claws
+Gained By: WarGarurumon (Blue)
+Digital Bomb
+Effect & Range: 58, (XXOXX) Selectable
+MP Cost: 112
+Attribute: Steel
+Description: Attack 1 zone with sharp claws
+Gained By: Datamon
+Mega Twister
+Effect & Range: 56, (XXOXX) Selectable
+MP Cost: 116
+Attribute: Wind
+Description: Slash 1 zone with into pieces with a sharp scythe
+Gained By: Kyukimon
+Heat Viper
+Effect & Range: 70, (XXOOX) Selectable
+MP Cost: 128
+Attribute: Dark
+Description: Attack 2 zones with multiple death rays
+Gained By: Kimeramon
+Grand Arrow
+Effect & Range: 59, (XXOXX) Selectable
+MP Cost: 116
+Attribute: Dark
+Description: Slash 1 zone into pieces with a rapier
+Gained By: Matadormon
+G Blaster 2
+Effect & Range: 60, (XXOXX) Selectable
+MP Cost: 118
+Attribute: Fire
+Description: Fire missiles and cover 1 zone in flames
+Gained By: MetalTyrannomon
+B Smiley Bomb
+Effect & Range: 61, (XXOXX) Selectable
+MP Cost: 122
+Attribute: Steel
+Description: Blow up 1 zone by throwing Mamemon like a bomb
+Gained By: Big Mamemon
+Rook Gatling
+Effect & Range: 55, (XXOXX) Selectable
+MP Cost: 114
+Attribute: Steel
+Description: Blast 1 zone with the arm cannon
+Gained By: RookChessmon
+Phantom Turban
+Effect & Range: 84, (XXOXX) Selectable
+MP Cost: 206
+Attribute: Holy
+Description: Attack 1 zone by controlling a turban (Sleep)
+Gained By: Lampmon
+Trump Sword
+Effect & Range: 96, (XXOXX) Selectable
+MP Cost: 183
+Attribute: Dark
+Description: Attack 1 zone with sword on the back (Confuse)
+Gained By: Piedmon
+VN Infuse
+Effect & Range: 103, (XXOXX) Selectable
+MP Cost: 203
+Attribute: Dark
+Description: Pollute 1 zone with data killing arrows (Paralyze)
+Gained By: VenomMyotismon
+Hung on Death
+Effect & Range: 97, (XXOXX) Selectable
+MP Cost: 185
+Attribute: Holy
+Description: Attack 1 zone with a rare branch (Confuse)
+Gained By: Jijimon
+Bifrost
+Effect & Range: 105, (XXOXX) Selectable
+MP Cost: 202
+Attribute: Holy
+Description: Unleash an arrow of intense heat at 1 zone
+Gained By: Sleipmon
+Gale Claw
+Effect & Range: 104, (XXOXX) Selectable
+MP Cost: 193
+Attribute: Earth
+Description: Slash 1 zone with quick claws
+Gained By: MirageGaogamon, DotMirageGaogamon
+Aurora Angel R
+Effect & Range: 101, (XXOXX) Selectable
+MP Cost: 198
+Attribute: Holy
+Description: Unleash celestial balls of light at 1 zone
+Gained By: Varodurumon
+Corona Blaze S
+Effect & Range: 124, (XXOXX) Selectable
+MP Cost: 228
+Attribute: Fire
+Description: Slash 1 zone with a sword/shield of fire
+Gained By: Shine Greymon Burst Mode
+Buff
+Kurumon Prayer
+Effect & Range: —, (OOOOO) Fixed
+MP Cost: 330
+Attribute: Holy
+Description: Restore status and raise all resistance
+Gained By: Calumon
