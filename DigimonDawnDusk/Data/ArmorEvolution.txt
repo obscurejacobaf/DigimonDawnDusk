@@ -1,0 +1,47 @@
+- Friendship: Armadillomon -> Kenkimon
+Condition: Armadillomon at Lv24+ with 2300 or more Machine EXP
+
+- Light: Armadillomon -> Seahomon
+Condition: Armadillomon at Lv27+ with 2700 or more Dragon EXP
+
+- Sincerity: Hawkmon -> Shurimon
+Condition: Hawkmon at Lv22+ with 800 or more Insect/Plant EXP.
+
+- Courage: Hawkmon -> Allomon
+Condition: Hawkmon at Lv21+ with 110 or more Attack Stat
+
+- Kindness: Hawkmon -> Toucanmon
+Condition: Hawkmon at Lv20+ with 105 or more Defense Stat
+
+- Love: Patamon -> Pipismon
+Condition: Patamon at Lv21+ with 100 or more Speed Stat
+
+- Sincerity: Patamon -> Punchomon
+Condition: Patamon at Lv 23+ with 2000 or more Dark EXP
+
+- Kindness: Patamon -> Prairiemon
+Condition: Patamon at Lv27+ with 135 or more Attack Stat
+
+- Courage: Tailmon/Gatomon -> Lynxmon
+Condition: Tailmon at Lv29+ with 130 or more Speed Stat
+
+- Sincerity: Tailmon/Gatomon -> Kabukimon
+Condition: Tailmon at Lv31+ with 2000 or more Insect/Plant EXP
+
+- Reliability: Tailmon/Gatomon -> Tylomon
+Condition: Tail mon at Lv27+ with 2200 or more Aquan EXP
+
+- Courage: Veemon -> Flamedramon
+Condition: Veemon at Lv22+ with 2500 or more Dragon EXP
+
+- Miracles: Veemon -> Magnamon
+Condition: Veemon at Lv 40+ with 10000 or more Holy EXP
+
+- Courage: Wormmon -> Shadramon
+Condition: Wormmon at Lv30+ with 6000 or more Dark EXP
+
+- Love: Wormmon -> Owlmon
+Condition: Wormmon at Lv21 & bove with 110 or more Spirit Stat
+
+- Miracles: Wormmon -> Kongoumon
+Condition: Wormmon at Lv32+ with 190 or more Attack Stat

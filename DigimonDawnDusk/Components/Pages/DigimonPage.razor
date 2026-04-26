@@ -1,0 +1,97 @@
+﻿@page "/Digimon"
+@using Microsoft.AspNetCore.Components.QuickGrid
+
+<QuickGrid Items="Digimon" Class="table">
+	<PropertyColumn Property="x => x.Name" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="string" @bind-Value="Names" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="x => x.Type" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="TypeEnum" @bind-Value="Types" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="x => x.Species" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="SpeciesEnum" @bind-Value="Species" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="x => x.Resistance" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="AttributeEnum" @bind-Value="Resistances" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="x => x.Weakness" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="AttributeEnum" @bind-Value="Weaknesses" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="x => x.Dwelling" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="string" @bind-Value="Dwelling" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="x => x.TraitNames" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="string" @bind-Value="Traits" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+	<PropertyColumn Property="x => x.MoveNames" Sortable="true">
+		<ColumnOptions>
+			<ColumnFilter T="string" @bind-Value="Moves" Placeholder="..." />
+		</ColumnOptions>
+	</PropertyColumn>
+</QuickGrid>
+
+@code {
+	[Inject]
+	public required IDbContextFactory<DigimonDbContext> Factory { get; init; }
+	private List<Digimon> AllDigimon = default!;
+	private IQueryable<Digimon> Digimon => ApplyFilters();
+
+	private MultiSelectItems<string> Names = default!;
+	private MultiSelectItems<TypeEnum> Types = default!;
+	private MultiSelectItems<SpeciesEnum> Species = default!;
+	private MultiSelectItems<AttributeEnum> Resistances = default!;
+	private MultiSelectItems<AttributeEnum> Weaknesses = default!;
+	private MultiSelectItems<string> Dwelling = default!;
+	private MultiSelectItems<string> Traits = default!;
+	private MultiSelectItems<string> Moves = default!;
+
+	protected override async Task OnInitializedAsync()
+	{
+		using var context = await Factory.CreateDbContextAsync();
+		AllDigimon = await context.Digimon.Include(x => x.Traits)
+			.Include(x => x.Moves).AsNoTracking().ToListAsync();
+
+		Names = new(AllDigimon.Select(x => x.Name));
+		Types = new(Enum.GetValues<TypeEnum>());
+		Species = new(Enum.GetValues<SpeciesEnum>());
+		Resistances = new(Enum.GetValues<AttributeEnum>());
+		Weaknesses = new(Enum.GetValues<AttributeEnum>());
+		Dwelling = new(AllDigimon.Select(x => x.Dwelling));
+		Traits = new(await context.Traits.Select(x => x.Name).ToListAsync(), false);
+		Moves = new(await context.Moves.Select(x => x.Name).ToListAsync());
+	}
+
+	private IQueryable<Digimon> ApplyFilters()
+	{
+		var digimon = AllDigimon.AsQueryable().Where(x =>
+			Names[x.Name] &&
+			Types[x.Type] &&
+			Species[x.Species] &&
+			Resistances[x.Resistance] &&
+			Weaknesses[x.Weakness] &&
+			Dwelling[x.Dwelling] &&
+			x.Moves.Select(x => x.Name).Any(x => Moves[x]));
+
+		var selectedTraits = Traits.Where(x => x.Value).ToDictionary();
+		if (selectedTraits.Count != 0)
+		{
+			digimon = digimon.Where(x => selectedTraits.All(st => x.Traits.Any(dt => st.Key == dt.Name)));
+		}
+
+		return digimon;
+	}
+}

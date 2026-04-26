@@ -861,7 +861,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 056
-Digimon Name: Shamamon
+Digimon Name: Shamanmon
 Type: Technical
 
 Species: Beast
@@ -1485,7 +1485,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 095
-Digimon Name: Veggiemon
+Digimon Name: Vegiemon
 Type: MPType
 
 Species: InsectPlant
@@ -1805,7 +1805,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 115
-Digimon Name: Kurisarimon
+Digimon Name: Chrysalimon
 Type: Tank
 
 Species: Dark
@@ -2366,18 +2366,18 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 150
-Digimon Name: NiseDorimogemon
-Type: Tank
+Digimon Name: Wendigomon
+Type: Attacker
 
 Species: Beast
 Elemental Alignment: Earth
-Elemental Weakness: Fire
+Elemental Weakness: Holy
 
-Dwelling: Limit Valley
+Dwelling: Register Jungle
 
 Traits:
-- Protect 3
-- Heart of the Earth 3
+- Powerful 3
+- Dark Whispers 3
 
 --------------------------------------------------
 
@@ -2398,39 +2398,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 152
-Digimon Name: Wendigomon
-Type: Attacker
-
-Species: Beast
-Elemental Alignment: Earth
-Elemental Weakness: Holy
-
-Dwelling: Register Jungle
-
-Traits:
-- Powerful 3
-- Dark Whispers 3
-
---------------------------------------------------
-
-Digimon No.: 153
-Digimon Name: Fuugamon
-Type: Balance
-
-Species: Beast
-Elemental Alignment: Earth
-Elemental Weakness: Fire
-
-Dwelling: Pallette Amazon
-
-Traits:
-- Powerful 3
-- EX Damage 2
-
---------------------------------------------------
-
-Digimon No.: 154
-Digimon Name: Tsuchidarumon
+Digimon Name: MudFrigimon
 Type: HPType
 
 Species: Beast
@@ -2445,7 +2413,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 155
+Digimon No.: 153
 Digimon Name: Tortomon
 Type: Tank
 
@@ -2461,7 +2429,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 156
+Digimon No.: 154
 Digimon Name: Ebidramon
 Type: Attacker
 
@@ -2477,7 +2445,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 157
+Digimon No.: 155
 Digimon Name: Octomon
 Type: Balance
 
@@ -2493,7 +2461,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 158
+Digimon No.: 156
 Digimon Name: Gesomon
 Type: Attacker
 
@@ -2509,7 +2477,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 159
+Digimon No.: 157
 Digimon Name: Coelamon
 Type: MPType
 
@@ -2525,7 +2493,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 160
+Digimon No.: 158
 Digimon Name: Shellmon
 Type: Tank
 
@@ -2541,7 +2509,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 161
+Digimon No.: 159
 Digimon Name: Frigimon
 Type: Balance
 
@@ -2557,7 +2525,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 161
+Digimon No.: 160
 Digimon Name: Geremon
 Type: Attacker
 
@@ -2573,7 +2541,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 162
+Digimon No.: 161
 Digimon Name: Hyogamon
 Type: Technical
 
@@ -2589,7 +2557,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 163
+Digimon No.: 162
 Digimon Name: KaratsukiNumemon
 Type: Tank
 
@@ -2605,7 +2573,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 164
+Digimon No.: 163
 Digimon Name: IceDevimon
 Type: Balance
 
@@ -2621,7 +2589,7 @@ Traits:
 
 --------------------------------------------------
 
-Digimon No.: 165
+Digimon No.: 164
 Digimon Name: Dolphmon
 Type: Speed
 
@@ -4597,7 +4565,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 282
-Digimon Name: Shaujinmon
+Digimon Name: Shawjamon
 Type: Technical
 
 Species: Aquan
@@ -4835,7 +4803,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 296
-Digimon Name: Argomon Ultimate
+Digimon Name: Argomon (Ultimate)
 Type: Balance
 
 Species: Dark
@@ -5356,7 +5324,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 325
-Digimon Name: Mega Gargomon
+Digimon Name: MegaGargomon
 Type: Attacker
 
 Species: Beast
@@ -5716,7 +5684,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 345
-Digimon Name: SL Angemon
+Digimon Name: SlashAngemon
 Type: Attacker
 
 Species: Holy
@@ -6076,7 +6044,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 365
-Digimon Name: GrandisKuwagamon
+Digimon Name: GranKuwagamon
 Type: Attacker
 
 Species: InsectPlant
@@ -6597,7 +6565,7 @@ Traits:
 --------------------------------------------------
 
 Digimon No.: 394
-Digimon Name: Argomon Mega
+Digimon Name: Argomon (Mega)
 Type: Balance
 
 Species: Dark

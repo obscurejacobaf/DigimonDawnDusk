@@ -1,659 +1,311 @@
---------------------
-
-- Gummymon -> Terriermon -> Gargomon -> Rapidmon -> MegaGargomon
 Gummymon -> Terriermon: Lv9+
 Terriermon -> Gargomon: Lv20+, Friendship 60%+, Beast EXP480+
 Gargomon -> Rapidmon: Lv33+, Spd 145+, Machine EXP3500+
 Rapidmon -> MegaGargomon: Lv50+, Holy EXP8000+ & Machine EXP8000+
-
-- Gummymon -> Tapirmon -> Unimon -> Pixiemon -> Jijimon
 Gummymon -> Tapirmon: Lv16+, Holy EXP470+
 Tapirmon -> Unimon: Lv22+, Spd 90+
-Unimon -> Pixiemon: Lv33+, Spr 145+, Holy EXP4300+
-
-- Gummymon -> Tapirmon -> Saesarmon
-Tapirmon -> Saesarmon: Lv24+, Def 120+, Holy EXP800+
-
-- Gummymon -> Renamon -> Kyubimon -> Taomon -> Sakuyamon
+Unimon -> Piximon: Lv33+, Spr 145+, Holy EXP4300+
+Tapirmon -> Seasarmon: Lv24+, Def 120+, Holy EXP800+
 Gummymon -> Renamon: Lv12+, Spd 70+
 Renamon -> Kyubimon: Lv23+, Spr 125+
 Kyubimon -> Taomon: Lv36+, Friendship 80%+, Spr 185+
 Taomon -> Sakuyamon: Lv52+, Holy EXP16000+, Must have Befriended Kuzuhamon
-
-- Gummymon -> Renamon -> Sorcerymon
 Renamon -> Sorcerymon: Friendship 70%+, Holy EXP700+
-
---------------------
-
-- Puttomon -> Plotmon/Protomon -> Tailmon/Gatomon -> Angewomon -> Ophanimon
-Puttomon -> Plotmon: Lv7+
-Plotmon -> Tailmon: Lv18+, Friendship 70%+
-Tailmon -> Angewomon: Lv35+, Attack 160+, Holy EXP2700+
+Puttimon -> Salamon: Lv7+
+Salamon -> Gatomon: Lv18+, Friendship 70%+
+Gatomon -> Angewomon: Lv35+, Attack 160+, Holy EXP2700+
 Angewomon -> Ophanimon: Lv64+, Spr255+, Holy EXP27000+
-
-- Puttomon -> Kudamon -> Reppamon -> Kirinmon/Tylinmon/Qilinmon -> Sleipmon
-Puttomon -> Kudamon: Lv15+, Apt 25+, Must have Befriended Kudamon
+Puttimon -> Kudamon: Lv15+, Apt 25+, Must have Befriended Kudamon
 Kudamon -> Reppamon: Lv27+, Spd 125+, Holy EXP800+
-Reppamon -> Tylinmon/Qilinmon: Lv43+, Spr 210+, Holy EXP7100+
-Tylinmon/Qilinmon -> Sleipmon: Lv65+, Atk 370+, Holy EXP48000+
-
-- Puttomon -> Kudamon -> Starmon -> SuperStarmon
+Reppamon -> Chirinmon: Lv43+, Spr 210+, Holy EXP7100+
+Chirinmon -> Sleipmon: Lv65+, Atk 370+, Holy EXP48000+
 Kudamon -> Starmon: Lv24+, Friendship 70%+, Spr 115+
 Starmon -> SuperStarmon: Lv41+, Atk 190+, Holy EXP8800+
-
-- Puttomon -> PawnChessmonWh -> KnightChessmonWh -> BishopChessmon -> KingChessmon
-Puttomon -> PawnChessmonWhite: Lv11+, Machine EXP200+
-PawnChessmonWhite -> KnightChessmonWhite: Lv21+, Spd 100+
-KnightChessmonWhite -> BishopChessmon: Lv34+, Atk 175+
+Puttimon -> PawnChessmon (White): Lv11+, Machine EXP200+
+PawnChessmon (White) -> KnightChessmon (White): Lv21+, Spd 100+
+KnightChessmon (White) -> BishopChessmon: Lv34+, Atk 175+
 BishopChessmon -> KingChessmon: Lv50+, Apt 55+, Machine EXP13000+
-
---------------------
-
-- Sunmon -> Coronamon -> Firamon -> Flaremon -> Apollomon
 Sunmon -> Coronamon: Lv11+, Friendship 50%+
 Coronamon -> Firamon: Lv25+, Friendship 70%+, Beast EXP700+
 Firamon -> Flaremon: Lv40+, Friendship 80%+, Spr 140+
 Flaremon -> Apollomon: Lv55+, Friendship 100%, Holy EXP17500+
-
---------------------
-
-- Botamon -> BlackAgumon -> Monochromon -> Vermillimon -> BlackWarGreymon
 Botamon -> BlackAgumon: Lv7+, Atk75+
 BlackAgumon -> Monochromon: Lv19+, Dragon EXP220+
-Monochromon -> Vermillimon: Lv37+, Def 175+, Dragon EXP3500+
-Vermillimon -> BlackWargreymon: Lv58+, Spr 290+, Dark EXP21000+
-
-- Botamon -> BlackAgumon -> DarkTyrannomon -> SkullGreymon -> Mugendramon/Machinedramon
+Monochromon -> Vermilimon: Lv37+, Def 175+, Dragon EXP3500+
+Vermilimon -> BlackWarGreymon: Lv58+, Spr 290+, Dark EXP21000+
 BlackAgumon -> DarkTyrannomon: Lv21+, Atk 100+, Dark EXP1000+
 DarkTyrannomon -> SkullGreymon: Lv42+, Dark EXP7000+, Must have Befriended SkullGreymon
 SkullGreymon -> Machinedramon: Lv55+, Atk 280+, Must have Befriended MetalSeadramon
-
-- Botamon -> Black Agumon -> DarkTyrannomon -> MetalTyrannomon
-Dark Tyrannomon -> MetalTyrannomon: Lv34+, Machine EXP5500+
-
-- Botamon -> Candlemon -> DarkRizamon -> Volcamon
+DarkTyrannomon -> MetalTyrannomon: Lv34+, Machine EXP5500+
 Botamon -> Candlemon: Lv13+, Dark EXP120+
-Candlemon -> DarkRizamon: Lv20+, Dragon EXP650+
-DarkRizamon -> Volcamon: Lv26+, Atk 160+, Dark EXP3400+
-
-- Botamon -> Candlemon -> FlareRizamon
+Candlemon -> DarkLizardmon: Lv20+, Dragon EXP650+
+DarkLizardmon -> Volcamon: Lv26+, Atk 160+, Dark EXP3400+
 Candlemon -> FlareRizamon: Lv20+, Dragon EXP650+
-
---------------------
-
-- Chocomon -> Lopmon -> Centaurmon -> BlackRapidmon -> BlackMegaGargomon
-Chocomon -> Lopmon: Lv9+
-Lopmon -> Centaurmon: Lv20+, Machine EXP480+
-Centaurmon -> BlackRapidmon: Lv33+, Spd 145+, Machine EXP3500+
+Kokomon -> Lopmon: Lv9+
+Lopmon -> Centarumon: Lv20+, Machine EXP480+
+Centarumon -> BlackRapidmon: Lv33+, Spd 145+, Machine EXP3500+
 BlackRapidmon -> BlackMegaGargomon: Lv50+, Dark EXP8000+, Machine EXP8000+
-
-- Chocomon -> Lopmon -> Wendigomon -> Antylamon -> Cherubimon(Vaccine)/Cherubimon(Virus)
 Lopmon -> Wendigomon: Lv29+, Dark EXP1800+
 Wendigomon -> Antylamon: Lv41+, Friendship 80%+
-Antylamon -> Cherubimon(Vaccine): Lv62+, Spr 360+, Holy EXP30000+
-Antylamon -> Cherubimon(Virus): Lv62+, Atk 300+, Dark EXP23000+
-
---------------------
-
-- Kuramon -> Tsukaimon -> Bakemon -> Phantomon -> GhoulmonB or Apocalymon
+Antylamon -> Cherubimon (Good): Lv62+, Spr 360+, Holy EXP30000+
+Antylamon -> Cherubimon (Evil): Lv62+, Atk 300+, Dark EXP23000+
 Kuramon -> Tsukaimon: Lv8+
 Tsukaimon -> Bakemon: Lv19+, Dark EXP420+
 Bakemon -> Phantomon: Lv34+ Dark EXP4200+
-Phantomon -> GhoulmonB: Lv49+, Atk 230+, Drak EXP10500+
+Phantomon -> Ghoulmon (Black): Lv49+, Atk 230+, Drak EXP10500+
 Phantomon -> Apocalymon: Lv71+, Dark EXP44444+, Must have Befriended Apocalymon
-
-- Kuramon -> Tsukaimon -> Devidramon -> Kimeramon -> MoonMilleniumon
 Tsukaimon -> Devidramon: Lv22+, Dragon EXP350+, Dark EXP300+
-Devidramon -> Kimeramon -> Lv44+, Dark EXP11000+, Must have Befriended Kimeramon
-Kimeramon -> MoonMilleniumon: Lv66+, Spr 370+, Must have Befriended Milleniumon
-
-- Kuramon -> Tsukaimon -> Devidramon -> Gigadramon
+Devidramon -> Kimeramon: Lv44+, Dark EXP11000+, Must have Befriended Kimeramon
+Kimeramon -> MoonMillenniummon: Lv66+, Spr 370+, Must have Befriended Milleniumon
 Devidramon -> Gigadramon: Lv40+, Atk 195+, Machine EXP4400+
-
---------------------
-
-- Moonmon -> Lunamon -> Lekismon -> Crescemon -> Dianamon
 Moonmon -> Lunamon: Lv9+, Friendship 50%+
 Lunamon -> Lekismon: Lv19+, Friendship 70%+
 Lekismon -> Crescemon: Lv33+, Friendship 80%+, Dark EXP2800+
 Crescemon -> Dianamon: Lv50+ Friendship 100%, Dark EXP14500+
-
---------------------
-
-- Pagumon -> PicoDevimon -> Devimon -> Vamdemon -> VenomVamdemon
-Pagumon -> PicoDevimon: Lv10+
-PicoDevimon -> Devimon: Lv21+, Dark EXp450+
-Devimon -> Vamdemon: Lv42+, Spr 195+, Dark EXP10000+
-Vamdemon -> VenomVamdemon: Lv66+, Beast EXP6666+, PicoDevimon MUST BE IN PARTY
-
-- Pagumon -> PicoDevimon -> Musyamon -> Vajiramon -> Zanbamon or Boltmon
-PicoDevimon -> Musyamon: Lv26+, Atk 130+, Dark EXP1200+
-Musyamon -> Vajiramon: Lv35+, Defense 160+. Beast EXP3700+
-Vajiramon -> Zanbamon: Lv47+, Spd 240+, Dark EXP13000+
-Vajiramon -> Boltmon: Lv47+, Spd 240+, Dark EXP13000+
-
-- Pagumon -> Impmon -> Evilmon -> LadyDevimon -> Lilithmon
+Pagumon -> DemiDevimon: Lv10+
+DemiDevimon -> Devimon: Lv21+, Dark EXp450+
+Devimon -> Myotismon: Lv42+, Spr 195+, Dark EXP10000+
+Myotismon -> VenomMyotismon: Lv66+, Beast EXP6666+, DemiDevimon MUST BE IN PARTY
+DemiDevimon -> Musyamon: Lv26+, Atk 130+, Dark EXP1200+
+Musyamon -> Vajramon: Lv35+, Defense 160+. Beast EXP3700+
+Vajramon -> Zanbamon: Lv47+, Spd 240+, Dark EXP13000+
+Vajramon -> Boltmon: Lv47+, Spd 240+, Dark EXP13000+
 Pagumon -> Impmon: Lv15+, Spirit 80+, Dark EXP490+
-Impmon -> Evilmon: Lv23+, Dark EXP950+
-Evilmon -> LadyDevimon: Lv39+, Atk 185+, Dark EXP6200+
+Impmon -> Vilemon: Lv23+, Dark EXP950+
+Vilemon -> LadyDevimon: Lv39+, Atk 185+, Dark EXP6200+
 LadyDevimon -> Lilithmon: Lv64+, Spirit 300+, Dark EXP32000+
-
-- Pagumon -> Impmon -> Wizardmon -> Mummymon -> Pharaohmon
 Impmon -> Wizardmon: Lv25+, Friendship 70%+, Dark EXP700+
 Wizardmon -> Mummymon: Lv36+, Spr 180+, Dark EXP5100+
 Mummymon -> Pharaohmon: Lv50+, Holy EXP9000+, Dark EXP9000+
-
---------------------
-
-- Tsumemon -> Keramon -> Chrysalimon -> Infermon -> Diaboromon
 Tsumemon -> Keramon: Lv18+, Dark EXP450+, Must have Befriended Keramon
 Keramon -> Chrysalimon: Lv27+, Def 110+, Must have Befriended Keramon
 Chrysalimon -> Infermon: Lv36+, Atk 200+
 Infermon -> Diaboromon: Lv45+, Dark EXP25000+, Must have Befriended Keramon
-
-- Tsumemon -> Keramon -> Chrysalimon -> ArgomonUT -> ArgomonMG
-Chrysalimon -> ArgomonUT: Lv48+, Spr 320+, Insect/Plant EXP20000+
-ArgomonUT -> ArgomonMG: Lv62+, Atk 400+, Dark EXP40000+
-
-- Tsumemon -> Dracmon -> SangLoupmon -> Matadormon -> Piedmon
+Chrysalimon -> Argomon (Ultimate): Lv48+, Spr 320+, Insect/Plant EXP20000+
+Argomon (Ultimate) -> Argomon (Mega): Lv62+, Atk 400+, Dark EXP40000+
 Tsumemon -> Dracmon: Lv9+
 Dracmon -> SangLoupmon: Lv19+, Beast EXP500+
 SangLoupmon -> Matadormon: Lv35+, Spd 175+, Dark EXP3900+
 Matadormon -> Piedmon: Lv55+, Must have Befriended both Piedmon & Puppetmon
-
---------------------
-
-- Chicomon -> Veemon -> ExVeemon
-Chicomon -> Veemon: Lv10+, Friendship 50%+
+Chibomon -> Veemon: Lv10+, Friendship 50%+
 Veemon -> ExVeemon: Lv23+, Atk 120+, Spr 115+
-
-- Chicomon -> Veemon -> Veedramon -> AeroVeedramon -> Goldramon
 Veemon -> Veedramon: Lv18+, Atk 90+, Dragon EXP340+
 Veedramon -> AeroVeedramon: Lv36+, Atk 190+, Dragon EXP4100+
 AeroVeedramon -> Goldramon: Lv63+, Holy EXP45000+, Must have Befriended Airdramon
-
-- Chicomon -> Monodramon -> Dinohumon -> Cyberdramon -> Justimon
-Chicomon -> Monodramon: Lv15+, Dragon EXP 300+
+Chibomon -> Monodramon: Lv15+, Dragon EXP 300+
 Monodramon -> Dinohumon: Lv24+, Dragon EXP900+
 Dinohumon -> Cyberdramon: Lv38+, Atk 195+, Machine EXP3800+
 Cyberdramon -> Justimon: Lv51+, Spr 250+, Machine EXP18000+
-
-- Chicomon -> Monodramon -> Airdramon -> Megadramon -> Darkdramon
 Monodramon -> Airdramon: Lv21+, Species EXP4100+, Must have Befriended Airdramon
 Airdramon -> Megadramon: Lv34+, Machine EXP3800+
 Megadramon -> Darkdramon: Lv52+, Dark EXP12000+, Machine EXP9000+
-
---------------------
-
-- Gigimon -> Guilmon -> Growlmon -> WarGrowlmon -> Gallantmon or Megidramon
 Gigimon -> Guilmon: Lv11+, Must have Befriended Guilmon
 Guilmon -> Growlmon: Lv21+, Atk 105+, Must have Befriended Guilmon
 Growlmon -> WarGrowlmon: Lv36+, Spr 130+, Machine EXP2100+
 WarGrowlmon -> Megidramon: Lv48+, Dark EXP9000+, Must have Befriended Guilmon
 WarGrowlmon -> Gallantmon: Lv60+, Friendship 90%+, Must have Befriended Megidramon
-
-- Gigimon -> Guilmon -> Growlmon -> BlackWarGrowlmon
 Growlmon -> WarGrowlmon: Lv40+, Dark EXP3600+, Machine EXP3300+
-
-- Gigimon -> Guilmon -> Tyrannomon -> Triceramon -> Cannondramon
 Guilmon -> Tyrannomon: Lv21+, Dragon EXP340+
 Tyrannomon -> Triceramon: Lv33+, Def 135+, Dragon EXP2000+
 Triceramon -> Cannondramon: Lv47+, Attack 255+, Machine EXP12500+
-
---------------------
-
-- Koromon -> Agumon -> Greymon -> MetalGreymon -> WarGreymon
 Koromon -> Agumon: Lv7+
 Agumon -> Greymon: Lv18+, Dragon EXP280+
 Greymon -> MetalGreymon: Lv34+, Friendship 70%+, Dragon EXP3000+
 MetalGreymon -> WarGreymon: Lv52+, Friendship 90%+,Must have Befriended Agumon
-
-- Koromon -> Agumon -> GeoGreymon -> RizeGreymon -> ShineGreymon or DotShineGreymon
 Agumon -> GeoGreymon: Lv20+, Friendship 60%+, Attack 90+
 GeoGreymon -> RizeGreymon: Lv35+, Dragon EXP3500+, Machine EXP3500+
 RizeGreymon -> ShineGreymon: Lv54+, Attack 270+, Holy EXP13000+
 RizeGreymon -> DotShineGreymon: Lv50+, Apt 55+, Machine EXP12000+
-
-- Koromon -> DotAgumon
 Koromon -> DotAgumon: Lv30+, Apt 45+, Must have Befriended DotAgumon
-
---------------------
-
-- Dorimon -> Dorumon -> Dorugamon -> Dorugreymon -> Dorugoramon
 Dorimon -> Dorumon: Lv8+, Beast EXP100+
 Dorumon -> Dorugamon: Lv24+, Dragon EXP4800+, Machine EXP3000+
 Dorugamon -> Dorugreymon: Lv38+, Dragon EXP4800+, Machine EXP3000+
-DoruGreymon -> Doruoramon: Lv54+, Atk 265+, Species EXP57000+
-
-- Dorimon -> Dorumon -> Dorimogemon
-Dorumon -> Dorimogemon: Lv19+, Atk 90+, Apt 25+
-
-- Dorimon -> Armadillomon -> Ankylomon or NiseDorimogemon
+DoruGreymon -> Dorugoramon: Lv54+, Atk 265+, Species EXP57000+
+Dorumon -> Drimogemon: Lv19+, Atk 90+, Apt 25+
 Dorimon -> Armadillomon: Lv11+, Friendship 60%+
 Armadillomon -> Ankylomon: Lv23+, Defense 100+, Beast EXP500+
-Armadillomon -> Nisedorimogemon: Lv19+, Atk 90+, Apt 25+
-
-- Dorimon -> Shamanmon -> Fuugamon
+Armadillomon -> NiseDrimogemon: Lv19+, Atk 90+, Apt 25+
 Dorimon -> Shamanmon: Lv14+, Spr 75+
-Shamanmon -> Fuugamon: Lv24+, Atk 120+, Beast EXP450+
-
-
-- Dorimon -> Shamanmon -> Hanumon/Apemon -> Kyukimon -> Kuzuhamon
-Shamanmon -> Hanumon: Lv26+, Holy EXP260+, Must have Befriended Hanumon/Apemon
-Hanumon -> Kyukimon: Lv34+, Spd 180+, Beast EXP4000+
+Shamanmon -> Fugamon: Lv24+, Atk 120+, Beast EXP450+
+Shamanmon -> Apemon: Lv26+, Holy EXP260+, Must have Befriended Apemon/Apemon
+Apemon -> Kyukimon: Lv34+, Spd 180+, Beast EXP4000+
 Kyukimon -> Kuzuhamon: Lv48+, Holy EXP9800+, Must have Befriended Kuzuhamon
-
---------------------
-
-- Tsunomon -> Gabumon -> Garurumon -> WereGarurumon -> MetalGarurumon
 Tsunomon -> Gabumon: Lv8+
 Gabumon -> Garurumon: Lv19+, Friendship 60%+, Attack 100+
 Garurumon -> WereGarurumon: Lv35+, Spd 170+, Beast EXP4500+
 WereGarurumon -> MetalGarurumon: Lv52+, Friendship 90%+, Must have Befriended Gabumon
-
-- Tsunomon -> Gabumon -> J.Mojyamon
-Gabumon -> J.Mojyamon: Lv17+, Beast EXP350+
-
-- Tsunomon -> Goburimon -> Ogremon -> WereGarurumonBlack -> Gulfmon
+Gabumon -> JungleMojyamon: Lv17+, Beast EXP350+
 Tsunomon -> Goburimon: Lv12+, Atk 60+
 Goburimon -> Ogremon: Lv26+, Atk 120+, Beast EXP750+
 Ogremon -> WereGarurumonBlack: Lv41+, Spd 190+, Dark EXP6500+
 WereGarurumonBlack -> Gulfmon: Lv56+, Dark EXP15000+, Beast EXP10000+
-
-- Tsunomon -> Goburimon -> Minotarumon -> Etemon -> MetalEtemon
 Goburimon -> Minotarumon: Lv23+, Def 95+, Beast EXP360+
 Minotarumon -> Etemon: Lv34+, Spr 135+, Beast EXP3800+
 Etemon -> MetalEtemon: Lv46+, Def 200+, Beast EXP10000+
-
-- Tsunomon -> Goburimon -> Nanimon
 Goburimon -> Nanimon: Lv20+, Friendship 70%+, Apt 28+
-
---------------------
-
-- Wanyamon -> Gaomon -> Gaogamon -> MachGaogamon -> MirageGaogamon or DotMirageGaogamon
 Wanyamon -> Gaomon: Lv7+, Friendship 60%+
 Gaomon -> Gaogamon: Lv17+, Spd 90+, Beast EXP250+
 Gaogamon -> MachGaogamon: Lv33+, Friendship 80%+, Machine EXP2800+
 MachGaogamon -> MirageGaogamon: Lv53+, Atk 235+, Spd 280+
 MachGaogamon -> DotMirageGaogamon: Lv60+, Machine EXP30000+, Must have Befriended DotMirageGaogamon
-
-- Wanyamon -> Gaomon -> Leomon -> GrappLeomon -> SaberLeomon
 Gaomon -> Leomon: Lv28+, Atk 150+, Spr 130+
-Leomon -> GrappLeomon: Lv39+, Spd 190+, Machine EXP5500+
-GrappLeomon -> SaberLeomon: Lv57+, Atk290+, Beast EXP20000+
-
-
-- Wanyamon -> Bearmon/Kumamon -> Grizzmon -> Monzaemon -> Babamon
+Leomon -> GrapLeomon: Lv39+, Spd 190+, Machine EXP5500+
+GrapLeomon -> SaberLeomon: Lv57+, Atk290+, Beast EXP20000+
 Wanyamon -> Bearmon: Lv10+
 Bearmon -> Grizzmon: Lv19+, Beast EXp390+
 Grizzmon -> Monzaemon: Lv33+, Friendship 80%+, Holy EXP4000+
 Monzaemon -> Babamon: Lv48+, Spr 220+, Holy EXP8000+
-
-
-- Wanyamon -> Bearmon/Kumamon -> Grizzmon -> Pandamon
 Grizzmon -> Pandamon: Lv36+, Beast EXP8000+, Must have Befriended Pandamon
-
-- Wanyamon -> Bearmon/Kumamon -> Mojyamon -> Mammothmon -> SkullMammothmon
 Bearmon -> Mojyamon: Lv21+, Beast EXP220+, Aquan EXP180+
 Mojyamon -> Mammothmon: Lv35+, Atk 180+, Def 185+
 Mammothmon -> SkullMammothmon: Lv49+, Dark EXP6000+, Beast EXP8000+
-
---------------------
-
-- Kapurimon -> Hagurumon -> Guardromon -> Andromon -HiAndromon
 Kapurimon -> Hagurumon: Lv10+, Friendship 50%+
 Hagurumon -> Guardromon: Lv20+, Def 105+
 Guardromon -> Andromon: Lv35+, Friendship 80%+, Atk 165+
 Andromon -> HiAndromon: Lv50+ Spr 250+, Machine EXP15000+
-
-- Kapurimon -> Hagurumon -> Hookmon
 Hagurumon -> Hookmon: Lv22+, Machine EXP450+. Aquan EXP300+
-
-- Kapurimon -> Kotemon -> Omekamon -> Tekkamon -> Puppetmon
 Kapurimon -> Kotemon: Lv12+, Atk 60+
 Kotemon -> Omekamon: Lv22+, Machine EXP580+
 Omekamon -> Tekkamon: Lv37+, Atk 170+, Spd 150+
 Tekkamon -> Puppetmon: Lv55+, Machine EXP20000+, Must have Befriended Machinedramon
-
-- Kapurimon -> Kotemon -> PlatinumSukamon
 Kotemon -> PlatinumSukamon: Lv25+, Def 120+
-
-- Kapurimon -> PawnChessmonBlk -> KnightChessmonBlk -> RookChessmon -> QueenChessmon
-Kapurimon -> PawnChessmonBlack: Lv11+, Machine EXP200+
-PawnChessmonBlack -> KnightChessmonBlack: Lv21+, Spd 100+
-KnightChessmonBlack -> RookChessmon: Lv34+, Def 175+
+Kapurimon -> PawnChessmon (Black): Lv11+, Machine EXP200+
+PawnChessmon (Black) -> KnightChessmon (Black): Lv21+, Spd 100+
+KnightChessmon (Black) -> RookChessmon: Lv34+, Def 175+
 RookChessmon -> QueenChessmon: Lv50+, Spr 220+, Machine EXP13000+
-
---------------------
-
-- Poyomon -> Kamemon -> Gwappamon -> Shawujinmon -> JumboGamemon
 Poyomon -> Kamemon: Lv9+
 Kamemon -> Gwappamon: Lv19+, Machine EXP370+
-Gwappamon -> Shawujinmon: Lv34+, Spr 155+, Aquan EXP3600+
-Shawukinmon -> JumboGamemon: Lv51+, Atk 270+, Machine EXP9600+
-
-- Poyomon -> Kamemon -> Tortomon -> Brachiomon -> Plesiomon
+Gwappamon -> Shawjamon: Lv34+, Spr 155+, Aquan EXP3600+
+Shawjamon -> JumboGamemon: Lv51+, Atk 270+, Machine EXP9600+
 Kamemon -> Tortomon: Lv23+, Def 110+
 Tortomon -> Brachiomon: Lv38+, Aquan EXP7500+, Must have Befriended Brachiomon
 Brachiomon -> Plesiomon: Lv47+, Aquan EXP17500+
-
-- Poyomon -> Gomamon -> Ikkakumon -> Zudomon -> Vikemon
 Poyomon -> Gomamon: Lv11+, Aquan EXP100+
 Gomamon -> Ikkakumon: Lv21+, Friendship 70%+
 Ikkakumon -> Zudomon: Lv32+, Atk 160+, Aquan EXP4100+
 Zudomon -> Vikemon: Lv50+, Def 230+, Spr 230+
-
-- Poyomon -> Crabmon -> Ebidramon
 Poyomon -> Crabmon: Lv16+, Def 75+
 Crabmon -> Ebidramon: Lv27+, Def 140+, Dragon EXP1100+
-
---------------------
-
-- Tokomon -> Patamon -> Angemon -> HolyAngemon/MagnaAngemon -> SlashAngemon or Seraphimon
 Tokomon -> Patamon: Lv8+, Friendship 50%+
 Patamon -> Angemon: Lv19+, Friendship 70%+, Holy EXP300+
-Angemon -> HolyAngemon: Lv34+, Spr 160+, Holy EXP3100+
-HolyAngemon -> SlashAngemon: Lv48+, Atk 250+, Machine EXP8500+
-HolyAngemon -> Seraphimon: Lv66+, Spr 380+, Holy EXP77777+
-
-- Tokomon -> Falcomon -> Peckmon -> Yatagaramon -> Ravemon
-- Tokomon -> Falcomon: Lv12+, Friendship 60%+
-- Falcomon -> Peckmon: Lv20+, Spd 100+
-- Peckmon -> Yatagaramon: Lv37+, Friendship 80%+, Bird EXP3500+
-- Yatagaramon -> Ravemon: Lv50+, Spd 255+, Machine EXP10000+
-
-- Tokomon -> DotFalcomon
-- Tokomon -> DotFalcomon: Lv30+, Apt 45+, Must have Befriended DotFalcomon
-
---------------------
-
-- Chicchimon -> Penmon -> Kiwimon -> Deramon -> Phoenixmon
-Chicchimon -> Penmon: Lv10+, Aquan EXP100+
-Penmon -> Kiwimon: Lv18+, Def 80+, Insect/Plant EXP400+
+Angemon -> MagnaAngemon: Lv34+, Spr 160+, Holy EXP3100+
+MagnaAngemon -> SlashAngemon: Lv48+, Atk 250+, Machine EXP8500+
+MagnaAngemon -> Seraphimon: Lv66+, Spr 380+, Holy EXP77777+
+Tokomon -> Falcomon: Lv12+, Friendship 60%+
+Falcomon -> Peckmon: Lv20+, Spd 100+
+Peckmon -> Yatagaramon: Lv37+, Friendship 80%+, Bird EXP3500+
+Yatagaramon -> Ravemon: Lv50+, Spd 255+, Machine EXP10000+
+Tokomon -> DotFalcomon: Lv30+, Apt 45+, Must have Befriended DotFalcomon
+Chicchimon -> Penguinmon: Lv10+, Aquan EXP100+
+Penguinmon -> Kiwimon: Lv18+, Def 80+, Insect/Plant EXP400+
 Kiwimon -> Deramon: Lv36+, Insect/Plant EXP4000+
 Kiwimon -> Phoenixmon: Lv52+, Holy EXP11000+, Bird EXP11000+
-
-- Chicchimon -> Penmon -> Kokatorimon
-Penmon -> Kokatorimon: Lv21+, Friendship 70%+, Dark EXP370+
-
-- Chicchimon -> Muchomon -> Diatrymon -> Sinduramon
+Penguinmon -> Kokatorimon: Lv21+, Friendship 70%+, Dark EXP370+
 Chicchimon -> Muchomon: Lv11+
 Muchomon -> Diatrymon: Lv29+, Def 150+, Bird EXP2400+
 Diatrymon -> Sinduramon: Lv40+, Bird EXP8000+, Must have Befriended Sinduramon
-
-- Chicchimon -> Muchomon -> Akatorimon -> Parrotmon -> Crossmon/Eaglemon
 Muchomon -> Akatorimon: Lv21+, Friendship 70%+, Bird EXP700+
 Akatorimon -> Parrotmon: Lv35+, Holy EXP2200+, Bird EXP3300+
 Parrotmon -> Eaglemon: Lv51+, Def 265+, Holy EXP7500+
-
---------------------
-
-- Budmon -> Raramon -> Sunflowmon -> Lylamon -> Rosemon or Lotusmon
-Budmon -> Raramon: Lv7+
-Raramon -> Sunflowmon: Lv18+, Friendship 70%+ Insect/Plant EXP380+
-Sunflowmon -> Lylamon: Lv35+, Friendship 80%+, Spd 135+
-Lylamon -> Rosemon: Lv50+, Atk 225+, Insect/Plant EXP17000+
-Lylamon > Lotusmon: Lv57+, Insect/Plant EXP29000+, Must have Befriended Rosemon
-
-- Budmon -> Raramon -> RedVegiemon
-Raramon -> RedVegiemon: Lv22+, Friendship 70%+, Spd 115+
-
-- Budmon -> Mushroomon -> Igamon/Ninjamon or Kougamon
+Budmon -> Lalamon: Lv7+
+Lalamon -> Sunflowmon: Lv18+, Friendship 70%+ Insect/Plant EXP380+
+Sunflowmon -> Lilamon: Lv35+, Friendship 80%+, Spd 135+
+Lilamon -> Rosemon: Lv50+, Atk 225+, Insect/Plant EXP17000+
+Lilamon -> Lotusmon: Lv57+, Insect/Plant EXP29000+, Must have Befriended Rosemon
+Lalamon -> RedVegiemon: Lv22+, Friendship 70%+, Spd 115+
 Budmon -> Mushroomon: Lv13+, Atk 65+
 Mushroomon -> Ninjamon: Lv22+, Friendship 70%+, Spd 115+
-Mushroomon -> Kougamon: Lv22+, Atk 105+, Spd 110+
-
-- Budmon -> Dokunemon -> Kuwagamon -> Ookuwamon -> GranKuwagamon
+Mushroomon -> Kogamon: Lv22+, Atk 105+, Spd 110+
 Budmon -> Dokunemon: Lv10+, Insect/Plant EXP130+
 Dokunemon -> Kuwagamon: Lv20+, Insect/Plant EXP380+
-Kuwagamon -> Ookuwamon: Lv35+, Def 145+, Insect/Plant EXP4000+
-
-Ookuwamon -> GranKuwagamon: Lv49+, Atk 255+, Insect/Plant EXP17000+
-
-- Budmon -> Dokunemon -> Dokugumon -> Arukenimon
+Kuwagamon -> Okuwamon: Lv35+, Def 145+, Insect/Plant EXP4000+
+Okuwamon -> GranKuwagamon: Lv49+, Atk 255+, Insect/Plant EXP17000+
 Dokunemon -> Dokugumon: Lv24+, Dark EXp450+
 Dokugumon -> Arukenimon: Lv40+, Spr 220+, Dark EXP7500+
-
-- Budmon -> Dokunemon -> Roachmon
 Dokunemon -> Roachmon: Lv17+, Spd 95+
-
---------------------
-
-- Minomon -> Wormmon -> Stingmon or Snimon
 Minomon -> Wormmon: Lv10+, Friendship 50%+
 Wormmon -> Stingmon: Lv23+, Def 110+, Spd 115+
 Wormmon -> Snimon: Lv19+, Atk 90+
-
-- Minomon -> Tentomon -> Kabuterimon -> AlturKabuterimonRed or AlturKabuterimon
 Minomon -> Tentomon: Lv13+, Def 50+
-Tentomon -> Kabuterimon:Lv21+, Insect/Plant EXP410+
-Kabuterimon -> AlturKabuterimonRed: Lv36+, Friendship 80%+, Spr 170+
-Kabuterimon -> AlturKabuterimon: Lv33+, Spr 140+
-
-- Minomon -> Tentomon -> SandYanmamon
-Tentomon -> SandYandmamon: Lv18+, Def 90+, Insect/Plant EXP250+
-
-- Minomon -> Kunemon -> Yanmamon
+Tentomon -> Kabuterimon: Lv21+, Insect/Plant EXP410+
+Kabuterimon -> MegaKabuterimon (Red): Lv36+, Friendship 80%+, Spr 170+
+Kabuterimon -> MegaKabuterimon (Blue): Lv33+, Spr 140+
+Tentomon -> SandYanmamon: Lv18+, Def 90+, Insect/Plant EXP250+
 Minomon -> Kunemon: Lv7+
 Kunemon -> Yanmamon: Lv18+, Spd 75+, Insect/Plant EXp250+
-
-- Minomon -> Kunemon -> Flymon -> Dinobeemon -> BlackImperialdramon
 Kunemon -> Flymon: Lv19+, Insect/Plant EXP500+
 Flymon -> Dinobeemon: Lv41+, Dragon EXP8800+, Must have Befriended Dinobeemon
-Dinobeemon -> BlackImperialdramon: Lv60+, Atk 315+, Dragon EXP20000+
-
-- Minomon -> Kunemon -> Sukamon -> Garbagemon
+Dinobeemon -> Imperialdramon Dragon Mode (Black): Lv60+, Atk 315+, Dragon EXP20000+
 Kunemon -> Sukamon: Lv18+, Species EXP1500+
 Sukamon -> Garbagemon: Lv35+, Atk 170+, Machine EXP5000+
-
---------------------
-
-- Tanemon -> Palmon -> Togemon -> Lillymon
 Tanemon -> Palmon: Lv8+
 Palmon -> Togemon: Lv19+, Friendship 60%+, Atk 95+
 Togemon -> Lillymon: Lv33+, Friendship 80%+
-
-- Tanemon -> Palmon -> MoriShellmon
 Palmon -> MoriShellmon: Lv22+, Def 105+, Beast EXP900+
-
-- Tanemon -> Aruraumon -> Zassoumon -> Blossomon
 Tanemon -> Aruraumon: Lv14+, Species EXP1100+
-Aruraumon -> Zassoumon: Lv23+, Spr 95+
-Zassoumon -> Blossomon: Lv34+, Atk 140+, Aquan EXP3200+
-
-- Tanemon -> Aruraumon -> Woodmon -> Cherrymon
+Aruraumon -> Weedmon: Lv23+, Spr 95+
+Weedmon -> Blossomon: Lv34+, Atk 140+, Aquan EXP3200+
 Aruraumon -> Woodmon: Lv27+, Def 125+, Insect/Plant EXP1800+
-Woodmon -> Sherrymon: Lv41+, Atk 200+, Spr 320+
-
-- Tanemon -> Floramon -> Vegiemon
+Woodmon -> Cherrymon: Lv41+, Atk 200+, Spr 320+
 Tanemon -> Floramon: Lv12+, Insect/Plant EXP100+
 Floramon -> Vegiemon: Lv23+, Insect Plant EXP500+
-
---------------------
-
-- Gotsumon -> Icemon -> Insekimon/Meteormon
-Evolution Requirements:
 Gotsumon -> Icemon: Lv19+, Def 90+, Aquan EXP 400+
 Icemon -> Meteormon: Lv37+, Def 210+. Speed 175+
-
-- Gotsumon -> Golemon
-Evolution Requirements:
 Gotsumon -> Golemon: Lv21+, Atk 120+, Machine EXP 500+
-
-- Gotsumon -> Tsuchidarumon/MudFrigimon
-Evolution Requirements:
 Gotsumon -> MudFrigimon: Lv20+, Friendship 70%+, Must have befriended MudFrigimon
-
---------------------
-
-- Kokuwamon -> Thunderballmon -> Mamemon
-Evolution Requirements:
 Kokuwamon -> Thunderballmon: Lv23+, Machine EXP 460+
 Thunderballmon -> Mamemon: Lv33+, Attack 150+, Speed 140+
-
---------------------
-
-- Solarmon -> Clockmon -> Knightmon -> Alphamon
-Evolution Requirements:
 Solarmon -> Clockmon: Lv33+, Apt 40+, Machine EXP 6000+
 Clockmon -> Knightmon: Lv40+, Attack 200+, Defense 180+
 Knightmon -> Alphamon: Lv65+, Holy EXP 50000+, Must have Befriended Clockmon
-
-- Solarmon -> BomberNanimon -> Giromon
-Evolution Requirements:
 Solarmon -> Bombernanimon: Lv24+, Friendship 70%+, Machine EXP 960+
 BomberNanimon -> Giromon: Lv38+, Attack 175+, Machine EXP 4000+
-
---------------------
-
-- ToyAgumon -> Tankmon -> MetalMamemon -> PrinceMamemon
-Evolution Requirements:
 ToyAgumon -> Tankmon: Lv19+, Attack 110+
 Tankmon -> MetalMamemon: Lv34+, Attack 165+, Machine EXP 3300+
 MetalMamemon -> PrinceMamemon: Lv46+, Spirit 220+, Machine EXP 9300+
-
-- ToyAgumon -> Revolmon -> MameTyramon
-Evolution Requirements:
-ToyAgumon -> Revolmon: Lv22+, Friendship 70%+, Machine EXP 600+
-Revolmon -> MameTyramon: Lv37+, Def 170+, Dragon EXP 3900+
-
---------------------
-
-- ToyAgumonB -> MekaNorimon -> ExTyrannomon -> Deathmon/Ghoulmon
-Evolution Requirements:
-ToyAgumonB -> MekaNorimon: Lv20+, Machine EXP 410+
+ToyAgumon -> Deputymon: Lv22+, Friendship 70%+, Machine EXP 600+
+Deputymon -> MameTyramon: Lv37+, Def 170+, Dragon EXP 3900+
+ShadowToyAgumon -> MekaNorimon: Lv20+, Machine EXP 410+
 Mekanorimon -> ExTyrannomon: Lv34+, Dark EXP 4500+
 ExTyrannomon -> Ghoulmon: Lv49+, Defense 230+, Spirit 230+
-
---------------------
-
-- Betamon -> Octomon
-Evolution Requirements:
 Betamon -> Octomon: Lv21+, Defense 95+, Aquan EXP 550+
-
-- Betamon -> Gesomon
-Evolution Requirements:
 Betamon -> Gesomon: Lv21+, Attack 95+, Aquan EXP 550+
-
-- Betamon -> Dolphmon -> Whamon -> MarineAngemon
-Evolution Requirements:
 Betamon -> Dolphmon: Lv17+, Spirit 100+, Aquan EXP 500+
 Dolphmon -> Whamon: Lv32+, Aquan EXP 6000+
 Whamon -> MarineAngemon: Lv47+, Holy EXP 8000+, Aquan EXP 13000+
-
-- Betamon -> Dolphmon -> Divermon
 Dolphmon -> Divermon: Lv36+,Machine EXP 2900+, Must have Befriended Divermon
-
---------------------
-
-- Gizamon -> IceDevimon -> MarineDevimon
-Evolution Requirements:
 Gizamon -> IceDevimon: Lv25+, Dark EXP 350+
 IceDevimon -> MarineDevimon: Lv35+, Dark EXP 2100+, Aquan EXP 2700+
-
-- Gizamon -> Raremon -> Nanomon -> Parasimon
-Evolution Requirements:
 Gizamon -> Raremon: Lv22+, Def 90+, Machine EXP 440+
-Raremon -> Nanomon: Lv35+, Machine EXP 4400+
-Nanomon -> Parasimon: Lv48+, Aptitude 52+, Dark EXP 8800+
-
---------------------
-
-- Otamamon -> Gekomon -> ShogunGekomon
-Evolution Requirements:
+Raremon -> Datamon: Lv35+, Machine EXP 4400+
+Datamon -> Parasimon: Lv48+, Aptitude 52+, Dark EXP 8800+
 Otamamon -> Gekomon: Lv18+, Aquan EXP 370+
 Gekomon -> ShogunGekomon: Lv32+, Friendship 70%+, Machine EXP 2900+
-
-- Otamamon -> Geremon
-Evolution Requirements:
 Otamamon -> Geremon: Lv19+, Must have Befriended Numemon
-
-- Otamamon -> Numemon
-Evolution Requirements:
 Otamamon -> Numemon: Lv19+, Species EXP 1400+
-
---------------------
-
-- SnowAgumon -> Seadramon -> MegaSeadramon -> MetalSeadramon or GigaSeadramon
-Evolution Requirements:
 SnowAgumon -> Seadramon: Lv24+
 Seadramon -> MegaSeadramon: Lv37+, Attack 155+, Aquan EXP 4000+
 Megaseadramon -> MetalSeadramon: Lv55+, Machine EXp 10000+, Aquan EXP 11000+
 MegaSeadramon -> GigaSeadramon: Lv59+, Aquan EXP 25000+, Must have Befriended GigaSeadramon
-
---------------------
-
-- SnowGoburimon -> Hyogamon or Yukidarumon/Frigimon
-Evolution Requirements:
-SnowGoburimon -> Hyogamon: Lv23+, Attack 110+
-SnowGoburimon -> Frigimon: Lv21+, Friendship 70%+, Aquan EXP 700+
-
---------------------
-
-- Syakomon -> Coelamon -> Scorpiomon -> Pukumon
-Evolution Requirements:
-Skyakomon -> Coelamon: Lv18+, Attack 95+, Aquan EXp 410+
+SnowGoblimon -> Hyogamon: Lv23+, Attack 110+
+SnowGoblimon -> Frigimon: Lv21+, Friendship 70%+, Aquan EXP 700+
+Syakomon -> Coelamon: Lv18+, Attack 95+, Aquan EXp 410+
 Coelamon -> Scorpiomon: Lv31+, Spirit 130+, Aquan EXP 3200+
 Scorpiomon -> Pukumon: Lv45+, Attack 200+, Aquan EXP 9900+
-
-- Syakomon -> Shellmon
-Evolution Requirements:
 Syakomon -> Shellmon: Lv23+, Beast EXP 410+
-
-- Syakomon -> KaratsukiNumemon -> Digitamamon -> Lampmon or Devitamamon
-Evolution Requirements:
 Syakomon -> KaratsukiNumemon: Lv26+, Defense 135+, Aptitude 30+
 KaratsukiNumemon -> Digitamamon: Lv38+, Holy EXP 3100+, Must have Befriended Tapirmon
 Digitamamon -> Lampmon: Lv49+, Defense 220+, Holy EXP 11500+
 Digitamamon -> DeviTamamon: Lv50+, Attack 250+, Dark EXP 18000+
-
---------------------
-
-- Biyomon -> Birdramon -> Garudamon -> Gryphomon
-Evolution Requirements:
 Biyomon -> Birdramon: Lv19+, Friendship 60%+
 Birdramon -> Garudamon: Lv32+, Friendship 80%+, Bird EXP 2700+
-Garudamon -> Gryphomon: Lv47+, Attack 240+, Beast EXp 8000+
-
-- Biyomon -> Saberdramon -> Karatenmon
-Evolution Requirements:
+Garudamon -> Gryphonmon: Lv47+, Attack 240+, Beast EXp 8000+
 Biyomon -> Saberdramon: Lv18+, Speed 95+, Bird EXP 210+
 Saberdramon -> Karatenmon: Lv33+, Spirit 170+
-
---------------------
-
-- Hawkmon -> Aquilamon
-Evolution Requirements:
 Hawkmon -> Aquilamon: Lv20+, Attack 105+
-
---------------------
-
-- LucemonFM -> Daemon
-Evolution Requirements:
-
-LucemonFM -> Daemon: Lv67+, Attack 390+, Dark EXP 50000+
-
---------------------
-
-- Paidramon -> ImperialdramonDM or ImperialdramonFM
-Evolution Requirements:
-Paildramon -> ImperialdramonDM: Lv56+, Dragon EXP 22000+, Must have Befriended Chicomon
-Paildramon -> ImperialdramonFM: Lv60+, Friendship 80%+, Must have Befriended ImperialdramonDM
-
---------------------
-
-- Vadermon -> Ebemon
-Evolution Requirements:
-Vadermon -> Ebemon: Lv47+, Attack 245+, Machine EXP 11000+
-
---------------------
-
-- Dagomon/Dragomon -> Neptunmon
-Evlution Requirements:
+Lucemon Chaos Mode -> Daemon: Lv67+, Attack 390+, Dark EXP 50000+
+Paildramon -> Imperialdramon Dragon Mode: Lv56+, Dragon EXP 22000+, Must have Befriended Chibomon
+Paildramon -> Imperialdramon Fighter Mode: Lv60+, Friendship 80%+, Must have Befriended Imperialdramon Dragon Mode
+Vademon -> Ebemon: Lv47+, Attack 245+, Machine EXP 11000+
 Dragomon -> Neptunmon: Lv62+, Spirit 340+, Aquan EXP 44000+
-
---------------------
-
-- Silphymon -> Valkyriemon
-Evolution Requirements:
-Silphymon -> Valkyriemon: Lv52+, Speed 260+, Holy EXP 12000+
+Silphymon -> Valkyrimon: Lv52+, Speed 260+, Holy EXP 12000+

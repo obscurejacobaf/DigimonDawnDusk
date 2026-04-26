@@ -13,9 +13,14 @@
 				</div>
 			</div>
 			<div class="row mt-2">
+				<div class="col">
+					<button class="btn btn-primary" @onclick="MovesNav" data-bs-dismiss="offcanvas" data-bs-target="#sideBar">Moves</button>
+				</div>
 			</div>
-			<div class="col">
-				<button class="btn btn-primary" @onclick="MovesNav" data-bs-dismiss="offcanvas" data-bs-target="#sideBar">Moves</button>
+			<div class="row mt-2">
+				<div class="col">
+					<button class="btn btn-primary" @onclick="DigimonNav" data-bs-dismiss="offcanvas" data-bs-target="#sideBar">Digimon</button>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -38,4 +43,5 @@
 
 	private void HomeNav() => Navigation.NavigateTo("/");
 	private void MovesNav() => Navigation.NavigateTo("/Moves");
+	private void DigimonNav() => Navigation.NavigateTo("/Digimon");
 }

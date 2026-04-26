@@ -4,7 +4,7 @@
 <QuickGrid Items="Moves" Class="table">
 	<PropertyColumn Property="m => m.Attribute" Title="Attribute" Sortable="true">
 		<ColumnOptions>
-			<ColumnFilter T="AttributeEnum" @bind-Value="Attributes" Placeholder="Attribute..." />
+			<ColumnFilter T="AttributeEnum" @bind-Value="Attributes" Placeholder="..." />
 		</ColumnOptions>
 	</PropertyColumn>
 	<PropertyColumn Property="m => m.AttackTimes" Title="Hits" Sortable="true">
@@ -77,7 +77,6 @@
 	private MultiSelectItems<string> GainedBy = default!;
 
 	// TODO: Description
-	// TODO GainedBy
 
 	protected override async Task OnInitializedAsync()
 	{

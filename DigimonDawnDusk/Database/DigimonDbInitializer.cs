@@ -12,7 +12,7 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 
 		InitTraits(context);
 		InitDigimon(context);
-		InitEvolution(context);
+		InitNormalEvolution(context);
 		InitMoves(context);
 	}
 
@@ -102,7 +102,7 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 
 			if (line.StartsWith("Elemental Alignment: "))
 			{
-				digimon.Alignment = Enum.Parse<AttributeEnum>(line[21..]);
+				digimon.Resistance = Enum.Parse<AttributeEnum>(line[21..]);
 				continue;
 			}
 
@@ -115,7 +115,7 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 			if (line.StartsWith("Dwelling: "))
 			{
 				var d = line[10..];
-				digimon.Dwelling = d == "Not Available" ? null : d;
+				digimon.Dwelling = d == "Not Available" ? string.Empty : d;
 				continue;
 			}
 
@@ -140,9 +140,33 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 		context.SaveChanges();
 	}
 
-	private static void InitEvolution(DigimonDbContext context)
+	private static void InitNormalEvolution(DigimonDbContext context)
 	{
+		using var stream = new FileStream(@"C:\Users\theja\source\repos\DigimonWorldDD\DigimonDawnDusk\Data\NormalEvolution.txt", FileMode.Open);
+		using var reader = new StreamReader(stream);
 
+		var digimon = context.Digimon.ToDictionary(x => x.Name, StringComparer.OrdinalIgnoreCase);
+		var evolutions = new List<Evolution>();
+
+		while (true)
+		{
+			var line = reader.ReadLine();
+			if (string.IsNullOrEmpty(line))
+				break;
+
+			var parts = line.Split(" -> ");
+			var parts2 = parts[1].Split(": ");
+
+			evolutions.Add(new()
+			{
+				From = digimon[parts[0]],
+				To = digimon[parts2[0]],
+				Requirements = parts2[1]
+			});
+		}
+
+		context.Evolutions.AddRange(evolutions);
+		context.SaveChanges();
 	}
 
 	private static void InitMoves(DigimonDbContext context)

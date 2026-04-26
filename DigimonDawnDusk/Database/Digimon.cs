@@ -7,14 +7,17 @@ public partial class Digimon
 	public string Name { get; set; } = default!;
 	public TypeEnum Type { get; set; }
 	public SpeciesEnum Species { get; set; }
-	public AttributeEnum Alignment { get; set; }
+	public AttributeEnum Resistance { get; set; }
 	public AttributeEnum Weakness { get; set; }
-	public string? Dwelling { get; set; }
+	public string Dwelling { get; set; } = string.Empty;
 
 	public virtual List<Trait> Traits { get; set; } = [];
 	public virtual List<Move> Moves { get; set; } = [];
 	public virtual List<Evolution> FromEvolutions { get; set; } = [];
 	public virtual List<Evolution> ToEvolutions { get; set; } = [];
+
+	public string TraitNames => field ??= string.Join(", ", Traits.Select(x => x.Name));
+	public string MoveNames => field ??= string.Join(", ", Moves.Select(x => x.Name));
 
 	public override bool Equals(object? obj) => obj is Digimon digimon && DigimonId == digimon.DigimonId;
 	public override int GetHashCode() => HashCode.Combine(DigimonId);

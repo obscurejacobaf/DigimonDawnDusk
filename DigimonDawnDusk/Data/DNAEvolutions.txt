@@ -1,0 +1,836 @@
+AeroVeedramon
+- Airdramon + Tyrannomon
+(Lv32+, Dragon EXP3700+, Attack 220+)
+
+Alphamon
+- Magna Angemon + DoruGremon
+- Magnamon + DoruGremon
+- MagnaAngemon + Magnamon
+(Lv61+, Holy EXP45000+, Spirit 400+)
+
+MegaKabuterimon (Blue)Blue
+- Flymon + Tortomon
+- Flymon + NiseDrimogemon
+- Tortomon + NiseDrimogemon
+(Lv29+, Defense 170+, Spirit 160+)
+
+MegaKabuterimon (Red)
+- Drimogemon + KnightChessmonW
+- Drimogemon + Stingmon
+- Stingmon + KnightChessmonW
+(Lv32+, Defense 200+, Spirit 190+)
+
+Anubismon
+- Garudamon + Blossomon
+- Yatagaramon + Karatenmon
+(Lv52+, Holy EXP15000+, Spirit 290+)
+
+Anomarokarimon/Scorpiomon
+- Snimon + SandYanmamon
+(Lv26+, Aquan EXP3000+, Spirit 170+)
+
+Antylamon
+- Sorcerymon + Wizardmon
+(Lv36+, Spirit 230+, Friendship 70%+)
+
+Apocalymon
+- Piedmon + Machinedramon
+MetalSeadramon + Puppetmon
+(Lv70+, Dark EXP 44444+, Must have befriended Piedmon)
+
+Aquilamon
+- Piyomon + Dorumon
+(Lv16+, Bird EXP500+, Attack 125+)
+
+Arachnemon/Arukenimon
+- Flymon + Wendigomon
+(Lv35+, Dark EXP7000+, Spirit 250+)
+
+Argomon (Ultimate)
+- Weedmon/Weedmon + Devimon
+(Lv43+, Bug/Plant EXP15000+, Must have befriended Chrysalimon)
+
+Armageddemon
+- Diaboromon + Infermon
+(Lv81+, Defense 480+, Kuramon must be in your party)
+
+Babamon
+- Piximon + Vademon
+- Piximon + Lilamon
+- Lilamon + Vademon
+(Lv44+, Holy EXP7000+, Spirit 240+)
+
+BantyoLeomon/BanchouLeomon
+- Grappleomon + Pandamon
+(LV64+ , Beast EXP50000+, Attack 420+)
+
+Beelzemon
+- Mummymon + Matadormon
+(LV62+, Attack 370+, Must have befriended Impmon)
+
+Beelzemon BM
+- Beelzemon + BanchouLeomon
+(LV68+ Spirit 410+ Friendship 100%)
+
+Belial Myotismon
+- Myotismon + Shadramon
+(Lv68+, Spirit 470+, Arukenimon/Arachnemon must be in your Party)
+
+BigMamemon
+- Vegiemon + RedVegiemon
+- Golemon + Mekanorimon
+- Vegiemon + Golemon
+(Lv36+, Machine EXP5500+, must have befriended Mamemon)
+
+BishopChessmon
+- Wizardmon + Hookmon
+(Lv30+, Machine EXP3000+, Attack 200+)
+
+BlackMegagargomon
+- RookChessmon + BishopChessmon
+(Lv45+, Dark EXP7000+, Beast EXP7000+)
+
+BlackWargreymon
+- BlackWargrowlmon + Megadramon
+- Allomon + SkullGreymon
+(Lv53+, Dark EXP18000+, Spirit 320+)
+
+BlackWargrowlmon
+- RaptorDramon/ReptilDramon + DarkTyrannomon
+(Lv35+, Machine EXP3000+, Dark EXP3000+)
+
+Blossomon
+- Octomon + Kiwimon
+(Lv29+, Insect/Plant EXP5000+, Attack 170+)
+
+Boltmon
+- Volcmon + Tekkamon
+(Lv41+, Machine EXP9100+, Attack 260+)
+
+BomberNanimon
+- Mushroomon + Tekkamon
+(Lv22+, Machine EXP660+, Friendship 60%+)
+
+Cannondramon
+- MameTyramon + Brachiomon
+- Mametyramon + Vermillimon
+- Brachiomon + Vermillimon
+(lv42+, Machine EXP10000+, Attack 295+)
+
+Centarumon
+- Terriermon + Kokuwamon
+- Terriermon + Hagurumon
+- Kokuwamon + Hagurumon
+(Lv16+, Attack 125+, Speed 130+)
+
+Chaosmon
+- Darkdramon + Banchou Leomon
+- Darkdramon + Valdurmon
+- Valdurmon + Banchou Leomon
+(Lv67+, Total EXP70000+, Attack 420+)
+
+ChaosGallantmon
+- BlackWargrowlmon + Diaboromon
+(Lv63+, Dark EXP25000+, Attack 360+)
+
+Cherubimon (Good)
+- Monzaemon + Prairiemon
+(Lv58+, Holy EXP25000+, Spirit 400+)
+
+Cherrymon
+- Igamon/Ninjamon + Kogamon
+(Lv25+, Attack 220+, Spirit 230+)
+
+ChronomonHM
+- Valdurmon + Susanoomon
+(Lv83+, Friendship 100%, Must have befriended Chiccimon)
+
+Crossmon/Eaglemon
+- Owlmon + Kenkimon
+- Kenkimon + Shakkoumon
+- Shakkoumon + Owlmon
+(Lv46+, Holy EXP7000+, Defense 300+)
+
+Daemon/Demon:
+- Myotismon + LadyDevimon
+(Lv63+, Dark EXP44000+, Must have befriended a Daemon)
+
+Dagomon/Dragomon
+- Octomon + Gesomon
+(Lv33+, Dark EXP 3800+, Spirit 200+)
+
+Darkdramon
+- MetalGreymon + MameTyramon
+- MameTyramon + MetalTyrannomon
+- MetalTyrannomon + MetalGreymon
+(Lv46+, Machine EXP5000+, Dark EXP 10000+)
+
+DarkLizardmon
+- Guilmon + Impmon
+(Lv16+, Dark EXP400+)
+
+DarkTyrannomon
+- Guilmon + ShadowToyAgumonlack
+Lv17+, Dark EXP600+,Attack 130+)
+
+Diatrymon
+- Solarmon + DotFalcomon
+(Lv24+, Machine EXP2000+, Defense 180+)
+
+Deathmon/Ghoulmon
+- Digitamamon + Monzaemon
+- Monzaemon + Pandamon
+- Pandamon + Digitamamon
+(Lv44+, Defense 260+, Spirit 250+)
+
+DeathmonB/ Virus Ghoulmon
+- Etemon + Ponchomon
+(Lv44+, Dark EXP8500+, Attack 250+)
+
+Deramon
+- Diatrymon + Woodmon
+(Lv31+, Bird EXP2000+, Insect/Plant EXP2000+)
+
+Devidramon
+- Black Agumon + DemiDevimon
+(Lv18+, Dragon EXP 250+, Dark EXP200+)
+
+Devitamamon
+- Anomarokarimon/Scorpiomon + Pipismon
+- ExTyrannomon + Toucanmon
+(Lv44+, Dark EXP13000+, Attack 270+)
+
+Dinobeemon
+- Stingmon as Jogress Initiator + ExVeemon
+(Lv35+, Speed 250+, Friendship 80%+)
+
+Dinohumon
+- Hawkmon + Kotemon
+- Kotemon + DotAgumon
+- DotAgumon + Hawkmon
+(Lv20+, Dragon EXP700+, Attack 130+)
+
+Drimogemon
+- Gomamon + Gizamon
+(Lv15+, Beast EXP200+, Attack 120+)
+
+DoruGremon
+- Drimogemon + NiseDrimogemon
+- Greymon + Garurumon
+(Lv34+, Machine EXP2500+, Dragon EXP4500+)
+
+Dorugoramon
+- MegaKabuterimon (Blue) + Flamedramon
+(Lv49+, Species EXP47000+, Attack 305+)
+
+Duftmon
+- Slash Angemon + Grappleomon
+(Lv72+, Holy EXP60000+, Speed 445+)
+
+Ebemon
+- Garbagemon + Insekimon/Meteormon
+- Insekimon/Meteormon + MetalMamemon
+- MetalMamemon + Garbagemon
+(Lv42+, Machine EXP8000+, Attack 270+)
+
+Ebidramon
+- Syakomon + DotAgumon
+(Lv22+, Dragon EXP800+, Defense 155+)
+
+Etemon
+- Geremon + Sukamon
+- Sukamon + JungleMojyamon
+- JungleMojyamon + Geremon
+(Lv29+, Beast EXP3200+, Spirit 155+)
+
+ExTyrannomon
+- Raremon + Tyrannomon
+(Lv29+, Dark EXP3700+)
+
+ExVeemon/XVmon
+- Dorumon + SnowAgumon
+(Lv19+, Dragon EXP1000+, Spirit 155+)
+
+FlareRizamon
+- DotAgumon + Solarmon
+(Lv16+, Dragon EXP400+)
+
+Gallantmon Crimson Mode
+- Gallantmon + Seraphimon
+(LV68+, Spirit 440+, Friendship 100%)
+
+Garbagemon
+- Roachmon + Numemon
+- Numemon + PlatinumSukamon
+- PlatinumSukamon + Roachmon
+(Lv30+, Machine EXP4000+, Attack 195+)
+
+Garudamon
+- Saberdramon + Aquilamon
+(Lv27+, Bird EXP2400+, Speed 160+)
+
+Gigadramon
+- DarkLizardmon + SandYanmamon
+(Lv36+, Machine EXP4000+, Attack 210+)
+
+GigaSeadramon
+- Whamon + Gigadramon
+- Tylomon + Kenkimon
+(Lv53+, Machine EXP17000+, Aquan EXP17000+)
+
+Giromon
+- Kogamon + Kuwagamon
+(Lv30+, Machine EXP3800+, Attack 200+)
+
+Goddramon/Goldramon
+- Magna Angemon + Cyberdramon
+- Flaremon + Seahomon
+(Lv58+, Holy EXP55000+, Must have befriended Airdramon)
+
+GranKuwagamon
+- Dinobeemon + Anomarokarimon/Scorpiomon
+(Lv44+, Insect/Plant EXP13000+, Attack 280+)
+
+GrapLeomon
+- Hookmon + Minotarumon
+
+Gryphonmon
+- Dorugremon + Toucanmon
+(Lv41+, Beast EXP7000+, Attack 250+)
+
+Guardromon
+- PawnChessmonWhite + PawnChessmonBlack
+(Lv 15+, Defense 130+)
+
+Gulfmon
+- Arachnemon/Arukenmon + Volcamon
+(Lv51+, Dark EXP12000+, Beast EXP8500+)
+
+Gwappamon
+- Otamamon + ToyAgumon
+Lv15+, Machine EXP450+, Aquan EXP550+)
+
+Apemon/Apemon
+- Bakumon/Tapirmon + Goburimon
+- Goburimon + Terriermon
+- Terriermon + Bakumon/Tapirmon
+(Lv21+, Beast EXP500+, Speed 160+)
+
+HerculesKabuterimon
+- MegaKabuterimon (Red) + Okuwamon
+(Lv61+, Bug/Plant EXP32000, Defense 330+)
+
+HiAndromon
+- Goburimon + RookChessmon
+(Lv45+, Machine EXP12000, Spirit 290+)
+
+MagnaAngemon/MagnaAngemon
+- Starmon + Clockmon
+Lv30+, Holy EXP5000+, Spirit 190+)
+
+Holydramon/Magnadramon
+- Angewomon + Lilamon
+- Lilamon + Lillymon
+- Lillymon + Angewomon
+(Lv60+, Holy EXP22000+, Dragon EXP11000+)
+
+IceDevimon
+- Tsukaimon + SnowGoblimon
+(Lv21+, Aquan WXP300+, Dark EXP300+)
+
+Imperialdramon DB
+- Vermillimon + Triceramon
+(Lv55+, Dragon EXP16000+, Must have Befriended ImperialdramonDB)
+
+Imperialdramon Normal/DM
+- Allomon + RiseGreymon
+(Lv52+, Dragon EXP19000+, must have Befriended Imperialdramon Dragon Mode)
+
+Imperialdramon PM
+- Omnimon + Imperialdramon FM
+(Lv68+, Holy EXP50000+, Attack 440+)
+
+Jijimon
+- Cherrymon + Pandamon
+(Lv44+, Holy EXP7000+, Attack 230+)
+
+Justimon
+- SuperStarmon + Andromon
+(Lv46+, Machine EXP14500+, Spirit 280+)
+
+JumboGamemon
+- Seahomon + BigMamemon
+(Lv46+, Machine EXP9000+, Attack 300+)
+
+Karatenmon
+- Kogamon + Garurumon
+- Garurumon + Firamon
+- Firamon + Kogamon
+(Lv27+, Spirit 175+, Speed 155+)
+
+KaratsukiNumemon
+- Tapirmon + Crabmon
+(Lv21+, Aquan EXP400+, Defense 140+)
+
+Kimeramon
+- Kabuterimon + Devimon
+(Lv40+, Species EXP19000+, Must have Befriended SkullGreymon)
+
+KingChessmon
+- Tonosama/Shogun Gekomon + Mamemon
+(Lv45+, Machine EXP10000+, Aptitude 50+)
+
+Kogamon
+- Falcomon + Kotemon
+(Lv17+, Attack 130+, Speed 110+)
+
+Kuwagamon
+- Tentomon + Kokuwamon
+(Lv16+, Insect/Plant EXP500+, Attack 125+)
+
+Kuzuhamon
+- Taomon + Karatenmon
+(Lv43+, Holy EXP7700+, Spirit 270+)
+
+Kyukimon
+- Reppamon + Snimon
+(Lv35+, Beast EXP3500+, Speed 210+)
+
+LadyDevimon
+- Devidramon + Kokatorimon
+- Kokatorimon + Rekismon
+- Rekismon + Devidramon
+Lv35+, Dark EXP6000+, Attack 215+)
+
+Lampmon
+- Mamemon + Meteormon
+(Lv43+, Holy EXP9800+, Defense 250+)
+
+Lilamon
+- Weedmon + Vegiemon
+(Lv30+, Insect/Plant EXP4500+, Speed 160+)
+
+Lilithmon
+- Blosomon + MarineDevimon
+((Lv59+, Dark EXP30000+, Spirit 330+)
+
+Lopmon
+- Botamon + Moonmon
+(Lv7+, Dark EXP100+)
+
+Lotusmon
+- Blossomon + LadyDevimon
+(Lv52+, Insect/Plant EXP22000+, Must have Befriended Rosemon)
+
+Lucemon Chaos Mode
+- Angemon + Devimon
+(Lv40+, Species EXP12000+, Aptitude 50+)
+
+MachGaogamon
+- Grizzmon + Guardromon
+(Lv 28+, Machine EXP2300+, Speed 200+)
+
+Machinedramon
+- MetalTyrannomon + Megadramon
+- Megadramon + Gigadramon
+- Gigadramon + MetalTyrannomon
+(Lv50 ad above, Attack 300+, Must have befriended MetalSeadramon)
+
+Mamemon
+- Vegiemon + Sunflowmon
+(Lv28+, Attack 170+, Speed 160+)
+
+MameTyramon
+- Ebidramon + Shellmon
+- Shellmon + Monochromon
+- Monochromon + Ebidramon
+(Lv32+, Dragon EXP3100+, Defense 200+)
+
+Mammothmon
+- Drimogemon + Icemon
+- Garurumon + Leomon
+(Lv30+, Attack 200+, Defense 210+)
+
+MarineAngemon
+- Monzaemon + SuperStarmon
+- Lillymon + MegaSeadramon
+(Lv42+, Holy EXP7000+, Water EXP10000+)
+
+MarineDevimon
+- Gesomon + Vilemon
+(Lv31+, Aquan EXP2000+, Dark EXP1700+)
+
+Matadormon
+- Hookmon + Vilemon
+Lv30+, Dark EXP3100+, Speed 195+)
+
+Megadramon
+- Yanmamon + FlareRizamon
+(Lv29+, Machine EXP2500+, Dragon EXP2000+)
+
+MegaSeadramon
+- Ebidramon + GeoGreymon
+- Ebidramon + Airdramon
+(Lv32+, Aquan EXP3000+, Attack 185+)
+
+Megidramon
+- BlackWarGrowlmon + Shadramon
+(Lv44+, Dark EXP6000+, Must have Befriended Guilmon)
+
+Mekanorimon
+- Kokuwamon + ToyAgumon
+(Lv15+, Species EXP300+)
+
+MetalEtemon
+- Tonosama/Shogun Gekomon + Meteormon
+(Lv41+, Beast EXP8000+, Defense 240+)
+
+MetalGarurumon
+- Mammothmon + MetalMamemon
+(Lv47+, Beast EXP10000+, Speed 300+)
+
+MetalGreymon
+- RaptorDramon/Reptiledramon + Tankmon
+(Lv30+, Dragon EXP2000+, Attack 200+)
+
+MetalMamemon
+- Ninjamon/Igamon + PlatinumSukamon
+(Lv29+, Machine EXP3000+, Attack 195+)
+
+MetalSeadramon
+- Scorpiomon + MarineDevimon
+- MarineDevimon + MetalTyrannomon
+- MetalTyrannomon + Scorpiomon
+(Lv50+, Machine EXp8000+, Aquan EXP6000+)
+
+MetalTyrannomon
+- Tyrannomon + Tankmon
+- Tankmon + Mekanorimon
+- Mekanorimon + Tyrannomon
+(Lv29+, Machine EXp4000+)
+
+Milleniumon
+- Kimeramon + Machinedramon
+(Lv55+, Dark EXp27000+, Attack 320+)
+
+Minervamon
+- Knightmon + WereGarurumon(Black)
+(Lv60+, Attack 400+, Speed 400+)
+
+MirageGaogamon Burst Mode
+- MirageGaogamon + Vikemon
+- MirgaeGaogamon + PrinceMamemon
+(Lv67+, Beast EXP40000+, Friendship 100%)
+
+Monochromon
+- Gotsumon + Agumon
+(Lv15+, Dragon EXP150+, Defense 110+)
+
+Monzaemon
+- Starmon + Frigimon
+- Saesarmon + Frigimon
+- Starmon + Numemon
+(Lv28+, Holy EXP3500+, Friendship 70%+)
+
+MudFrigimon
+- Floramon + Mushroomon
+(Lv16+, Friendship 60%+, Must have Befriended MudFrigimon)
+
+Mummymon
+- Bakemon + Hookmon
+- Hookmon + Fugamon
+- Fugamon + Bakemon
+(Lv31+, Dark EXP41000+, Spirit 210+)
+
+Musyamon
+- Shamanmon + Kotemon
+(Lv22+, Dark EXP1000+, Attack 160+)
+
+Nanimon
+- Impmon + Solarmon
+(Lv15+, Aptitude 24+, Defense 220+)
+
+Datamon
+- BomberNanimon + Thunderballmon
+(Lv29+, Machine EXP3300+)
+
+Neptunemon
+- Shawjamon + Divermon
+(Lv58+, Aquan EXP41000+, Spirit 390+)
+
+Numemon
+- Goburimon + Hagurumon
+(Lv15+, Species EXP1000+, Aptitude 20+)
+
+Okuwamon
+- Yanmamon + SandYanmamon
+- SandYanmamon + Musyamon
+- Musyamon + Yanmamon
+(Lv30+, Insect/Plant EXP3500+, Defense 170+)
+
+Ophanimon
+- Taomon + Silphymon
+(Lv59+, Spirit 400+, Must have Befriended Angewomon)
+
+Omegamon/Omnimon
+- WarGreymon + MetalGarurumon
+(Lv65+, Speed 415+, Friendship 100%)
+
+Paildramon
+- ExVeemon/XVmon + Stingmon
+(Lv36+, Attack 230+, Friendship 80%+, ExVeemon must initiate the Jogress)
+
+Pandamon
+- Frigimon + MudFrigimon
+(Lv31+, Beast EXP6000+, Defense 225+)
+
+Parasimon
+- Arukenimon/Arachnemon + ExTyrannomon
+(Lv43+, Machine EXP3000+, DarkEXP6500+)
+
+Parrotmon
+- Birdramon + Unimon
+(Lv30+, Holy EXP1600+, Bird EXP2600+)
+
+Pharaohmon
+- Datamon + Kongoumon
+- Taomon + Lynxmon
+(Lv45+, Holy EXP7500+, Dark EXP7500+)
+
+Piedmon
+- Phantomon + ArukenimonArachnemon
+- ArukenimonArachnemon + Infermon
+- Infermon + Phantomon
+(Lv 50+, Must have Befriended BOTH Piedmon & Puppetmon)
+
+Pixiemon
+- Sorcerymon + Yanmamon
+(Lv28+, Holy EXP3000+, Spirit 170+)
+
+Plesiomon
+- Tylomon + AeroVeedramon
+- AeroVeedramon + Zudomon
+- Zudomon + Tylomon
+(Lv42+, Aquan EXP14000+, Spirit 240+)
+
+PrinceMamemon
+- Mamemon + Giromon
+(Lv41+, Machine EXP8100+, Spirit 250+)
+
+Pukumon
+- Divermon + Ponchomon
+(Lv40+, Aquan EXP8400+, Attack 220+)
+
+Qilinmon
+- Unimon + Saesarmon
+(Lv38+, Holy EXP5500+, Must have Befriended Kudamon)
+
+QueenChessmon
+- Crescemon + Antylamon
+- Antylamon + Cyberdramon
+- Cyberdramon + Crescemon
+(Lv45+, Machine EXP10000+, Spirit 220+)
+
+Rapidmon
+- Gaogamon + Guardromon
+(Lv28+, Machine EXP2500+, Speed 175+)
+
+RaptorDramon
+- Monodramon + ShadowToyAgumon
+(Lv22+, Dragon EXP1800+, Defense 160+)
+
+Ravemon
+- Karatenmon + Shurimon
+(Lv44+, Machine EXP9000+, must have Befriended Falcomon)
+
+Ravemon Burst Mode
+- Ravemon + Valkyrimon
+- Ravemon + Valdurmon
+(Lv66+, Bird EXP40000+, Friendship 100%)
+
+RiseGreymon
+- FlareRizamon + Deputymon/Deputymon
+(Lv30+, Machine EXP2000+, Drgaon EXP2000+)
+
+Rosemon
+- Lillymon + Matadormon
+(Lv44+, Insect/Plant EXP14000+, Attack 240+)
+
+Rosemon Burst Mode
+- Rosemon + Ophanimon
+- Rosemon + Babamon
+(Lv64+, Insect/Plant EXP40000+, Friendship 100%)
+
+Saberdramon
+- Candlemon + DotFalcomon
+(Lv16+, Bird EXP1000+, Speed 120+)
+
+SaberLeomon
+- Zudomon + Lynxmon
+(Lv52+, Beast EXP16000+, Attack 320+)
+
+Saesarmon
+- Plotmon + Gaomon
+(Lv19+, Holy EXP600+, Defense 140+)
+
+Sakuyamon
+- Kyukimon + Kabukimon
+(Lv47+, Holy EXP14000+, Must have Befriended Kuzuhamon)
+
+Sangloupmon
+- Gabumon + Lunamon
+(Lv 15+, Drak EXP150+, Beast EXP150+)
+
+Seraphimon
+- BlackRapidmon + Rapidmon
+- Shakkoumon + Parrotmon
+(Lv61+, Holy EXP50000+, Must have Befriended Seraphimon)
+
+Shakkoumon
+- Angemon + Ankylomon
+(Lv36+, Machine EXP4500+, Defense 255+)
+
+Shawjamon
+- IceDevimon + Apemon
+- Apemon + Sorcerymon
+- Sorcerymon + IceDevimon
+(Lv29+, Aquan EXP3000+, Spirit 180+)
+
+ShineGreymon Burst Mode
+- ShineGreymon + Gallantmon
+- ShineGreymon + Imperialdramon Fighter Mode
+(Lv68+, Friendship 100%, must have befriended ShineGreymon Ruin Mode)
+
+ShineGreymon Ruin Mode
+- ShineGreymon + Darkdramon
+(Lv59+, Dark EXP24000+, Attack 335+)
+
+Silphymon
+- Tailmon/Gatomon + Aquilamon
+(Lv35+, Bird EXP7000+, Speed 190+)
+
+Sinduramon
+- Kokatorimon + Akatorimon
+(Lv34+, Bird EXP7000+)
+
+SkullGreymon
+- Devidramon + Greymon
+- Ebidramon + Monochromon
+(Lv37+, Dark EXP6500+, Must have Befriended SkullGreymon)
+
+SkullMammothmon
+- MegaKabuterimon (Blue)Blue + Myotismon
+- Myotismon + Skullgreymon
+- Skullgreymon + MegaKabuterimon (Blue)Blue
+Lv44+, Dark EXP5000+, Beast EXP5000+)
+
+SlashAngemon/GuardiAngemon
+- Giromon + Kyukimon
+- Kyukimon + Pixiemon
+- Pixiemon + Giromon
+(Lv41+, Machine EXP8000+, Attack 290+)
+
+Sleipmon
+- Knightmon + Mammothmon
+(Lv61+, Holy EXP41000+, Must have Befriended Sleipmon)
+
+Sorcerymon
+- Kudamon + Coronamon
+(Lv20+, Holy EXP400+, Friendship 60%+)
+
+Starmon
+- DotFalcomon + Hagurumon
+- ToyAgumon + ShadowToyAgumon
+(Lv20+, Spirit 140+, Friendship 60%+)
+
+Sunflowmon
+- Floramon + Monodramon
+(Lv15+, Insect/Plant EXP500+, Friendship 60%+)
+
+SuperStarmon
+- Igamon/Ninjamon + Deputymon/Deputymon
+(Lv36+, Holy EXP7200+, Attack 230+)
+
+Susanoomon
+- SuperStarmon + Magnamon
+- Yatagaramon + Kongoumon
+(Lv73+, Species EXP88888+, Spirit 460+)
+
+Tekkamon
+- MudFrigimon + Thunderballmon
+(Lv32+, Machine EXP3100+, Attack 195+)
+
+Tonosama/ShogunGekomon
+- Shellmon + Hookmon
+(Lv27+, Machine EXP2500+, Friendship 60%+)
+
+Tortomon
+- Otamamon + Gotsumon
+- Gotsumon + Armadillomon
+- Armadillomon + Otamamon
+(Lv18+, Aquan EXP400+, Defense 130+)
+
+Triceramon
+- Minotarumon + Akylomon
+- MoriShellmon + Monochromon
+(Lv28+,Dragon EXP2500+, Defense 195+)
+
+Unimon
+- Patamon + Piyomon
+((Lv17+, Holy EXP250+, Speed 110+)
+
+Vademon
+- RedVegiemon + Nanimon
+(Lv36+, Machine EXP 3000+, Insect/Plant EXP 4000+)
+
+Vajramon
+- Centarumon + Dinohumon
+- Dinohumon + Minotarumon
+- Minotarumon + Centarumon
+(Lv30+, Dark EXP3000+, Defense 190+)
+
+Valkyrimon
+- Angewomon + Deramon
+- Deramon + Owlmon
+- Owlmon + Deramon
+(Lv46+, Holy EXP10000+, Speed 280+)
+
+Valdurmon
+- Sinduramon + Silphymon
+(Lv63+, Holy EXP16000+, Bird EXP24000+)
+
+Myotismon
+- Bakemon + Sangloupmon
+(Lv37+, Dark EXP9000+, Spirit 225+)
+
+VenomMyotismon
+- Dragomon + Pipismon
+(Lv60+, Beast EXP33333+, Dark EXP33333+)
+
+Vermillimon
+- GeoGreymon + Ankylomon
+- Ankylomon + NiseDrimogemon
+- NiseDrimogemon + GeoGreymon
+(Lv33+, Dragon EXP3000+, Defense 225+)
+
+Vikemon
+- Whamon + WereGarurumon
+- Divermon + Shakkoumon
+(Lv45+, Defense 250+, Spirit 250+)
+
+WarGreymon
+- Mametyramon + Flamedramon
+(Lv47+, Dragon EXP10000+, Attack 300+)
+
+Wendigomon
+- Gizamon + Tsukaimon
+(Lv25+, Dark EXP1000+, Must have Befriended Wendigomon)
+
+Zanbamon
+- Kabukimon + Tekkamon
+- Kabukimon + Dinohumon
+(Lv42+, Dark EXP11000+, Speed 270+)
+
+ZeedMilleniumon
+- MoonMillenniummon + Gigadramon
+(Lv77+, Dark EXP70000+, Attack 450+)

@@ -3,15 +3,21 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace DigimonDawnDusk.Components;
 
-public partial class MultiSelectItems<T>(IEnumerable<T> items) :
+public partial class MultiSelectItems<T>(IEnumerable<T> items, bool def = true) :
 	IDictionary<T, bool>, IReadOnlyDictionary<T, bool>
 	where T : notnull
 {
 	public bool this[T key] { get => ((IDictionary<T, bool>)MultiSelectItemsList)[key]; set => ((IDictionary<T, bool>)MultiSelectItemsList)[key] = value; }
 
 	public Dictionary<T, bool> MultiSelectItemsList { get; } = new Dictionary<T, bool>(
-			 [.. items.Select(x => new KeyValuePair<T, bool>(x, true)).Distinct().OrderBy(x => x.Value)]
+			 [.. items.Select(x => new KeyValuePair<T, bool>(x, def)).Distinct().OrderBy(x => x.Key)]
 		);
+
+	public void Reset()
+	{
+		foreach (var item in MultiSelectItemsList.Keys)
+			MultiSelectItemsList[item] = default;
+	}
 
 	public ICollection<T> Keys => ((IDictionary<T, bool>)MultiSelectItemsList).Keys;
 
