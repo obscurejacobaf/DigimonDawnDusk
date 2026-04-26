@@ -1,0 +1,6669 @@
+Digimon No.: 001
+Digimon Name: Chicchimon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 002
+Digimon Name: Koromon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Limit Valley
+
+Traits:
+- Powerful 1
+
+--------------------------------------------------
+
+Digimon No.: 003
+Digimon Name: Tsunomon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 1
+
+--------------------------------------------------
+
+Digimon No.: 004
+Digimon Name: Poyomon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Fog Mantle 1
+
+--------------------------------------------------
+
+Digimon No.: 005
+Digimon Name: Tokomon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Sylph Protection 1
+
+--------------------------------------------------
+
+Digimon No.: 006
+Digimon Name: Tanemon
+Type: MPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Chip Forest
+
+Traits:
+- Psychic 1
+
+--------------------------------------------------
+
+Digimon No.: 007
+Digimon Name: Pagumon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Protect 1
+
+--------------------------------------------------
+
+Digimon No.: 008
+Digimon Name: Kapurimon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Ether Eddy 1
+
+--------------------------------------------------
+
+Digimon No.: 009
+Digimon Name: Kuramon
+Type: HPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Dark Whispers 1
+
+--------------------------------------------------
+
+Digimon No.: 010
+Digimon Name: Puttimon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Angel Halo 1
+
+--------------------------------------------------
+
+Digimon No.: 011
+Digimon Name: Chibomon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Task Canyon
+
+Traits:
+- Speed 1
+
+--------------------------------------------------
+
+Digimon No.: 012
+Digimon Name: Dorimon
+Type: HPType
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 1
+
+--------------------------------------------------
+
+Digimon No.: 013
+Digimon Name: Calumon
+Type: MPType
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- D Enthelecheia
+- Status Barrier
+- Evasion Dance
+- Retreat
+
+--------------------------------------------------
+
+Digimon No.: 014
+Digimon Name: Gigimon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Task Canyon
+
+Traits:
+- Fire Aura 1
+
+--------------------------------------------------
+
+Digimon No.: 015
+Digimon Name: Gummymon
+Type: MPType
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Chip Forest
+
+Traits:
+- Protect 1
+
+--------------------------------------------------
+
+Digimon No.: 016
+Digimon Name: Kokomon
+Type: MPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Chip Forest
+
+Traits:
+- Protect 1
+
+--------------------------------------------------
+
+Digimon No.: 017
+Digimon Name: Tsumemon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Powerful 1
+
+--------------------------------------------------
+
+Digimon No.: 018
+Digimon Name: Minomon
+Type: Technical
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Protect 1
+
+--------------------------------------------------
+
+Digimon No.: 019
+Digimon Name: Wanyamon
+Type: Speed
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heart of the Earth 1
+
+--------------------------------------------------
+
+Digimon No.: 020
+Digimon Name: Budmon
+Type: Tank
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: 
+
+Traits:
+- Thunder Sign 1
+
+--------------------------------------------------
+
+Digimon No.: 021
+Digimon Name: Botamon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 1
+
+--------------------------------------------------
+
+Digimon No.: 022
+Digimon Name: Sunmon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Fire Aura 1
+
+--------------------------------------------------
+
+Digimon No.: 023
+Digimon Name: Moonmon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Dark Whispers 1
+
+--------------------------------------------------
+
+Digimon No.: 024
+Digimon Name: Monodramon
+Type: Speed
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Thunder
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Speed 2
+- Sylph Protection 2
+
+--------------------------------------------------
+
+Digimon No.: 025
+Digimon Name: Agumon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Limit Valley
+
+Traits:
+- Powerful 2
+- Fire Aura 2
+
+--------------------------------------------------
+
+Digimon No.: 026
+Digimon Name: Veemon
+Type: Speed
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Protect 2
+- Evasion 1
+
+--------------------------------------------------
+
+Digimon No.: 027
+Digimon Name: Guilmon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Task Canyon
+
+Traits:
+- Fire Aura 2
+- EX Damage 1
+
+--------------------------------------------------
+
+Digimon No.: 028
+Digimon Name: Dorumon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Heart of the Earth 2
+- Lucky Medal 1
+
+--------------------------------------------------
+
+Digimon No.: 029
+Digimon Name: Betamon
+Type: HPType
+
+Species: Aquan
+
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Thunder Sign 2
+- Fog Mantle 2
+
+--------------------------------------------------
+
+Digimon No.: 030
+Digimon Name: Gabumon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Register Jungle
+
+Traits:
+- Heart of the Earth 2
+- Evasion 1
+
+--------------------------------------------------
+
+Digimon No.: 031
+Digimon Name: Patamon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Sylph Protection 2
+- Resist Sleep 1
+
+--------------------------------------------------
+
+Digimon No.: 032
+Digimon Name: Biyomon
+Type: Technical
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Limit Valley
+
+Traits:
+- Speed 2
+- Infallible Will 1
+
+--------------------------------------------------
+
+Digimon No.: 033
+Digimon Name: Palmon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 2
+- Resist Paralysis 1
+
+--------------------------------------------------
+
+Digimon No.: 034
+Digimon Name: Tentomon
+Type: Tank
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Chip Forest
+
+Traits:
+- Protect 2
+- Thrifty 1
+
+--------------------------------------------------
+
+Digimon No.: 035
+Digimon Name: Gotsumon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Earth
+Elemental Weakness: Water
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Psychic 2
+- Ether Eddy 2
+
+--------------------------------------------------
+
+Digimon No.: 036
+Digimon Name: Otamamon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Fog Mantle 2
+- Resist Sleep 1
+
+--------------------------------------------------
+
+Digimon No.: 037
+Digimon Name: Gomamon
+Type: HPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 2
+- Fog Mantle 2
+
+--------------------------------------------------
+
+Digimon No.: 038
+Digimon Name: Tapirmon
+Type: MPType
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Psychic 2
+- Collector 1
+
+--------------------------------------------------
+
+Digimon No.: 039
+Digimon Name: DemiDevimon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Speed 2
+- Dark Whispers 2
+
+--------------------------------------------------
+
+Digimon No.: 040
+Digimon Name: ToyAgumon
+Type: Balance
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Process Factory
+
+Traits:
+- Protect 2
+- Run Away 1
+
+--------------------------------------------------
+
+Digimon No.: 041
+Digimon Name: Hagurumon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Ether Eddy 2
+- Collector 1
+
+--------------------------------------------------
+
+Digimon No.: 042
+Digimon Name: Salamon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Angel Halo 2
+- Death Evasion 1
+
+--------------------------------------------------
+
+Digimon No.: 043
+Digimon Name: Wormmon
+Type: Technical
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Register Jungle
+
+Traits:
+- Thunder Sign 2
+- Lucky Medal 1
+
+--------------------------------------------------
+
+Digimon No.: 044
+Digimon Name: Hawkmon
+Type: Attacker
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Powerful 2
+- Speed 2
+
+--------------------------------------------------
+
+Digimon No.: 045
+Digimon Name: Armadillomon
+Type: Tank
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Protect 2
+- Heart of the Earth 2
+
+--------------------------------------------------
+
+Digimon No.: 046
+Digimon Name: Terriermon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Evasion 1
+- EX Damage 1
+
+--------------------------------------------------
+
+Digimon No.: 047
+Digimon Name: Lopmon
+Type: Balance
+
+Species: Dark
+
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Sniper 1
+- Critical 1
+
+--------------------------------------------------
+
+Digimon No.: 048
+Digimon Name: Renamon
+Type: Speed
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Limit Valley
+
+Traits:
+- Speed 2
+- Evasion 1
+
+--------------------------------------------------
+
+Digimon No.: 049
+Digimon Name: Impmon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 2
+- Dark Whispers 2
+
+--------------------------------------------------
+
+Digimon No.: 050
+Digimon Name: Keramon
+Type: Tank
+
+Dwelling: Magnetic Quarry
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Traits:
+- Dark Whispers 2
+- Resist Paralysis 1
+
+--------------------------------------------------
+
+Digimon No.: 051
+Digimon Name: Falcomon
+Type: Speed
+
+Dwelling: Not Available
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Traits:
+- Speed 2
+- Sniper 1
+
+--------------------------------------------------
+
+Digimon No.: 052
+Digimon Name: Penguinmon
+Type: Tank
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Fog Mantle 2
+- Sylph protection 2
+
+--------------------------------------------------
+
+Digimon No.: 053
+Digimon Name: Goburimon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Holy
+
+Dwelling: Chip Forest
+
+Traits:
+- Powerful 2
+- Thrifty 1
+
+--------------------------------------------------
+
+Digimon No.: 054
+Digimon Name: Bearmon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Chip Forest
+
+Traits:
+- Infallible Will 1
+- Critical 1
+
+--------------------------------------------------
+
+Digimon No.: 055
+Digimon Name: Kotemon
+Type: Technical
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Wind
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Death Evasion 1
+- Critical 1
+
+--------------------------------------------------
+
+Digimon No.: 056
+Digimon Name: Shamamon
+Type: Technical
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Limit Valley
+
+Traits:
+- Psychic 2
+- Resist Poison 1
+
+--------------------------------------------------
+
+Digimon No.: 057
+Digimon Name: SnowGoblimon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Fog Mantle 2
+- Collector 1
+
+--------------------------------------------------
+
+Digimon No.: 058
+Digimon Name: Syakomon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Protect 2
+- Thrifty 1
+
+--------------------------------------------------
+
+Digimon No.: 059
+Digimon Name: SnowAgumon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 2
+- Run Away 1
+
+--------------------------------------------------
+
+Digimon No.: 60
+Digimon Name: BlackAgumon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Process Factory
+
+Traits:
+- Powerful 2
+- Dark Whispers 2
+
+--------------------------------------------------
+
+Digimon No.: 061
+Digimon Name: Muchomon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Thunder
+Elemental Weakness: Thunder
+
+Dwelling: Loop Swamp
+
+Traits:
+- Sylph Protection 2
+- Lucky Medal 1
+
+--------------------------------------------------
+
+Digimon No.: 062
+Digimon Name: Crabmon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Protect 2
+- Critical 1
+
+--------------------------------------------------
+
+Digimon No.: 063
+Digimon Name: Floramon
+Type: HPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Register Jungle
+
+Traits:
+- Resist Poison 1
+- Lucky medal 1
+
+--------------------------------------------------
+
+Digimon No.: 064
+Digimon Name: Gizamon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Thunder
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Death Evasion 1
+- EX Damage 1
+
+--------------------------------------------------
+
+Digimon No.: 065
+Digimon Name: Lalamon
+Type: Technical
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 2
+- Thrifty 1
+
+--------------------------------------------------
+
+Digimon No.: 066
+Digimon Name: Aruraumon
+Type: MPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Dark Whispers 2
+- Critical 1
+
+--------------------------------------------------
+
+Digimon No.: 067
+Digimon Name: ShadowToyAgumon
+Type: Balance
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Ether Eddy 2
+- Run Away 1
+
+--------------------------------------------------
+
+Digimon No.: 068
+Digimon Name: Tsukaimon
+Type: Speed
+
+Dwelling: Thriller Ruins
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Traits:
+- Speed 2
+- Run Away 1
+
+--------------------------------------------------
+
+Digimon No.: 069
+Digimon Name: PawnChessmon (Black)
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Protect 2
+- Ether Eddy 2
+
+--------------------------------------------------
+
+Digimon No.: 070
+Digimon Name: Gaomon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Speed 2
+- Critical 1
+
+--------------------------------------------------
+
+Digimon No.: 071
+Digimon Name: DotFalcomon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Speed 2
+- God of Luck
+
+--------------------------------------------------
+
+Digimon No.: 072
+Digimon Name: Kudamon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Task Canyon
+
+Traits:
+- Sniper 1
+- EX Damage 1
+
+--------------------------------------------------
+
+Digimon No.: 073
+Digimon Name: Kamemon
+Type: HPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Thunder
+
+Dwelling: Loop Swamp
+
+Traits:
+- Protect 2
+- Collector 1
+
+--------------------------------------------------
+
+Digimon No.: 074
+Digimon Name: Dracmon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Dark Whispers 2
+- Resist Sleep 1
+
+--------------------------------------------------
+
+Digimon No.: 075
+Digimon Name: PawnChessmon (White)
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Protect 2
+- Angel Halo 2
+
+--------------------------------------------------
+
+Digimon No.: 076
+Digimon Name: DotAgumon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 2
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 077
+Digimon Name: Kunemon
+Type: MPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Chip Forest
+
+Traits:
+- Thunder Sign 2
+- Resist Paralysis 1
+
+--------------------------------------------------
+
+Digimon No.: 078
+Digimon Name: Mushroomon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Chip Forest
+
+Traits:
+- Powerful 2
+- Resist Poison 1
+
+--------------------------------------------------
+
+Digimon No.: 079
+Digimon Name: Solarmon
+Type: Balance
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Proxy Island
+
+Traits:
+- Fire Aura 2
+- Lucky medal 1
+
+--------------------------------------------------
+
+Digimon No.: 080
+Digimon Name: Candlemon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Dark Whispers 2
+- Fire Aura 2
+
+--------------------------------------------------
+
+Digimon No.: 081
+Digimon Name: Kokuwamon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Thunder Sign 2
+- Critical 1
+
+--------------------------------------------------
+
+Digimon No.: 082
+Digimon Name: Dokunemon
+Type: HPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Resist Poison 1
+- Sniper 1
+
+--------------------------------------------------
+
+Digimon No.: 083
+Digimon Name: Coronamon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 2
+- Fire Aura 2
+
+--------------------------------------------------
+
+Digimon No.: 084
+Digimon Name: Lunamon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Speed 2
+- Evasion 1
+
+--------------------------------------------------
+
+Digimon No.: 085
+Digimon Name: Mekanorimon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Thunder
+
+Dwelling: Process Factory
+
+Traits:
+- Protect 3
+- Collector 2
+
+--------------------------------------------------
+
+Digimon No.: 086
+Digimon Name: Greymon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Task Canyon
+
+Traits:
+- Powerful 3
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 087
+Digimon Name: Tyrannomon
+Type: Technical
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Task Canyon
+
+Traits:
+- Psychic 3
+- Fire Aura 3
+
+--------------------------------------------------
+
+Digimon No.: 088
+Digimon Name: Devimon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Dark Whispers 3
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 089
+Digimon Name: Airdramon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Speed 3
+- Sylph Protection 4
+
+--------------------------------------------------
+
+Digimon No.: 090
+Digimon Name: Seadramon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Fog Mantle 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 091
+Digimon Name: Numemon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Resist Paralysis 2
+- Run Away 2
+
+--------------------------------------------------
+
+Digimon No.: 092
+Digimon Name: Kabuterimon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Protect 3
+- Thunder Sign 3
+
+--------------------------------------------------
+
+Digimon No.: 093
+Digimon Name: Garurumon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Access Glacier
+
+Traits:
+- Powerful 3
+- Speed 3
+
+--------------------------------------------------
+
+Digimon No.: 094
+Digimon Name: Angemon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Access Glacier
+
+Traits:
+- Psychic 3
+- Angel Halo 3
+
+--------------------------------------------------
+
+Digimon No.: 095
+Digimon Name: Veggiemon
+Type: MPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Run Away 2
+- Thrifty 2
+
+--------------------------------------------------
+
+Digimon No.: 096
+Digimon Name: Ogremon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Chip Forest
+
+Traits:
+- Powerful 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 097
+Digimon Name: Bakemon
+Type: Speed
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Run Away 2
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 098
+Digimon Name: Sukamon
+Type: HPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Ether Eddy 3
+- Resist Poison 2
+
+--------------------------------------------------
+
+Digimon No.: 099
+Digimon Name: Kokatorimon
+Type: Technical
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Sylph protection 3
+- Resist Paralysis 2
+
+--------------------------------------------------
+
+Digimon No.: 100
+Digimon Name: Leomon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Dark
+
+Dwelling: Register Jungle
+
+Traits:
+- Psychic 3
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 101
+Digimon Name: Kuwagamon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Register Jungle
+
+Traits:
+- Powerful 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 102
+Digimon Name: Raremon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Holy
+
+Dwelling: Underground Tunnel
+
+Traits:
+- Dark Whispers 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 103
+Digimon Name: Gekomon
+Type: HPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Resist Sleep 2
+- Collector 2
+
+--------------------------------------------------
+
+Digimon No.: 104
+Digimon Name: Gatomon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Angel Halo 3
+- Lucky Medal 2
+
+--------------------------------------------------
+
+Digimon No.: 105
+Digimon Name: Wizardmon
+Type: Technical
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Psychic 3
+- Infallible Will 2
+
+--------------------------------------------------
+
+Digimon No.: 106
+Digimon Name: Togemon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Powerful 3
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 107
+Digimon Name: Guardromon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Protect 3
+- Ether Eddy 3
+
+--------------------------------------------------
+
+Digimon No.: 108
+Digimon Name: ExVeemon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 3
+- Psychic 3
+
+--------------------------------------------------
+
+Digimon No.: 109
+Digimon Name: Stingmon
+Type: Speed
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Sniper 2
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 110
+Digimon Name: Birdramon
+Type: Attacker
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Speed 3
+- Ether Eddy 4
+
+--------------------------------------------------
+
+Digimon No.: 111
+Digimon Name: Ankylomon
+Type: Tank
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Protect 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 112
+Digimon Name: Gargomon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Register Jungle
+
+Traits:
+- Powerful 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 113
+Digimon Name: Growlmon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 3
+- Fire Aura 3
+
+--------------------------------------------------
+
+Digimon No.: 114
+Digimon Name: Kyubimon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Limit Valley
+
+Traits:
+- Psychic 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 115
+Digimon Name: Kurisarimon
+Type: Tank
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Protect 3
+- Dark Whispers 3
+
+--------------------------------------------------
+
+Digimon No.: 116
+Digimon Name: Seasarmon
+Type: HPType
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Dark
+
+Dwelling: Limit valley
+
+Traits:
+- Death Evasion 2
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 117
+Digimon Name: Vilemon
+Type: MPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Dark Whispers 3
+- Resist Sleep 2
+
+--------------------------------------------------
+
+Digimon No.: 118
+Digimon Name: Aquilamon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Powerful 3
+- Sylph Protection 3
+
+--------------------------------------------------
+
+Digimon No.: 119
+Digimon Name: Roachmon
+Type: Speed
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Speed 3
+- Run Away 2
+
+--------------------------------------------------
+
+Digimon No.: 120
+Digimon Name: Dinohumon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Psychic 3
+- Resist Paralysis 2
+
+--------------------------------------------------
+
+Digimon No.: 121
+Digimon Name: Hookmon
+Type: HPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Thunder
+
+Dwelling: Underground tunnel
+
+Traits:
+- Fog Mantle 3
+- Collector 2
+
+--------------------------------------------------
+
+Digimon No.: 122
+Digimon Name: Grizzmon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 123
+Digimon Name: Dorugamon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Thunder
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Powerful 3
+- Lucky Medal 2
+
+--------------------------------------------------
+
+Digimon No.: 124
+Digimon Name: Reptiledramon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Access Glacier
+
+Traits:
+- Ether Eddy 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 125
+Digimon Name: Apemon
+Type: Technical
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Thunder
+
+Dwelling: Limit Valley
+
+Traits:
+- Speed 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 126
+Digimon Name: Starmon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Protect 3
+- Infallible Will 2
+
+--------------------------------------------------
+
+Digimon No.: 127
+Digimon Name: BomberNanimon
+Type: HPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Critical 2
+- Run Away 2
+
+--------------------------------------------------
+
+Digimon No.: 128
+Digimon Name: Kiwimon
+Type: Tank
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Run Away 2
+- Thrifty 2
+
+--------------------------------------------------
+
+Digimon No.: 129
+Digimon Name: Unimon
+Type: Speed
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Sylph Protection 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 130
+Digimon Name: Sorcerymon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Psychic 3
+- Infallible Will 2
+
+--------------------------------------------------
+
+Digimon No.: 131
+Digimon Name: DarkTyrannomon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Process Factory
+
+Traits:
+- Powerful 3
+- Dark Whispers 3
+
+--------------------------------------------------
+
+Digimon No.: 132
+Digimon Name: Akatorimon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 3
+- Resist Poison 2
+
+--------------------------------------------------
+
+Digimon No.: 133
+Digimon Name: PlatinumSukamon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: 
+
+Traits:
+- Protect 3
+- Angel Halo 3
+
+--------------------------------------------------
+
+Digimon No.: 134
+Digimon Name: Ikkakumon
+Type: HPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Protect 3
+- Fog Mantle 3
+
+--------------------------------------------------
+
+Digimon No.: 135
+Digimon Name: Minotarumon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Trans Field
+
+Traits:
+- Resist Sleep 2
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 136
+Digimon Name: Icemon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Access Glacier
+
+Traits:
+- Fog Mantle 3
+- Thrifty 2
+
+--------------------------------------------------
+
+Digimon No.: 137
+Digimon Name: DarkLizardmon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Dark Whispers 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 138
+Digimon Name: Flarerizamon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Fire Aura 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 139
+Digimon Name: GeoGreymon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 3
+- Protect 3
+
+--------------------------------------------------
+
+Digimon No.: 140
+Digimon Name: Gaogamon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Speed 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 141
+Digimon Name: Diatrymon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Proxy Island
+
+Traits:
+- Sylph Protection 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 142
+Digimon Name: Reppamon
+Type: Speed
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Speed 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 143
+Digimon Name: Sunflowmon
+Type: HPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+
+Elemental Weakness: Wind
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Psychic 3
+- Thrifty 2
+
+--------------------------------------------------
+
+Digimon No.: 144
+Digimon Name: Gwappamon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Resist Sleep 2
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 145
+Digimon Name: Sangloupmon
+Type: Speed
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Evasion 2
+- Run Away 2
+
+--------------------------------------------------
+
+Digimon No.: 146
+Digimon Name: Peckmon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Speed 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 147
+Digimon Name: Drimogemon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Limit Valley
+
+Traits:
+- Powerful 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 148
+Digimon Name: NiseDrimogemon
+Type: Tank
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Limit Valley
+
+Traits:
+- Protect 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 149
+Digimon Name: MoriShellmon
+Type: Tank
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Log-In Mountain
+
+Traits:
+- Powerful 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 150
+Digimon Name: NiseDorimogemon
+Type: Tank
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Limit Valley
+
+Traits:
+- Protect 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 151
+Digimon Name: Fugamon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Powerful 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 152
+Digimon Name: Wendigomon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Holy
+
+Dwelling: Register Jungle
+
+Traits:
+- Powerful 3
+- Dark Whispers 3
+
+--------------------------------------------------
+
+Digimon No.: 153
+Digimon Name: Fuugamon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Powerful 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 154
+Digimon Name: Tsuchidarumon
+Type: HPType
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Infallible Will 2
+- Lucky Medal 2
+
+--------------------------------------------------
+
+Digimon No.: 155
+Digimon Name: Tortomon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Prozy Island
+
+Traits:
+- Ether Eddy 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 156
+Digimon Name: Ebidramon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Powerful 3
+- Infallible Will 2
+
+--------------------------------------------------
+
+Digimon No.: 157
+Digimon Name: Octomon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Holy
+
+Dwelling: Proxy island
+
+Traits:
+- Sniper 2
+- Collector 2
+
+--------------------------------------------------
+
+Digimon No.: 158
+Digimon Name: Gesomon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Proxy island
+
+Traits:
+- Psychic 3
+- Resist Poison 2
+
+--------------------------------------------------
+
+Digimon No.: 159
+Digimon Name: Coelamon
+Type: MPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Fog Mantle 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 160
+Digimon Name: Shellmon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Protect 3
+- Fog Mantle 3
+
+--------------------------------------------------
+
+Digimon No.: 161
+Digimon Name: Frigimon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Access Glacier
+
+Traits:
+- Psychic 3
+- Fog Mantle 3
+
+--------------------------------------------------
+
+Digimon No.: 161
+Digimon Name: Geremon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: 
+
+Traits:
+- Powerful 3
+- Resist Paralysis 2
+
+--------------------------------------------------
+
+Digimon No.: 162
+Digimon Name: Hyogamon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Access Glacier
+
+Traits:
+- Powerful 3
+- Protect 3
+
+--------------------------------------------------
+
+Digimon No.: 163
+Digimon Name: KaratsukiNumemon
+Type: Tank
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Protect 3
+- Lucky Medal 2
+
+--------------------------------------------------
+
+Digimon No.: 164
+Digimon Name: IceDevimon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Holy
+
+Dwelling: Access Glacier
+
+Traits:
+- Dark Whispers 3
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 165
+Digimon Name: Dolphmon
+Type: Speed
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Psychic 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 165
+Digimon Name: Saberdramon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Proxy Island
+
+Traits:
+- Speed 3
+- Sylph Protection 3
+
+--------------------------------------------------
+
+Digimon No.: 166
+Digimon Name: Woodmon
+Type: Technical
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Fire
+
+Dwelling: Register Jungle
+
+Traits:
+- Protect 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 167
+Digimon Name: Snimon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Sniper 2
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 168
+Digimon Name: Flymon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Earth
+
+Dwelling: Chip Forest
+
+Traits:
+- Speed 3
+- Resist Poison 2
+
+--------------------------------------------------
+
+Digimon No.: 169
+Digimon Name: Yanmamon
+Type: Balance
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Loop Swamp
+
+Traits:
+- Speed 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 170
+Digimon Name: SandYanmamon
+Type: Tank
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Steel
+
+Dwelling: Limit Valley
+
+Traits:
+- Protect 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 171
+Digimon Name: RedVegiemon
+Type: Balance
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Register Jungle
+
+Traits:
+- Psychic 3
+- Thrifty 2
+
+--------------------------------------------------
+
+Digimon No.: 172
+Digimon Name: Weedmon
+Type: MPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Loop Swamp
+
+Traits:
+- Dark Whispers 3
+- Thunder Sign 3
+
+--------------------------------------------------
+
+Digimon No.: 173
+Digimon Name: Ninjamon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Steel
+
+Dwelling: Register Jungle
+
+Traits:
+- Speed 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 174
+Digimon Name: Kogamon
+Type: Speed
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Steel
+
+Dwelling: Loop Swamp
+
+Traits:
+- Speed 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 175
+Digimon Name: Omekamon
+Type: Technical
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Ether Eddy 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 176
+Digimon Name: Clockmon
+Type: Balance
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Chaos Brain
+
+Traits:
+- Psychic 3
+- Lucky Medal 2
+
+--------------------------------------------------
+
+Digimon No.: 177
+Digimon Name: Thunderballmon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Thunder Sign 3
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 178
+Digimon Name: Tankmon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Process Factory
+
+Traits:
+- Protect 3
+- EX Damage 2
+
+--------------------------------------------------
+
+Digimon No.: 179
+Digimon Name: Nanimon
+Type: HPType
+
+Species: Machine
+Elemental Alignment: Earth
+Elemental Weakness: Water
+
+Dwelling: Chip Forest
+
+Traits:
+- Evasion 2
+- Collector 2
+
+--------------------------------------------------
+
+Digimon No.: 180
+Digimon Name: Golemon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Earth
+Elemental Weakness: Water
+
+Dwelling: Megnetic Quarry
+
+Traits:
+- Powerful 3
+- Ether Eddy 3
+
+--------------------------------------------------
+
+Digimon No.: 181
+Digimon Name: Monochromon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Protect 3
+- Fire Aura 3
+
+--------------------------------------------------
+
+Digimon No.: 182
+Digimon Name: Mojyamon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Access Glacier
+
+Traits:
+- Protect 3
+- Fog Mantle 3
+
+--------------------------------------------------
+
+Digimon No.: 183
+Digimon Name: JungleMojyamon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Proxy Island
+
+Traits:
+- Powerful 3
+- Heart of the Earth 3
+
+--------------------------------------------------
+
+Digimon No.: 184
+Digimon Name: Deputymon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Ether Eddy 3
+- Sniper 2
+
+--------------------------------------------------
+
+Digimon No.: 185
+Digimon Name: Centarumon
+Type: Speed
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Trans Field
+
+Traits:
+- Protect 3
+- Run Away 2
+
+--------------------------------------------------
+
+Digimon No.: 186
+Digimon Name: Devidramon
+Type: MPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Powerful 3
+- Dark Whispers 3
+
+--------------------------------------------------
+
+Digimon No.: 187
+Digimon Name: Dokugumon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Register Jungle
+
+Traits:
+- Thunder Sign 3
+- Resist Poison 2
+
+--------------------------------------------------
+
+Digimon No.: 188
+Digimon Name: Veedramon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 3
+- Speed 3
+
+--------------------------------------------------
+
+Digimon No.: 189
+Digimon Name: Musyamon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Loop Swamp
+
+Traits:
+- Powerful 3
+- Critical 2
+
+--------------------------------------------------
+
+Digimon No.: 190
+Digimon Name: KnightChessmon (White)
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Speed 3
+- Angel Halo 3
+
+--------------------------------------------------
+
+Digimon No.: 191
+Digimon Name: KnightChessmon (Black)
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Speed 3
+- Ether Eddy 3
+
+--------------------------------------------------
+
+Digimon No.: 192
+Digimon Name: Firamon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 3
+- Fire Aura 3
+
+--------------------------------------------------
+
+Digimon No.: 193
+Digimon Name: Lekismon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Speed 3
+- Evasion 2
+
+--------------------------------------------------
+
+Digimon No.: 194
+Digimon Name: Volcamon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Powerful 4
+- Protect 4
+- Fire Aura 4
+
+--------------------------------------------------
+
+Digimon No.: 195
+Digimon Name: MetalGreymon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Chaos Brain
+
+Traits:
+- Powerful 4
+- Protect 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 196
+Digimon Name: Monzaemon
+Type: Tank
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Proxy Island
+
+Traits:
+- Protect 4
+- Angel Halo 4
+- Healing Touch
+
+--------------------------------------------------
+
+Digimon No.: 197
+Digimon Name: SkullGreymon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Powerful 4
+- Veil of Darkness
+- Resist Poison 3
+
+--------------------------------------------------
+
+Digimon No.: 198
+Digimon Name: MetalMamemon
+Type: MPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Chaos Brain
+
+Traits:
+- Protect 4
+- Speed 4
+- Ether Eddy 4
+
+--------------------------------------------------
+
+Digimon No.: 199
+Digimon Name: Andromon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Chaos Brain
+
+Traits:
+- Protect 4
+- Sniper 3
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 200
+Digimon Name: Etemon
+Type: Technical
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Proxy Island
+
+Traits:
+- Protect 4
+- Resist Sleep 3
+- Skill Adept
+
+--------------------------------------------------
+
+Digimon No.: 201
+Digimon Name: Megadramon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Access Glacier
+
+Traits:
+- Powerful 4
+- Speed 4
+- Ether Eddy 4
+
+--------------------------------------------------
+
+Digimon No.: 202
+Digimon Name: Piximon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Angel Halo 4
+- Resist Paralysis 3
+- Run Away 3
+
+--------------------------------------------------
+
+Digimon No.: 203
+Digimon Name: Digitamamon
+Type: Tank
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Protect 4
+- Dark Whispers 4
+- Thrifty 3
+
+--------------------------------------------------
+
+Digimon No.: 204
+Digimon Name: Mammothmon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Access Glacier
+
+Traits:
+- Powerful 4
+- Protect 4
+- Heart of the Earth 4
+
+--------------------------------------------------
+
+Digimon No.: 205
+Digimon Name: MegaKabuterimon (Blue)
+Type: Tank
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Register Jungle
+
+Traits:
+- Protect 4
+- Thunder Sign 4
+- Infallible Will 3
+
+--------------------------------------------------
+
+Digimon No.: 206
+Digimon Name: Okuwamon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Proxy Island
+
+Traits:
+- Powerful 4
+- Thunder Sign 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 207
+Digimon Name: ShogunGekomon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Thunder
+
+Dwelling: Loop Swamp
+
+Traits:
+- Protect 4
+- Resist Sleep 3
+- Collector 3
+
+--------------------------------------------------
+
+Digimon No.: 208
+Digimon Name: Angewomon
+Type: Attacker
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Angel Halo 4
+- Critical 3
+- Healing Touch
+
+--------------------------------------------------
+
+Digimon No.: 209
+Digimon Name: Tylomon
+Type: Speed
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Fog Mantle 4
+- Sniper 3
+
+--------------------------------------------------
+
+Digimon No.: 210
+Digimon Name: Scorpiomon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Proxy Island
+
+Traits:
+- Protect 4
+- Psychic 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 211
+Digimon Name: MegaSeadramon
+Type: HPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Thunder Sign 4
+- Fog Mantle 4
+
+--------------------------------------------------	
+
+Digimon No.: 212
+Digimon Name: Dragomon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Psychic 4
+- Dark Whispers 4
+- Fog Mantle 4
+
+--------------------------------------------------
+
+Digimon No.: 213
+Digimon Name: WereGarurumonBlack
+Type: Speed
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Speed 4
+- Dark Whispers 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 214
+Digimon Name: WereGarurumon
+Type: Speed
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Heart of the Earth 4
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 215
+Digimon Name: Myotismon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Psychic 4
+- Dark Whispers 4
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 216
+Digimon Name: LadyDevimon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Powerful 4
+- Dark Whispers 4
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 217
+Digimon Name: Garudamon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Task Canyon
+
+Traits:
+- Psychic 4
+- Speed 4
+- Sylph protection 4
+
+--------------------------------------------------
+
+Digimon No.: 218
+Digimon Name: Blossomon
+Type: Tank
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Loop Swamp
+
+Traits:
+- Resist Paralysis 3
+- Sniper 3
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 219
+Digimon Name: Lillymon
+Type: Balance
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Sylph Protection 4
+- Lucky Medal 3
+
+--------------------------------------------------
+
+Digimon No.: 220
+Digimon Name: MegaKabuterimon (Red)
+Type: Tank
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Protect 4
+- Thunder Sign 4
+
+--------------------------------------------------
+
+Digimon No.: 221
+Digimon Name: Datamon
+Type: MPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Chaos Brain
+
+Traits:
+- Ether Eddy 4
+- Sniper 3
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 222
+Digimon Name: Cyberdramon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Access Glacier
+
+Traits:
+- Powerful 4
+- Speed 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 223
+Digimon Name: MagnaAngemon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Psychic 4
+- Angel Halo 4
+- Healing Touch
+
+--------------------------------------------------
+
+Digimon No.: 224
+Digimon Name: Paildramon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Protect 4
+- Speed 4
+
+--------------------------------------------------
+
+Digimon No.: 225
+Digimon Name: Dinobeemon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Sniper 3
+- Evasion 3
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 226
+Digimon Name: Antylamon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 4
+- Speed 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 227
+Digimon Name: Arukenimon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Register Jungle
+
+Traits:
+- Resist Poison 3
+- Evasion 3
+- Run Away 3
+
+--------------------------------------------------
+
+Digimon No.: 228
+Digimon Name: Mummymon
+Type: Tank
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Dark Whispers 4
+- Sniper 3
+- Death Barrier
+
+--------------------------------------------------
+
+Digimon No.: 229
+Digimon Name: WarGrowlmon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Ether Eddy 4
+- Fire Aura 4
+
+--------------------------------------------------
+
+Digimon No.: 230
+Digimon Name: Rapidmon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Speed 4
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 231
+Digimon Name: Taomon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 4
+- Evasion 3
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 232
+Digimon Name: Parrotmon
+Type: HPType
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Fire
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Psychic 4
+- Angel Halo 4
+- Thunder Sign 4
+
+--------------------------------------------------
+
+Digimon No.: 233
+Digimon Name: Infermon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Chaos Brain
+
+Traits:
+- Protect 4
+- Dark Whispers 4
+- Run Away 3
+
+--------------------------------------------------
+
+Digimon No.: 234
+Digimon Name: BlackRapidmon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Process Factory
+
+Traits:
+- Powerful 4
+- Speed 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 235
+Digimon Name: Pandamon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Critical 3
+- Lucky Medal 3
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 236
+Digimon Name: MarineDevimon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Powerful 4
+- Death Evasion 3
+- Thrifty 3
+
+--------------------------------------------------
+
+Digimon No.: 237
+Digimon Name: Karatenmon
+Type: Technical
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Chaos Brain
+Traits:
+- Psychic 4
+- Resist Paralysis 3
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 238
+Digimon Name: Kyukimon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Karatenmon
+
+Traits:
+- Powerful 4
+- Sniper 3
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 239
+Digimon Name: Sinduramon
+Type: Attacker
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Fire
+
+Dwelling: Trans Field
+
+Traits:
+- Protect 4
+- Thunder Sign 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 240
+Digimon Name: Pipismon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 4
+- Dark Whispers 4
+- Sniper 3
+
+--------------------------------------------------
+
+Digimon No.: 241
+Digimon Name: DoruGreymon
+Type: HPType
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- EX Damage 3
+- Lucky Medal 3
+
+--------------------------------------------------
+
+Digimon No.: 242
+Digimon Name: Divermon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Thunder
+
+Dwelling: Macro Sea
+
+Traits:
+- Speed 4
+- Sniper 3
+- Collector 3
+
+--------------------------------------------------
+
+Digimon No.: 243
+Digimon Name: Kimeramon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Protect 4
+- Speed 4
+
+--------------------------------------------------
+
+Digimon No.: 244
+Digimon Name: Triceramon
+Type: Tank
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Steel
+
+Dwelling: Proxy Island
+
+Traits:
+- Powerful 4
+- Protect 4
+- Heart of the Earth 4
+
+--------------------------------------------------
+
+Digimon No.: 245
+Digimon Name: Deramon
+Type: HPType
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Fire
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Psychic 4
+- Run Away 3
+- Thrifty 3
+
+--------------------------------------------------
+
+Digimon No.: 246
+Digimon Name: Silphymon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Trans Field
+
+Traits:
+- Speed 4
+- Sylph Air
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 247
+Digimon Name: SuperStarmon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Trans Field
+
+Traits:
+- Powerful 4
+- Angel Halo 4
+- Infallible Will 3
+
+--------------------------------------------------
+
+Digimon No.: 248
+Digimon Name: BlackWarGrowlmon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Shadow Hell
+
+Traits:
+- Powerful 4
+- Dark Whispers 4
+- Fire Aura 4
+
+--------------------------------------------------
+
+Digimon No.: 249
+Digimon Name: Zudomon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Access Glacier
+
+Traits:
+- Powerful 4
+- Fog Mantle 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 250
+Digimon Name: Whamon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Psychic 4
+- Fog Mantle 4
+- Collector 3
+
+--------------------------------------------------
+
+Digimon No.: 251
+Digimon Name: Mamemon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Proxy Island
+
+Traits:
+- Ether Eddy 4
+- Evasion 3
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 252
+Digimon Name: Toucanmon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Sylph Protection 4
+- Critical 3
+- Thrifty 3
+
+--------------------------------------------------
+
+Digimon No.: 253
+Digimon Name: Owlmon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 4
+- Speed 4
+- Resist Sleep 3
+
+--------------------------------------------------
+
+Digimon No.: 254
+Digimon Name: Meteormon
+Type: Speed
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Protect 4
+- Speed 4
+- Ether Eddy 4
+
+--------------------------------------------------
+
+Digimon No.: 255
+Digimon Name: Gigadramon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Process Factory
+
+Traits:
+- Powerful 4
+- Protect 4
+- Dark Whispers 4
+
+--------------------------------------------------
+
+Digimon No.: 256
+Digimon Name: RizeGreymon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Fire Aura 4
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 257
+Digimon Name: MachGaogamon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Sniper 3
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 258
+Digimon Name: Chirinmon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Psychic 4
+- Critical 3
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 259
+Digimon Name: Lilamon
+Type: Balance
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Psychic 4
+- Evasion 3
+- Lucky Medal 3
+
+--------------------------------------------------
+
+Digimon No.: 260
+Digimon Name: Shadramon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Dark Whispers 4
+- Fire Aura 4
+
+--------------------------------------------------
+
+Digimon No.: 261
+Digimon Name: Matadormon
+Type: Speed
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Speed 4
+- Dark Whispers 4
+- Evasion Dance
+
+--------------------------------------------------
+
+Digimon No.: 262
+Digimon Name: Kabukimon
+Type: Technical
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 4
+- Death Evasion 3
+- Lucky Medal 3
+
+--------------------------------------------------
+
+Digimon No.: 263
+Digimon Name: Cherrymon
+Type: Technical
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Fire
+
+Dwelling: Register Jungle
+
+Traits:
+- Protect 4
+- Psychic 4
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 264
+Digimon Name: Garbagemon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Process Factory
+
+Traits:
+- Protect 4
+- Dark Whispers 4
+- Sniper 3
+
+--------------------------------------------------
+
+Digimon No.: 265
+Digimon Name: Lucemon Chaos Mode
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Holy
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Veil of Darkness
+- Angel's Glory
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 266
+Digimon Name: MameTyramon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Access Glacier
+
+Traits:
+- Protect 4
+- Fire Aura 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 267
+Digimon Name: Giromon
+Type: MPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Chaos Brain
+
+Traits:
+- Ether Eddy 4
+- Critical 3
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 268
+Digimon Name: Vademon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 4
+- Critical 3
+- Collector 3
+
+--------------------------------------------------
+
+Digimon No.: 269
+Digimon Name: MetalTyrannomon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Access Glacier
+
+Traits:
+- Powerful 4
+- Protect 4
+- Ether Eddy 4
+
+--------------------------------------------------
+
+Digimon No.: 270
+Digimon Name: Tekkamon
+Type: HPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Powerful 4
+- Thunder Sign 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 271
+Digimon Name: BigMamemon
+Type: HPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Trans Field
+
+Traits:
+- Protect 4
+- All Element
+- Ailment Resistance
+
+--------------------------------------------------
+
+Digimon No.: 272
+Digimon Name: ExTyrannomon
+Type: Balance
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Dark Whispers 4
+- Lucky Medal 3
+- Collector 3
+
+--------------------------------------------------
+
+Digimon No.: 273
+Digimon Name: Vermilimon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Proxy Island
+
+Traits:
+- Protect 4
+- Fire Aura 4
+- Heart of the Earth 4
+
+--------------------------------------------------
+
+Digimon No.: 274
+Digimon Name: Phantomon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Evasion 3
+- Critical 3
+- Death Barrier
+
+--------------------------------------------------
+
+Digimon No.: 275
+Digimon Name: Vajramon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Trans Field
+
+Traits:
+- Powerful 4
+- Protect 4
+- Run Away 3
+
+--------------------------------------------------
+
+Digimon No.: 276
+Digimon Name: AeroVeedramon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Thunder
+
+Dwelling: Task Canyon
+
+Traits:
+- Powerful 4
+- Speed 4
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 277
+Digimon Name: GrapLeomon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Pallette Amazon
+
+Traits:
+- Psychic 4
+- Critical 3
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 278
+Digimon Name: Knightmon
+Type: Tank
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Trans Field
+
+Traits:
+- Powerful 4
+- Protect 4
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 279
+Digimon Name: Brachiomon
+Type: HPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Trans Field
+
+Traits:
+- Protect 4
+- Fog Mantle 4
+- Lucky Medal 3
+
+--------------------------------------------------
+
+Digimon No.: 280
+Digimon Name: Allomon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Fire Aura 4
+- Sylph Protection 4
+
+--------------------------------------------------
+
+Digimon No.: 281
+Digimon Name: Lynxmon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Fire Aura 4
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 282
+Digimon Name: Shaujinmon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Trans Field
+
+Traits:
+- Psychic 4
+- Fog Mantle 4
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 283
+Digimon Name: Yatagaramon
+Type: Attacker
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Speed 4
+- Evasion 3
+- Critical 3
+
+--------------------------------------------------
+
+Digimon No.: 284
+Digimon Name: BishopChessmon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Chaos Brain
+
+Traits:
+- Powerful 4
+- Sniper 3
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 285
+Digimon Name: RookChessmon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Process Factory
+
+Traits:
+- Protect 4
+- Critical 3
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 286
+Digimon Name: Flaremon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Psychic 4
+- Fire Aura 4
+
+--------------------------------------------------
+
+Digimon No.: 287
+Digimon Name: Crescemon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Dark Whispers 4
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 288
+Digimon Name: Flamedramon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Fire Aura 4
+- Sniper 3
+
+--------------------------------------------------
+
+Digimon No.: 289
+Digimon Name: Magnamon
+Type: Tank
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Guard
+- All Element
+- Lucky Medal 3
+
+--------------------------------------------------
+
+Digimon No.: 290
+Digimon Name: Prairiemon
+Type: Speed
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Speed 4
+- Heart of the Earth 4
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 291
+Digimon Name: Kongoumon
+Type: HPType
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Trans Field
+
+Traits:
+- Powerful 4
+- Protect 4
+- Economizer S
+
+--------------------------------------------------
+
+Digimon No.: 292
+Digimon Name: Seahomon
+Type: MPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Psychic 4
+- Fog Mantle 4
+- Thrifty 3
+
+--------------------------------------------------
+
+Digimon No.: 293
+Digimon Name: Shurimon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Trans Field
+
+Traits:
+- Speed 4
+- Sniper 3
+- Evasion 3
+
+--------------------------------------------------
+
+Digimon No.: 294
+Digimon Name: Kenkimon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Protect 4
+- Ether Eddy 4
+- Collector 3
+
+--------------------------------------------------
+
+Digimon No.: 295
+Digimon Name: Ponchomon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Powerful 4
+- Dark Whispers 4
+- Infallible Will 3
+
+--------------------------------------------------
+
+Digimon No.: 296
+Digimon Name: Argomon Ultimate
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Psychic 4
+- Dark Whispers 4
+- EX Damage 3
+
+--------------------------------------------------
+
+Digimon No.: 297
+Digimon Name: Shakkoumon
+Type: Tank
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Task Canyon
+
+Traits:
+- Protect 4
+- Angel Halo 4
+- Sniper 3
+
+--------------------------------------------------
+
+Digimon No.: 298
+Digimon Name: Lampmon
+Type: MPType
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Ailment Resistance
+- Miser
+- High Collector
+
+--------------------------------------------------
+
+Digimon No.: 299
+Digimon Name: HerculesKabuterimon
+Type: Balance
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Thunder Tattoo
+- Paralyze Barrier
+
+--------------------------------------------------
+
+Digimon No.: 300
+Digimon Name: SaberLeomon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Proxy Island
+
+Traits:
+- Heroic Heart
+- Heroic Move
+- Critical 4
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 301
+Digimon Name: MetalEtemon
+Type: Tank
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Chaos Brain
+
+Traits:
+- Heroic Guard
+- All Element
+- Ailment Resistance
+- Skill Master
+
+--------------------------------------------------
+
+Digimon No.: 302
+Digimon Name: MarineAngemon
+Type: MPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Macro Sea
+
+Traits:
+- Fog Coat
+- Run Away 4
+- God of Luck
+- Healing Aura
+
+--------------------------------------------------
+
+Digimon No.: 303
+Digimon Name: GigaSeadramon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- All Element
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 304
+Digimon Name: Piedmon
+Type: Technical
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Veil of Darkness
+- Evasion Dance
+- Assassin Sense
+- High Collector
+
+--------------------------------------------------
+
+Digimon No.: 305
+Digimon Name: Daemon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Gladiator
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 306
+Digimon Name: Phoenixmon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Heroic Heart
+- Angel's Glory
+- Flame Aura
+- Healing Aura
+
+--------------------------------------------------
+
+Digimon No.: 307
+Digimon Name: Puppetmon
+Type: Technical
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Retreat
+- Thrifty 4
+- Skill Master
+
+--------------------------------------------------
+
+Digimon No.: 308
+Digimon Name: Rosemon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Heart
+- Evasion 4
+- Lucky Medal 4
+- Skill master
+
+--------------------------------------------------
+
+Digimon No.: 309
+Digimon Name: WarGreymon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Flame Aura
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 310
+Digimon Name: MetalGarurumon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- Ether Eddy 4
+- Fog Coat
+- Evasion 4
+
+--------------------------------------------------
+
+Digimon No.: 311
+Digimon Name: Machinedramon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Process Factory
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Ether Ring
+- Sniper 4
+
+--------------------------------------------------
+
+Digimon No.: 312
+Digimon Name: VenomMyotismon
+Type: HPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Heroic power
+- Veil of Darkness
+- Assassin Sense
+- EX Damage 4
+
+--------------------------------------------------
+
+Digimon No.: 313
+Digimon Name: Omnimon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Move
+- Evasion Dance
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 314
+Digimon Name: Imperialdramon Dragon Mode
+Type: MPType
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Sniper 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 315
+Digimon Name: Imperialdramon Fighter Mode
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Task Canyon
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- God's Eye
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 316
+Digimon Name: Imperialdramon Paladin Mode
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Angel's Glory
+- God's Eye
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 317
+Digimon Name: Ghoulmon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Chaos Brain
+
+Traits:
+- Heroic Heart
+- Veil of Darkness
+- God's Eye
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 318
+Digimon Name: Seraphimon
+Type: Balance
+
+Species: Holy
+
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Angel's Glory
+- All Element
+- Healing Aura
+
+--------------------------------------------------
+
+Digimon No.: 319
+Digimon Name: HiAndromon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Guard
+- Sniper 4
+- Critical 4
+- Confuse Barrier
+
+--------------------------------------------------
+
+Digimon No.: 320
+Digimon Name: Devitamamon
+Type: Tank
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Chaos Brain
+
+Traits:
+- Heroic Guard
+- Veil of Darkness
+- Poison Barrier
+- Death Barrier
+
+--------------------------------------------------
+
+Digimon No.: 321
+Digimon Name: Cherubimon (Good)
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Heroic Heart
+- Heroic Move
+- God's Eye
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 322
+Digimon Name: Cherubimon (Evil)
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Heroic Move
+- Sniper 4
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 323
+Digimon Name: Gallantmon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Heart
+- EX Damage 4
+- Confuse Barrier
+
+--------------------------------------------------
+
+Digimon No.: 324
+Digimon Name: Gallantmon Crimson Mode
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Heart
+- Gladiator
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 325
+Digimon Name: Mega Gargomon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Water
+
+Dwelling: Chaos Brain
+
+Traits:
+- Heroic Power
+- Ether Ring
+- Infallible Will 4
+- Sniper 4
+
+--------------------------------------------------
+
+Digimon No.: 326
+Digimon Name: Sakuyamon
+Type: MPType
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Evasion Dance
+- Assassin Sense
+- Skill Master
+
+--------------------------------------------------
+
+Digimon No.: 327
+Digimon Name: Diaboromon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Run Away 4
+- Lucky Medal 4
+
+--------------------------------------------------
+
+Digimon No.: 328
+Digimon Name: Neptunmon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Fog Coat
+- Ailment Resistance
+- God's Eye
+
+--------------------------------------------------
+
+Digimon No.: 329
+Digimon Name: Pukumon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Thunder
+
+Dwelling: Macro Sea
+
+Traits:
+- Heroic Guard
+- Critical 4
+- Gladiator
+- Collector 4
+
+--------------------------------------------------
+
+Digimon No.: 330
+Digimon Name: Gryphonmon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Task Canyon
+
+Traits:
+- Heroic Move
+- Sylph Air
+- Resist Sleep 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 331
+Digimon Name: Plesiomon
+Type: HPType
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Steel
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Guard
+- Fog Coat
+- Lucky Medal 4
+- Skill Master
+
+--------------------------------------------------
+
+Digimon No.: 332
+Digimon Name: Armageddemon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- All Element
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 333
+Digimon Name: MaloMyotismon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Veil of Darkness
+- Economizer
+- Ailment Resistance
+
+--------------------------------------------------
+
+Digimon No.: 334
+Digimon Name: Imperialdramon Dragon Mode (Black)
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- God's Eye
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 335
+Digimon Name: Boltmon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Ailment Resistance
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 336
+Digimon Name: PrinceMamemon
+Type: Tank
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Magnetic Quarry
+
+Traits:
+- Heroic Guard
+- Ether Ring
+- Miser
+- High Collector
+
+--------------------------------------------------
+
+Digimon No.: 337
+Digimon Name: Ophanimon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Angel's Glory
+- Economizer
+- Healing Aura
+
+--------------------------------------------------
+
+Digimon No.: 338
+Digimon Name: Zanbamon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Shadow Hell
+
+Traits:
+- Heroic Power
+- Heroic Move
+- Evasion 4
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 339
+Digimon Name: BlackMegaGargomon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Holy
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Sniper 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 340
+Digimon Name: Jijimon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Heroic Heart
+- Ailment Resistance
+- God's Eye
+
+--------------------------------------------------
+
+Digimon No.: 341
+Digimon Name: Babamon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Guard
+- Heroic Heart
+- Ailment Resistance
+- Evasion Dance
+
+--------------------------------------------------
+
+Digimon No.: 342
+Digimon Name: Anubismon
+Type: MPType
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Steel
+
+Dwelling: Thriller Ruins
+
+Traits:
+- Heroic Heart
+- All Element
+- God's Eye
+- Death Barrier
+
+--------------------------------------------------
+
+Digimon No.: 343
+Digimon Name: Parasimon
+Type: HPType
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Run Away 4
+- Skill Master
+- Paralyze Barrier
+- Stun Barrier
+
+--------------------------------------------------
+
+Digimon No.: 344
+Digimon Name: Cannondramon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Sniper 4
+- EX Damage 4
+
+--------------------------------------------------
+
+Digimon No.: 345
+Digimon Name: SL Angemon
+Type: Attacker
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Chaos Brain
+
+Traits:
+- Heroic Power
+- Heroic Move
+- Resist Paralysis 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 346
+Digimon Name: Eaglemon
+Type: Tank
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Dark
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Guard
+- Heroic Heart
+- All Element
+- Stun Barrier
+
+--------------------------------------------------
+
+Digimon No.: 347
+Digimon Name: Dorugoramon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Flame Aura
+- Gladiator
+- Lucky Medal 4
+
+--------------------------------------------------
+
+Digimon No.: 348
+Digimon Name: Beelzemon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Sniper 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 349
+Digimon Name: Bantyo Leomon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Critical 4
+- Gladiator
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 350
+Digimon Name: Darkdramon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Access Glacier
+
+Traits:
+- Heroic Power
+- Heroic Move
+- Veil of Darkness
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 351
+Digimon Name: Apocalymon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- All Element
+- Economizer
+- Skill Master
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 352
+Digimon Name: Ebemon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Ether Ring
+- Sniper 4
+- Assassin Sense
+- Collector 4
+
+--------------------------------------------------
+
+Digimon No.: 353
+Digimon Name: Gulfmon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Assassin Sense
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 354
+Digimon Name: Goldramon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Water
+
+Dwelling: Highlight Heaven
+
+Traits:
+- Heroic Power
+- Heroic Heart
+- God's Eye
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 355
+Digimon Name: ZeedMillenniummon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- God's Eye
+- Assassin Sense
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 356
+Digimon Name: Ghoulmon (Black)
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Chaos Brain
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- God's Eye
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 357
+Digimon Name: Kuzuhamon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Death Evasion 4
+- Evasion 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 358
+Digimon Name: Chaos Gallantmon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Gladiator
+- Poison Barrier
+
+--------------------------------------------------
+
+Digimon No.: 359
+Digimon Name: MetalSeadramon
+Type: Balance
+
+Species: Aquan
+Elemental Alignment: Steel
+Elemental Weakness: Fire
+
+Dwelling: Macro Sea
+
+Traits:
+- Heroic Power
+- Ether Ring
+- Fog Coat
+- Sniper 4
+
+--------------------------------------------------
+
+Digimon No.: 360
+Digimon Name: Valkyrimon
+Type: Speed
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- Sylph Air
+- Evasion Dance
+- Lucky Medal 4
+
+--------------------------------------------------
+
+Digimon No.: 361
+Digimon Name: Justimon
+Type: Balance
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Heroic Move
+- Infallible Will 4
+- Evasion 4
+
+--------------------------------------------------
+
+Digimon No.: 362
+Digimon Name: Vikemon
+Type: Technical
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Fire
+
+Dwelling: Access Glacier
+
+Traits:
+- Heroic Power
+- Heroic Heart
+- Fog Coat
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 363
+Digimon Name: BlackWarGreymon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Assassin Sense
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 364
+Digimon Name: SkullMammothmon
+Type: Tank
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Water
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Gaia Brave
+- Sleep Barrier
+
+--------------------------------------------------
+
+Digimon No.: 365
+Digimon Name: GrandisKuwagamon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Thunder Tattoo
+- Assassin Sense
+- Stun Barrier
+
+--------------------------------------------------
+
+Digimon No.: 366
+Digimon Name: Pharaohmon
+Type: Technical
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Wind
+
+Dwelling: Thriller Ruins
+
+Traits:
+- All Element
+- God's Eye
+- Miser
+- Death Barrier
+
+--------------------------------------------------
+
+Digimon No.: 367
+Digimon Name: Susanoomon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Gladiator
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 368
+Digimon Name: Alphamon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Move
+- Death Evasion 4
+- God of Luck
+
+--------------------------------------------------
+
+Digimon No.: 369
+Digimon Name: Magnadramon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Angel's Glory
+- God's Eye
+- Evasion Dance
+- Healing Aura
+
+--------------------------------------------------
+
+Digimon No.: 370
+Digimon Name: Millenniummon
+Type: Attacker
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Critical 4
+- EX Damage 4
+
+--------------------------------------------------
+
+Digimon No.: 371
+Digimon Name: MoonMillenniummon
+Type: MPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Guard
+- Veil of Darkness
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 372
+Digimon Name: Megidramon
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Flame Aura
+- Critical 4
+- EX Damage 4
+
+--------------------------------------------------
+
+Digimon No.: 373
+Digimon Name: Sleipmon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- All Element
+- Assassin Sense
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 374
+Digimon Name: ShineGreymon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Angel's Glory
+- Flame Aura
+- EX Damage 4
+
+--------------------------------------------------
+
+Digimon No.: 375
+Digimon Name: MirageGaogamon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- Sniper 4
+- Evasion 4
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 376
+Digimon Name: JumboGamemon
+Type: Attacker
+
+Species: Aquan
+Elemental Alignment: Water
+Elemental Weakness: Thunder
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Power
+- Ether Ring
+- Sniper 4
+- EX Damage 4
+
+--------------------------------------------------
+
+Digimon No.: 377
+Digimon Name: Ravemon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- Sylph Air
+- Evasion 4
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 378
+Digimon Name: QueenChessmon
+Type: Attacker
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Water
+
+Dwelling: Not AvailableTrans Field
+Traits:
+- Heroic Power
+- Heroic Heart
+- God's Eye
+- Critical 4
+
+--------------------------------------------------
+
+Digimon No.: 379
+Digimon Name: KingChessmon
+Type: Speed
+
+Species: Machine
+Elemental Alignment: Steel
+Elemental Weakness: Dark
+
+Dwelling: Trans Field
+
+Traits:
+- Ailment Resistance
+- Evasion 4
+- Retreat
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 380
+Digimon Name: Chronomon Holy Mode
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- All Element
+- God's Eye
+- Economizer
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 381
+Digimon Name: Lilithmon
+Type: MPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Heart
+- Evasion Dance
+- Assassin Sense
+- Confuse Barrier
+
+--------------------------------------------------
+
+Digimon No.: 382
+Digimon Name: Varodurumon
+Type: Balance
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Thunder
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- Angel's Glory
+- Sylph Air
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 383
+Digimon Name: Apollomon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy 
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Heart
+- Flame Aura
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 384
+Digimon Name: Dianamon
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- Veil of Darkness
+- Fog Coat
+- Evasion Dance
+
+--------------------------------------------------
+
+Digimon No.: 385
+Digimon Name: Shine Greymon Burst Mode
+Type: Attacker
+
+Species: Dragon
+Elemental Alignment: Holy
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Angel's Glory
+- Flame Aura
+- Gladiator
+
+--------------------------------------------------
+
+Digimon No.: 386
+Digimon Name: Shine Greymon Ruin Mode
+Type: MPType
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- Resist Poison 4
+- Stun Barrier
+
+--------------------------------------------------
+
+Digimon No.: 387
+Digimon Name: MirageGaogamon Burst Mode
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- God's Eye
+- Evasion Dance
+- Economizer
+
+--------------------------------------------------
+
+Digimon No.: 388
+Digimon Name: Ravemon Burst Mode
+Type: Attacker
+
+Species: Bird
+Elemental Alignment: Wind
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- Sylph Air
+- Evasion Dance
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 389
+Digimon Name: Lotusmon
+Type: Attacker
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Earth
+
+Dwelling: Trans Field
+
+Traits:
+- Heroic Move
+- Veil of Darkness
+- Thunder Tattoo
+- God's Eye
+
+--------------------------------------------------
+
+Digimon No.: 390
+Digimon Name: DotShineGreymon
+Type: Balance
+
+Species: Dragon
+Elemental Alignment: Fire
+Elemental Weakness: Earth
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- All Element
+- Economizer
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 391
+Digimon Name: DotMirageGaogamon
+Type: Balance
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Move
+- All Element
+- Economizer
+- Status Barrier
+
+--------------------------------------------------
+
+Digimon No.: 392
+Digimon Name: Beelzemon Blast Mode
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Veil of Darkness
+- God's Eye
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 393
+Digimon Name: Rosemon Burst Mode
+Type: Balance
+
+Species: InsectPlant
+Elemental Alignment: Thunder
+Elemental Weakness: Wind
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Evasion Dance
+- God of Luck
+- Skill Master
+
+--------------------------------------------------
+
+Digimon No.: 394
+Digimon Name: Argomon Mega
+Type: Balance
+
+Species: Dark
+Elemental Alignment: Dark
+Elemental Weakness: Holy
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Veil of Darkness
+- Gladiator
+- Sleep Barrier
+
+--------------------------------------------------
+
+Digimon No.: 395
+Digimon Name: Minervamon
+Type: Attacker
+
+Species: Beast
+Elemental Alignment: Earth
+Elemental Weakness: Fire
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Power
+- Heroic Move
+- Gaia Brave
+- Evasion Dance
+
+--------------------------------------------------
+
+Digimon No.: 396
+Digimon Name: Duftmon
+Type: Speed
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Dark
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Heroic Move
+- Ailment Resistance
+- Assassin Sense
+
+--------------------------------------------------
+
+Digimon No.: 397
+Digimon Name: Chaosmon
+Type: Balance
+
+Species: Holy
+Elemental Alignment: Holy
+Elemental Weakness: Water
+
+Dwelling: Not Available
+
+Traits:
+- Heroic Heart
+- Heroic Move
+- Assassin Sense
+- Gladiator
+
+--------------------------------------------------

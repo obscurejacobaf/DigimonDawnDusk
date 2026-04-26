@@ -28,5 +28,7 @@
 		public virtual List<Digimon> Digimon { get; set; } = [];
 
 		public override string ToString() => Name;
+		public override bool Equals(object? obj) => obj is Move move && MoveId == move.MoveId;
+		public override int GetHashCode() => HashCode.Combine(MoveId);
 	}
 }

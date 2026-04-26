@@ -10,13 +10,150 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 		context.Database.EnsureDeleted();
 		context.Database.EnsureCreated();
 
+		InitTraits(context);
+		InitDigimon(context);
+		InitEvolution(context);
+		InitMoves(context);
+	}
+
+	private static void InitTraits(DigimonDbContext context)
+	{
+		using var stream = new FileStream(@"C:\Users\theja\source\repos\DigimonWorldDD\DigimonDawnDusk\Data\Traits.txt", FileMode.Open);
+		using var reader = new StreamReader(stream);
+
+		short tier = 1;
+		var traits = new List<Trait>();
+
+		while (true)
+		{
+			var line = reader.ReadLine();
+			if (line == null)
+				break;
+
+			if (line == string.Empty)
+			{
+				tier = 1;
+				continue;
+			}
+
+			if (line.StartsWith('τ'))
+			{
+				tier = short.Parse(line[1..]);
+				continue;
+			}
+
+			var parts = line.Split(" - ");
+			traits.Add(new()
+			{
+				Name = parts[0],
+				Description = parts[1],
+				Tier = tier
+			});
+
+			tier++;
+		}
+
+		context.Traits.AddRange(traits);
+		context.SaveChanges();
+	}
+
+	private static void InitDigimon(DigimonDbContext context)
+	{
+		using var stream = new FileStream(@"C:\Users\theja\source\repos\DigimonWorldDD\DigimonDawnDusk\Data\Digimon.txt", FileMode.Open);
+		using var reader = new StreamReader(stream);
+
+		var traits = context.Traits.ToDictionary(x => x.Name, StringComparer.OrdinalIgnoreCase);
+		var digimon = new Digimon();
+		var digimonList = new List<Digimon>();
+
+		while (true)
+		{
+			var line = reader.ReadLine();
+			if (line == null)
+				break;
+
+			if (line == string.Empty || line.StartsWith("Digimon No.:"))
+				continue;
+
+			if (line.Contains("------------------"))
+			{
+				digimonList.Add(digimon);
+				digimon = new();
+				continue;
+			}
+
+			if (line.StartsWith("Digimon Name: "))
+			{
+				digimon.Name = line[14..];
+				continue;
+			}
+
+			if (line.StartsWith("Type: "))
+			{
+				digimon.Type = Enum.Parse<TypeEnum>(line[6..]);
+				continue;
+			}
+
+			if (line.StartsWith("Species: "))
+			{
+				digimon.Species = Enum.Parse<SpeciesEnum>(line[9..]);
+				continue;
+			}
+
+			if (line.StartsWith("Elemental Alignment: "))
+			{
+				digimon.Alignment = Enum.Parse<AttributeEnum>(line[21..]);
+				continue;
+			}
+
+			if (line.StartsWith("Elemental Weakness: "))
+			{
+				digimon.Weakness = Enum.Parse<AttributeEnum>(line[20..]);
+				continue;
+			}
+
+			if (line.StartsWith("Dwelling: "))
+			{
+				var d = line[10..];
+				digimon.Dwelling = d == "Not Available" ? null : d;
+				continue;
+			}
+
+			if (line.StartsWith("Traits:"))
+			{
+				while (true)
+				{
+					line = reader.ReadLine();
+					if (line == null || !line.StartsWith("- "))
+						break;
+
+					digimon.Traits.Add(traits[line[2..]]);
+				}
+
+				continue;
+			}
+
+			throw new Exception($"Invalid line {line}");
+		}
+
+		context.Digimon.AddRange(digimonList);
+		context.SaveChanges();
+	}
+
+	private static void InitEvolution(DigimonDbContext context)
+	{
+
+	}
+
+	private static void InitMoves(DigimonDbContext context)
+	{
 		using var stream = new FileStream(@"C:\Users\theja\source\repos\DigimonWorldDD\DigimonDawnDusk\Data\Moves.txt", FileMode.Open);
 		using var reader = new StreamReader(stream);
 
 		var workingAttribute = AttributeEnum.Holy;
 		var workingAttackTimes = 0;
 
-		var digimon = new Dictionary<string, Digimon>();
+		var digimon = context.Digimon.ToDictionary(x => x.Name);
 		var moves = new List<Move>();
 		var move = new Move();
 
@@ -76,13 +213,7 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 				var gainedBy = line[11..].Split(", ");
 				foreach (var mon in gainedBy)
 				{
-					if (!digimon.TryGetValue(mon, out var existingMon))
-					{
-						existingMon = new Digimon() { Name = mon };
-						digimon.Add(mon, existingMon);
-					}
-
-					move.Digimon.Add(existingMon);
+					move.Digimon.Add(digimon[mon]);
 				}
 
 				// Need to fix a single edge case where the title is also the name of an element.

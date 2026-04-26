@@ -1,0 +1,172 @@
+Powerful 1 - Attack +5
+Powerful 2 - Attack +10
+Powerful 3 - Attack +15
+Powerful 4 - Attack +20
+Heroic Power - Attack +30
+
+Protect 1 - Defense +5
+Protect 2 - Defense +10
+Protect 3 - Defense +15
+Protect 4 - Defense +20
+Heroic Guard - Defense +30
+
+Psychic 1 - Spirit +5
+Psychic 2 - Spirit +10
+Psychic 3 - Spirit +15
+Psychic 4 - Spirit +20
+Heroic Heart - Spirit +30
+
+Speed 1 - Speed +5
+Speed 2 - Speed +10
+Speed 3 - Speed +15
+Speed 4 - Speed +20
+Heroic Move - Speed +30
+
+Angel Halo 1 - Increases Digimon's defense against Holy-based attacks a little
+Angel Halo 2 - Increases Digimon's defense against Holy-based attacks
+Angel Halo 3 - Fairly increases Digimon's defense against Holy-based attacks
+Angel Halo 4 - Greatly increases Digimon's defense against Holy-based attacks
+Angel's Glory - Tremendously increases Digimon's defense against Holy-based attacks
+
+Dark Whispers 1 - Increases Digimon's defense against Darkness-based attacks a little
+Dark Whispers 2 - Increases Digimon's defense against Darkness-based attacks
+Dark Whispers 3 - Fairly increases Digimon's defense against Darkness-based attacks
+Dark Whispers 4 - Greatly increases Digimon's defense against Darkness-based attacks
+Veil of Darkness - Tremendously increases Digimon's defense against Darkness- based attacks
+
+Fire Aura 1 - Increases Digimon's defense against Fire-based attacks a little
+Fire Aura 2 - Increases Digimon's defense against Fire-based attacks
+Fire Aura 3 - Fairly increases Digimon's defense against Fire-based attacks
+Fire Aura 4 - Greatly increases Digimon's defense against Fire-based attacks
+Flame Aura - Tremendously increases Digimon's defense against Fire-based attacks
+
+Heart of the Earth 1 - Increases Digimon's defense against Earth-based attacks a little
+Heart of the Earth 2 - Increases Digimon's defense against Earth-based attacks
+Heart of the Earth 3 - Fairly increases Digimon's defense against Earth-based attacks
+Heart of the Earth 4 - Greatly increases Digimon's defense against Earth-based attacks
+Gaia Brave - Tremendously increases Digimon's defense against Earth-based attacks
+
+Sylph Protection 1 - Increases Digimon's defense against Wind-based attacks a little
+Sylph Protection 2 - Increases Digimon's defense against Wind-based attacks
+Sylph Protection 3 - Fairly increases Digimon's defense against Wind-based attacks
+Sylph Protection 4 - Greatly increases Digimon's defense against Wind-based attacks
+Sylph Air - Tremendously increases Digimon's defense against Wind-based attacks
+
+Thunder Sign 1 - Increases Digimon's defense against Electricity-based attacks a little
+Thunder Sign 2 - Increases Digimon's defense against Electricity-based attacks
+Thunder Sign 3 - Fairly increases Digimon's defense against Electricity-based attacks
+Thunder Sign 4 - Greatly increases Digimon's defense against Electricity-based attacks
+Thunder Tattoo - Tremendously increases Digimon's defense against Electricity- based attacks
+
+Fog Mantle 1 - Increases Digimon's defense against Water-based attacks a little
+Fog Mantle 2 - Increases Digimon's defense against Water-based attacks
+Fog Mantle 3 - Fairly increases Digimon's defense against Water-based attacks
+Fog Mantle 4 - Greatly increases Digimon's defense against Water-based attacks
+Fog Coat - Tremendously increases Digimon's defense against Water-based attacks
+
+Ether Eddy 1 - Increases Digimon's defense against Metal-based attacks a little
+Ether Eddy 2 - Increases Digimon's defense against Metal-based attacks
+Ether Eddy 3 - Fairly increases Digimon's defense against Metal-based attacks
+Ether Eddy 4 - Greatly increases Digimon's defense against Metal-based attacks
+Ether Ring - Tremendously increases Digimon's defense against Metal-based attacks
+
+τ6
+All Element - Greatly increases Digimon's Defense against all attacks
+
+Resist Poison 1 - Increases Digimon's resistance to Poison a little
+Resist Poison 2 - Increases Digimon's resistance to Poison
+Resist Poison 3 - Fairly increases Digimon's resistance to Poison
+Resist Poison 4 - Greatly increases Digimon's resistance to Poison
+Poison Barrier - Cancels out Poison Status disorder
+
+Resist Sleep 1 - Increases Digimon's resistance to Sleep a little
+Resist Sleep 2 - Increases Digimon's resistance to Sleep
+Resist Sleep 3 - Fairly increases Digimon's resistance to Sleep
+Resist Sleep 4 - Greatly increases Digimon's resistance to Sleep
+Sleep Barrier - Cancels out Sleep Status disorder
+
+Resist Paralysis 1 - Increases Digimon's resistance to Paralysis a little
+Resist Paralysis 2 - Increases Digimon's resistance to Paralysis
+Resist Paralysis 3 - Fairly increases Digimon's resistance to Paralysis
+Resist Paralysis 4 - Greatly increases Digimon's resistance to Paralysis
+Paralyze Barrier - Cancels out Paralysis Status disorder
+
+Infallible Will 1 - Increases Digimon's resistance to Confusion a little
+Infallible Will 2 - Increases Digimon's resistance to Confusion
+Infallible Will 3 - Fairly increases Digimon's resistance to Confusion
+Infallible Will 4 - Greatly increases Digimon's resistance to Confusion
+Confuse Barrier - Cancels out Confusion Status disorder
+
+Death Evasion 1 - Increases Digimon's resistance to Death a little
+Death Evasion 2 - Increases Digimon's resistance to Death
+Death Evasion 3 - Fairly increases Digimon's resistance to Death
+Death Evasion 4 - Greatly increases Digimon's resistance to Death
+Death Barrier - Cancels out Death Status disorder
+
+τ6
+Stun Barrier - Digimon cannot be Stunned
+
+τ5
+Ailment Resistance - Tremendously increases Digimon's resistance to Confusion, Death, Poison, Paralysis & Sleep
+Status Barrier - Cancels out all Status disorders
+
+τ4
+Economizer S - Reduces MP needed for techniques
+Economizer - Greatly reduces MP needed for techniques
+
+τ4
+Skill Adept - Increases the duration of a technique's effects
+Skill Master - Greatly increases the duration of a technique's effects
+
+τ4
+Healing Touch - Increases the effects of recovery moves
+Healing Aura - Greatly increases the efects of recovery moves
+
+EX Damage 1 - Increases damage dealt in battle a little
+EX Damage 2 - Increases damage dealt in battle
+EX Damage 3 - Increases damage dealt in battle by a fair amount
+EX Damage 4 - Greatly increases damage dealt in battle
+Gladiator - Tremendously increases damage dealt in battle
+
+Sniper 1 - Increases Digimon's accuracy rating a little
+Sniper 2 - Increases Digimon's accuracy rating
+Sniper 3 - Increases Digimon's accuracy rating by a fair amount
+Sniper 4 - Greatly increases Digimon's accuracy rating
+God's Eye - Tremendously increases Digimon's accuracy rating
+
+Critical 1 - Increases Digimon's critical hit ratio a little
+Critical 2 - Increases Digimon's critical hit ratio
+Critical 3 - Increases Digimon's critical hit ratio by a fair amount
+Critical 4 - Greatly increases Digimon's critical hit ratio
+Assassin Sense - Tremendously increases Digimon's critical hit ratio
+
+Evasion 1 - Increases Digimon's chances of dodging enemy attack a little
+Evasion 2 - Increases Digimon's chances of dodging enemy attack
+Evasion 3 - Increases Digimon's chances of dodging enemy attack by a fair amount
+Evasion 4 - Greatly increases Digimon's chances of dodging enemy attack
+Evasion Dance - Tremendously increases Digimon's chances of dodging enemy attack
+
+Run Away 1 - Increases the chances of retreating from battle a little
+Run Away 2 - Increases the chances of retreating from battle
+Run Away 3 - Increases the chances of retreating from battle by a fair amount
+Run Away 4 - Greatly increases the chances of retreating from battle
+Retreat - Tremendously increases the chances of retreating from battle
+
+Lucky Medal 1 - Increases EXP earned in battle a little
+Lucky Medal 2 - Increases EXP earned in battle
+Lucky Medal 3 - Increases EXP earned in battle by a fair amount
+Lucky Medal 4 - Greatly increases EXP earned in battle
+God of Luck - Tremendously increases EXP earned in battle (EXP +12%)
+D Enthelecheia - Incredibly increases EXP earned in battle (EXP +30%)
+
+Thrifty 1 - Increases the Bits earned a little
+Thrifty 2 - Increases the Bits earned
+Thrifty 3 - Increases the Bits earned by a fair amount
+Thrifty 4 - Greatly increases the Bits earned
+Miser - Tremendously increases the Bits earned
+
+Collector 1 - Increases the drop rate of wild Digimon a little
+Collector 2 - Increases the drop rate of wild Digimon
+Collector 3 - Increases the drop rate of wild Digimon by a fair amount
+Collector 4 - Greatly increases the drop rate of wild Digimon
+High Collector - Tremendously increases the drop rate of wild Digimon
