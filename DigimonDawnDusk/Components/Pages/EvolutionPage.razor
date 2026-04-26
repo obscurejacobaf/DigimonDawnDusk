@@ -1,0 +1,56 @@
+﻿@page "/Evolution"
+
+<div class="row mt-2">
+	<div class="col-3">
+		<InputSelect @bind-Value="FromId" class="form-select">
+			@foreach(var mon in AllDigimon)
+			{
+				<option value="@mon.DigimonId">@mon.Name</option>
+			}
+		</InputSelect>
+	</div>
+</div>
+<div class="row mt-2">
+	<div class="col-3">
+		<InputSelect @bind-Value="ToId" class="form-select">
+			@foreach (var mon in AllDigimon)
+			{
+				<option value="@mon.DigimonId">@mon.Name</option>
+			}
+		</InputSelect>
+	</div>
+</div>
+<div class="row mt-2">
+	<div class="col-3">
+		<button class="btn btn-primary" @onclick="DoSomething">Get Evolution Path</button>
+	</div>
+</div>
+
+@code {
+	[Inject]
+	public required IDbContextFactory<DigimonDbContext> Factory { get; init; }
+
+	private int FromId = default!;
+	private int ToId = default!;
+
+	private List<Digimon> AllDigimon = default!;
+
+	protected override async Task OnInitializedAsync()
+	{
+		using var context = await Factory.CreateDbContextAsync();
+		AllDigimon = await context.Digimon
+			.Include(x => x.FromEvolutions)
+			.Include(x => x.ToEvolutions)
+			.OrderBy(x => x.Name)
+			.AsNoTracking()
+			.ToListAsync();
+
+		FromId = AllDigimon.First().DigimonId;
+		ToId = AllDigimon.First().DigimonId;
+	}
+
+	private void DoSomething()
+	{
+		
+	}
+}
