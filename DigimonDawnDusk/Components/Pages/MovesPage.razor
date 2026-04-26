@@ -98,10 +98,18 @@
 
 	private IQueryable<Move> ApplyFilter()
 	{
-		var moves = AllMoves.AsQueryable();
-			//.Where(x => Attributes.Contains(x.Attribute) &&
-			//AttackTimes.Contains(x.AttackTimes)// &&
-			/*etc*///);
+		var moves = AllMoves.AsQueryable()
+			.Where(x => Attributes[x.Attribute] &&
+			AttackTimes[x.AttackTimes] &&
+			Names[x.Name] &&
+			Effects[x.Effect] &&
+			SEffects[x.SingleTargetEffect] &&
+			Ranges[x.Range] &&
+			AOEEffects[x.AOEEffect] &&
+			Fixes[x.Fixed] &&
+			MP[x.MpCost] &&
+			LevelGained[x.LevelGained] &&
+			x.Digimon.Select(x => x.Name).Any(x => GainedBy[x]));
 
 		return moves;
 	}
