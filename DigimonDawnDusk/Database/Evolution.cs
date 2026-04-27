@@ -14,4 +14,5 @@ public class Evolution
 		EqualityComparer<Digimon>.Default.Equals(To, evolution.To);
 
 	public override int GetHashCode() => HashCode.Combine(From, To);
+	public override string? ToString() => $"{From} -> {To}";
 }

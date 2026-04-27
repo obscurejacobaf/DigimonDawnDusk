@@ -2,7 +2,7 @@
 
 <div class="row mt-2">
 	<div class="col-3">
-		<InputSelect @bind-Value="FromId" class="form-select">
+		<InputSelect @bind-Value="TargetDigimonId" class="form-select">
 			@foreach(var mon in AllDigimon)
 			{
 				<option value="@mon.DigimonId">@mon.Name</option>
@@ -12,17 +12,63 @@
 </div>
 <div class="row mt-2">
 	<div class="col-3">
-		<InputSelect @bind-Value="ToId" class="form-select">
-			@foreach (var mon in AllDigimon)
+		<InputSelect @bind-Value="MoveOneId" class="form-select">
+			@foreach (var move in AllMoves)
 			{
-				<option value="@mon.DigimonId">@mon.Name</option>
+				<option value="@move.Key">@move.Value.Name</option>
 			}
 		</InputSelect>
 	</div>
 </div>
 <div class="row mt-2">
 	<div class="col-3">
-		<button class="btn btn-primary" @onclick="DoSomething">Get Evolution Path</button>
+		<InputSelect @bind-Value="MoveTwoId" class="form-select">
+			@foreach (var move in AllMoves)
+			{
+				<option value="@move.Key">@move.Value.Name</option>
+			}
+		</InputSelect>
+	</div>
+</div>
+<div class="row mt-2">
+	<div class="col-3">
+		<InputSelect @bind-Value="MoveThreeId" class="form-select">
+			@foreach (var move in AllMoves)
+			{
+				<option value="@move.Key">@move.Value.Name</option>
+			}
+		</InputSelect>
+	</div>
+</div>
+<div class="row mt-2">
+	<div class="col-3">
+		<InputSelect @bind-Value="MoveFourId" class="form-select">
+			@foreach (var move in AllMoves)
+			{
+				<option value="@move.Key">@move.Value.Name</option>
+			}
+		</InputSelect>
+	</div>
+</div>
+<div class="row mt-2">
+	<div class="col-3">
+		<button class="btn btn-primary" @onclick="() => CalculateEvolution()">Get Evolution Path</button>
+	</div>
+</div>
+<div class="row mt-2">
+	<div class="col">
+		@if (ShortestPath.Count == 0)
+		{
+			<div>InvalidPath</div>
+		}
+		else
+		{
+			@foreach (var path in ShortestPath)
+			{
+				<div>@path</div>
+				<br />
+			}
+		}
 	</div>
 </div>
 
@@ -30,27 +76,152 @@
 	[Inject]
 	public required IDbContextFactory<DigimonDbContext> Factory { get; init; }
 
-	private int FromId = default!;
-	private int ToId = default!;
+	private int TargetDigimonId = default!;
+	private int MoveOneId = default!;
+	private int MoveTwoId = default!;
+	private int MoveThreeId = default!;
+	private int MoveFourId = default!;
 
 	private List<Digimon> AllDigimon = default!;
+	private Dictionary<int, Move> AllMoves = default!;
+	private List<EvolutionPath> ShortestPath = [];
 
 	protected override async Task OnInitializedAsync()
 	{
 		using var context = await Factory.CreateDbContextAsync();
 		AllDigimon = await context.Digimon
-			.Include(x => x.FromEvolutions)
-			.Include(x => x.ToEvolutions)
 			.OrderBy(x => x.Name)
-			.AsNoTracking()
 			.ToListAsync();
 
-		FromId = AllDigimon.First().DigimonId;
-		ToId = AllDigimon.First().DigimonId;
+		AllMoves = await context.Moves
+			.Include(x => x.Digimon)
+				.ThenInclude(x => x.FromEvolutions)
+					.ThenInclude(x => x.To)
+			.Include(x => x.Digimon)
+				.ThenInclude(x => x.ToEvolutions)
+					.ThenInclude(x => x.From)
+			.Where(x => x.LevelGained != 0)
+			.OrderBy(x => x.Name)
+			.ToDictionaryAsync(x => x.MoveId);
+
+		TargetDigimonId = AllDigimon.First().DigimonId;
+		MoveOneId = AllMoves.First().Key;
+		MoveTwoId = MoveOneId;
+		MoveThreeId = MoveOneId;
+		MoveFourId = MoveOneId;
 	}
 
-	private void DoSomething()
+	private void CalculateEvolution()
 	{
-		
+		ShortestPath.Clear();
+
+		var target = AllDigimon.First(x => x.DigimonId == TargetDigimonId);
+		var moveOne = AllMoves[MoveOneId];
+		var moveTwo = AllMoves[MoveTwoId];
+		var moveThree = AllMoves[MoveThreeId];
+		var moveFour = AllMoves[MoveFourId];
+
+		var goalMoves = new Queue<Move>();
+
+		if (!moveOne.Digimon.Contains(target))
+			goalMoves.Enqueue(moveOne);
+		else
+			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveOne });
+		if (!moveTwo.Digimon.Contains(target))
+			goalMoves.Enqueue(moveTwo);
+		else
+			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveTwo });
+		if (!moveThree.Digimon.Contains(target))
+			goalMoves.Enqueue(moveThree);
+		else
+			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveThree });
+		if (!moveFour.Digimon.Contains(target))
+			goalMoves.Enqueue(moveFour);
+		else
+			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveFour });
+
+		if (goalMoves.Count == 0)
+			return;
+
+		var targetMove = goalMoves.Dequeue();
+
+		var queue = new Queue<List<Digimon>>();
+		var visited = new HashSet<Digimon>();
+
+		foreach (var mon in targetMove.Digimon)
+			queue.Enqueue(new List<Digimon> { mon });
+		visited.UnionWith(moveOne.Digimon);
+
+		var firstMove = targetMove;
+		bool needToTrackStart = true;
+
+		if (goalMoves.Count != 0)
+			targetMove = goalMoves.Dequeue();
+		else
+			targetMove = null;
+
+		while (queue.Count > 0)
+		{
+			var path = queue.Dequeue();
+			var current = path[^1];
+
+			if (targetMove == null && current.Equals(target))
+			{
+				if (needToTrackStart)
+				{
+					ShortestPath.Add(new EvolutionPath { Nodes = new List<Digimon> { path[0] }, MoveGained = firstMove });
+					needToTrackStart = false;
+				}
+
+				ShortestPath.Add(new EvolutionPath { Nodes = path });
+				return;
+			}
+
+			if (targetMove != null && current.Moves.Contains(targetMove))
+			{
+				if (needToTrackStart)
+				{
+					ShortestPath.Add(new EvolutionPath { Nodes = new List<Digimon> { path[0] }, MoveGained = firstMove });
+					needToTrackStart = false;
+				}
+
+				ShortestPath.Add(new EvolutionPath { Nodes = path, MoveGained = targetMove });
+				visited.Clear();
+				queue.Clear();
+
+				if (goalMoves.Count == 0)
+				{
+					visited.Add(current);
+					path = new List<Digimon> { current };
+					targetMove = null;
+				}
+				else
+				{
+					targetMove = goalMoves.Dequeue();
+					visited.Add(current);
+					path = new List<Digimon> { current };
+				}
+			}
+
+			// Get neighbors
+			var neighbors = current.ToEvolutions
+				.Select(e => e.From)
+				.ToList();
+
+			neighbors.AddRange(current.FromEvolutions.Select(e => e.To));
+
+			foreach (var neighbor in neighbors)
+			{
+				if (visited.Contains(neighbor))
+					continue;
+
+				visited.Add(neighbor);
+
+				var newPath = new List<Digimon>(path) { neighbor };
+				queue.Enqueue(newPath);
+			}
+		}
+
+		ShortestPath = [];
 	}
 }
