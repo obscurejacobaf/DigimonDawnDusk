@@ -57,13 +57,13 @@
 </div>
 <div class="row mt-2">
 	<div class="col">
-		@if (ShortestPath.Count == 0)
+		@if (ShortestPaths.Count == 0)
 		{
 			<div>InvalidPath</div>
 		}
 		else
 		{
-			@foreach (var path in ShortestPath)
+			@foreach (var path in ShortestPaths)
 			{
 				<div>@path</div>
 				<br />
@@ -84,7 +84,7 @@
 
 	private List<Digimon> AllDigimon = default!;
 	private Dictionary<int, Move> AllMoves = default!;
-	private List<EvolutionPath> ShortestPath = [];
+	private List<EvolutionPath> ShortestPaths = [];
 
 	protected override async Task OnInitializedAsync()
 	{
@@ -113,115 +113,153 @@
 
 	private void CalculateEvolution()
 	{
-		ShortestPath.Clear();
+		ShortestPaths.Clear();
 
 		var target = AllDigimon.First(x => x.DigimonId == TargetDigimonId);
-		var moveOne = AllMoves[MoveOneId];
-		var moveTwo = AllMoves[MoveTwoId];
-		var moveThree = AllMoves[MoveThreeId];
-		var moveFour = AllMoves[MoveFourId];
 
-		var goalMoves = new Queue<Move>();
+		var goalMoves = new HashSet<Move>
+		{
+			AllMoves[MoveOneId],
+			AllMoves[MoveTwoId],
+			AllMoves[MoveThreeId],
+			AllMoves[MoveFourId]
+		};
 
-		if (!moveOne.Digimon.Contains(target))
-			goalMoves.Enqueue(moveOne);
-		else
-			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveOne });
-		if (!moveTwo.Digimon.Contains(target))
-			goalMoves.Enqueue(moveTwo);
-		else
-			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveTwo });
-		if (!moveThree.Digimon.Contains(target))
-			goalMoves.Enqueue(moveThree);
-		else
-			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveThree });
-		if (!moveFour.Digimon.Contains(target))
-			goalMoves.Enqueue(moveFour);
-		else
-			ShortestPath.Add(new EvolutionPath { Nodes = [target], MoveGained = moveFour });
+		// No need to look for moves if our target mon learns them normally.
+		var targetMoves = goalMoves.Where(x => target.Moves.Contains(x));
+		ShortestPaths.Add(new() { Nodes = [target], MovesGained = targetMoves.ToList() });
+		goalMoves.RemoveWhere(x => target.Moves.Contains(x));
 
-		if (goalMoves.Count == 0)
+		// Group the mons by number of goal moves they have, then get the max number of moves
+		var monLookup = AllDigimon.ToLookup(x => x.Moves.Count(m => goalMoves.Contains(m)))
+			.MaxBy(x => x.Key);
+		if (monLookup == null)
 			return;
 
-		var targetMove = goalMoves.Dequeue();
+		// Our starting nodes are the mons with the most moves.
+		var startMons = monLookup.ToHashSet();
+		var trackStart = true;
 
+		while (goalMoves.Count != 0)
+		{
+			var result = FindPathToMove(startMons, goalMoves);
+
+			if (result == null)
+				return;
+
+			if (trackStart)
+			{
+				trackStart = false;
+				var startMoves = result.Nodes.First().Moves.Where(x => goalMoves.Contains(x)).ToHashSet();
+				ShortestPaths.Add(new()
+				{
+					Nodes = [result.Nodes.First()],
+					MovesGained = startMoves.ToList(),
+				});
+				goalMoves.RemoveWhere(x => startMoves.Contains(x));
+			}
+
+			ShortestPaths.Add(result);
+			goalMoves.RemoveWhere(x => result.Nodes.Last().Moves.Contains(x));
+
+			startMons = new() { result.Nodes.Last() };
+		}
+
+		var finalPath = FindPathToTarget([ShortestPaths.Last().Nodes.Last()], target);
+		if (finalPath != null)
+			ShortestPaths.Add(finalPath);
+	}
+
+	private EvolutionPath? FindPathToMove(HashSet<Digimon> startNodes, HashSet<Move> targetMoves)
+	{
+		var queue = new Queue<(List<Digimon> path, HashSet<Digimon> visited, HashSet<Move> ownedMoves)>();
+
+		foreach (var start in startNodes)
+		{
+			var owned = start.Moves
+				.Where(targetMoves.Contains)
+				.ToHashSet();
+
+			queue.Enqueue((new List<Digimon> { start }, new HashSet<Digimon>() { start }, owned));
+		}
+
+		while (queue.Count > 0)
+		{
+			var (path, visited, ownedMoves) = queue.Dequeue();
+			var current = path[^1];
+
+			var newMoves = current.Moves
+				.Where(m => targetMoves.Contains(m) && !ownedMoves.Contains(m))
+				.ToList();
+
+			if (newMoves.Count > 0)
+			{
+				return new EvolutionPath
+				{
+					Nodes = path,
+					MovesGained = newMoves
+				};
+			}
+			
+			var nextOwned = new HashSet<Move>(ownedMoves);
+
+			foreach (var m in current.Moves)
+			{
+				if (targetMoves.Contains(m))
+					nextOwned.Add(m);
+			}
+
+			foreach (var neighbor in GetNeighbors(current))
+			{
+				if (visited.Add(neighbor))
+				{
+					queue.Enqueue((new List<Digimon>(path) { neighbor }, visited, nextOwned));
+				}
+			}
+		}
+
+		return null;
+	}
+
+	private EvolutionPath? FindPathToTarget(List<Digimon> startNodes, Digimon target)
+	{
 		var queue = new Queue<List<Digimon>>();
 		var visited = new HashSet<Digimon>();
 
-		foreach (var mon in targetMove.Digimon)
-			queue.Enqueue(new List<Digimon> { mon });
-		visited.UnionWith(moveOne.Digimon);
-
-		var firstMove = targetMove;
-		bool needToTrackStart = true;
-
-		if (goalMoves.Count != 0)
-			targetMove = goalMoves.Dequeue();
-		else
-			targetMove = null;
+		foreach (var start in startNodes)
+		{
+			queue.Enqueue(new List<Digimon> { start });
+			visited.Add(start);
+		}
 
 		while (queue.Count > 0)
 		{
 			var path = queue.Dequeue();
 			var current = path[^1];
 
-			if (targetMove == null && current.Equals(target))
+			if (current.Equals(target))
 			{
-				if (needToTrackStart)
-				{
-					ShortestPath.Add(new EvolutionPath { Nodes = new List<Digimon> { path[0] }, MoveGained = firstMove });
-					needToTrackStart = false;
-				}
-
-				ShortestPath.Add(new EvolutionPath { Nodes = path });
-				return;
+				return new EvolutionPath { Nodes = path };
 			}
 
-			if (targetMove != null && current.Moves.Contains(targetMove))
+			foreach (var neighbor in GetNeighbors(current))
 			{
-				if (needToTrackStart)
+				if (visited.Add(neighbor))
 				{
-					ShortestPath.Add(new EvolutionPath { Nodes = new List<Digimon> { path[0] }, MoveGained = firstMove });
-					needToTrackStart = false;
+					queue.Enqueue(new List<Digimon>(path) { neighbor });
 				}
-
-				ShortestPath.Add(new EvolutionPath { Nodes = path, MoveGained = targetMove });
-				visited.Clear();
-				queue.Clear();
-
-				if (goalMoves.Count == 0)
-				{
-					visited.Add(current);
-					path = new List<Digimon> { current };
-					targetMove = null;
-				}
-				else
-				{
-					targetMove = goalMoves.Dequeue();
-					visited.Add(current);
-					path = new List<Digimon> { current };
-				}
-			}
-
-			// Get neighbors
-			var neighbors = current.ToEvolutions
-				.Select(e => e.From)
-				.ToList();
-
-			neighbors.AddRange(current.FromEvolutions.Select(e => e.To));
-
-			foreach (var neighbor in neighbors)
-			{
-				if (visited.Contains(neighbor))
-					continue;
-
-				visited.Add(neighbor);
-
-				var newPath = new List<Digimon>(path) { neighbor };
-				queue.Enqueue(newPath);
 			}
 		}
 
-		ShortestPath = [];
+		return null;
+	}
+
+	private IEnumerable<Digimon> GetNeighbors(Digimon d)
+	{
+		foreach (var e in d.ToEvolutions)
+			yield return e.From;
+
+		foreach (var e in d.FromEvolutions)
+			yield return e.To;
 	}
 }
