@@ -1,0 +1,24 @@
+﻿@typeparam T where T : IDescriptor
+
+<span>
+	@for (int i = 0; i < Values.Count; i++)
+	{
+		var item = Values[i];
+
+		<span class="me-1"
+			  data-bs-toggle="tooltip"
+			  title="@item.Descriptor"
+			  style="cursor: pointer;">
+			@item.Name
+		</span>
+
+		@if (i < Values.Count - 1)
+		{
+			<span>, </span>
+		}
+	}
+</span>
+
+@code {
+	[Parameter] public required List<T> Values { get; set; }
+}

@@ -1,14 +1,21 @@
 {
-	"version": "3.0",
-	"defaultProvider": "cdnjs",
-	"libraries": [
-		{
-			"library": "bootstrap@5.3.8",
-			"destination": "wwwroot/bootstrap/",
-			"files": [
-				"js/bootstrap.min.js",
-				"css/bootstrap.min.css"
-			]
-		}
-	]
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.3.8",
+      "destination": "wwwroot/bootstrap/",
+      "files": [
+        "js/bootstrap.min.js",
+        "css/bootstrap.min.css"
+      ]
+    },
+    {
+      "library": "popper.js@2.11.8",
+      "destination": "wwwroot/popper.js/",
+      "files": [
+        "umd/popper.min.js"
+      ]
+    }
+  ]
 }

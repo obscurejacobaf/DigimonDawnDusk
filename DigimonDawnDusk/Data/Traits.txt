@@ -103,7 +103,7 @@ Death Evasion 3 - Fairly increases Digimon's resistance to Death
 Death Evasion 4 - Greatly increases Digimon's resistance to Death
 Death Barrier - Cancels out Death Status disorder
 
-τ6
+τ5
 Stun Barrier - Digimon cannot be Stunned
 
 τ5
@@ -122,24 +122,28 @@ Skill Master - Greatly increases the duration of a technique's effects
 Healing Touch - Increases the effects of recovery moves
 Healing Aura - Greatly increases the efects of recovery moves
 
+τ2
 EX Damage 1 - Increases damage dealt in battle a little
 EX Damage 2 - Increases damage dealt in battle
 EX Damage 3 - Increases damage dealt in battle by a fair amount
 EX Damage 4 - Greatly increases damage dealt in battle
 Gladiator - Tremendously increases damage dealt in battle
 
+τ2
 Sniper 1 - Increases Digimon's accuracy rating a little
 Sniper 2 - Increases Digimon's accuracy rating
 Sniper 3 - Increases Digimon's accuracy rating by a fair amount
 Sniper 4 - Greatly increases Digimon's accuracy rating
 God's Eye - Tremendously increases Digimon's accuracy rating
 
+τ2
 Critical 1 - Increases Digimon's critical hit ratio a little
 Critical 2 - Increases Digimon's critical hit ratio
 Critical 3 - Increases Digimon's critical hit ratio by a fair amount
 Critical 4 - Greatly increases Digimon's critical hit ratio
 Assassin Sense - Tremendously increases Digimon's critical hit ratio
 
+τ2
 Evasion 1 - Increases Digimon's chances of dodging enemy attack a little
 Evasion 2 - Increases Digimon's chances of dodging enemy attack
 Evasion 3 - Increases Digimon's chances of dodging enemy attack by a fair amount

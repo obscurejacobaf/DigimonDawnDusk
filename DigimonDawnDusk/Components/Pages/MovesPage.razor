@@ -27,6 +27,8 @@
 			<ColumnFilter T="int" @bind-Value="SEffects" Placeholder="..." />
 		</ColumnOptions>
 	</PropertyColumn>
+	<PropertyColumn Property="m => m.Range" Sortable="true">
+	</PropertyColumn>
 	<PropertyColumn Property="m => m.AOEEffect" Title="AOE Effect" Sortable="true">
 		<ColumnOptions>
 			<ColumnFilter T="int" @bind-Value="AOEEffects" Placeholder="..." />

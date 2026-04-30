@@ -32,21 +32,30 @@
 			<ColumnFilter T="string" @bind-Value="Dwelling" Placeholder="..." />
 		</ColumnOptions>
 	</PropertyColumn>
-	<PropertyColumn Property="x => x.TraitNames" Sortable="true">
+	<TemplateColumn Title="Traits" SortBy="SortByTrait">
+		<ChildContent>
+			<DescriptorTemplate Values="context.Traits" />
+		</ChildContent>
 		<ColumnOptions>
-			<ColumnFilter T="string" @bind-Value="Traits" Placeholder="..." />
+			<ColumnFilter T="Trait" @bind-Value="Traits" Placeholder="..." />
 		</ColumnOptions>
-	</PropertyColumn>
-	<PropertyColumn Property="x => x.MoveNames" Sortable="true">
+	</TemplateColumn>
+	<TemplateColumn SortBy="SortByMove" Title="Moves">
+		<ChildContent>
+			<DescriptorTemplate Values="context.Moves" />
+		</ChildContent>
 		<ColumnOptions>
-			<ColumnFilter T="string" @bind-Value="Moves" Placeholder="..." />
+			<ColumnFilter T="Move" @bind-Value="Moves" Placeholder="..." />
 		</ColumnOptions>
-	</PropertyColumn>
+	</TemplateColumn>
 </QuickGrid>
 
 @code {
 	[Inject]
 	public required IDbContextFactory<DigimonDbContext> Factory { get; init; }
+	[Inject]
+	public required IJSRuntime JS { get; init; }
+
 	private List<Digimon> AllDigimon = default!;
 	private IQueryable<Digimon> Digimon => ApplyFilters();
 
@@ -56,8 +65,13 @@
 	private MultiSelectItems<AttributeEnum> Resistances = default!;
 	private MultiSelectItems<AttributeEnum> Weaknesses = default!;
 	private MultiSelectItems<string> Dwelling = default!;
-	private MultiSelectItems<string> Traits = default!;
-	private MultiSelectItems<string> Moves = default!;
+	private MultiSelectItems<Trait> Traits = default!;
+	private MultiSelectItems<Move> Moves = default!;
+
+	private GridSort<Digimon> SortByTrait = GridSort<Digimon>
+		.ByAscending(x => x.TraitNames);
+	private GridSort<Digimon> SortByMove = GridSort<Digimon>
+		.ByAscending(x => x.MoveNames);
 
 	protected override async Task OnInitializedAsync()
 	{
@@ -71,8 +85,8 @@
 		Resistances = new(Enum.GetValues<AttributeEnum>());
 		Weaknesses = new(Enum.GetValues<AttributeEnum>());
 		Dwelling = new(AllDigimon.Select(x => x.Dwelling));
-		Traits = new(await context.Traits.Select(x => x.Name).ToListAsync(), false);
-		Moves = new(await context.Moves.Select(x => x.Name).ToListAsync());
+		Traits = new(await context.Traits.ToListAsync(), false);
+		Moves = new(await context.Moves.ToListAsync());
 	}
 
 	private IQueryable<Digimon> ApplyFilters()
@@ -84,12 +98,12 @@
 			Resistances[x.Resistance] &&
 			Weaknesses[x.Weakness] &&
 			Dwelling[x.Dwelling] &&
-			x.Moves.Select(x => x.Name).Any(x => Moves[x]));
+			x.Moves.Any(x => Moves[x]));
 
-		var selectedTraits = Traits.Where(x => x.Value).ToDictionary();
+		var selectedTraits = Traits.Where(x => x.Value).Select(x => x.Key).ToList();
 		if (selectedTraits.Count != 0)
 		{
-			digimon = digimon.Where(x => selectedTraits.All(st => x.Traits.Any(dt => st.Key == dt.Name)));
+			digimon = digimon.Where(x => selectedTraits.All(st => x.Traits.Any(dt => st.Equals(dt))));
 		}
 
 		return digimon;

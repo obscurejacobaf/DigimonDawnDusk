@@ -1,6 +1,6 @@
 ﻿namespace DigimonDawnDusk.Database
 {
-	public partial class Move
+	public partial class Move : IDescriptor, IComparable<Move>
 	{
 		public int MoveId { get; set; }
 
@@ -27,8 +27,11 @@
 
 		public virtual List<Digimon> Digimon { get; set; } = [];
 
+		public string Descriptor => $"{AttackTimes}x{Effect} {Range}: {Description}";
+
 		public override string ToString() => Name;
 		public override bool Equals(object? obj) => obj is Move move && MoveId == move.MoveId;
 		public override int GetHashCode() => HashCode.Combine(MoveId);
+		public int CompareTo(Move? other) => Name.CompareTo(other?.Name);
 	}
 }
