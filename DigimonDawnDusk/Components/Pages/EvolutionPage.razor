@@ -65,32 +65,25 @@
 		{
 			@foreach (var path in ShortestPaths)
 			{
-				<div>
-					@if (path.MovesGained.Count > 0)
-					{
-						<span>@(string.Join(", ", path.MovesGained)):&nbsp;</span>
-					}
-					@{
-						int i = 0;
-					}
-					@foreach (var node in path.Nodes)
-					{
-						if (node.Evolution == null)
+				<table class="table">
+					<thead>
+						<tr>
+							<th>To</th>
+							<th>Requirements</th>
+							<th>Moves</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach(var row in path.Nodes)
 						{
-							<span>@node.Name</span>
+							<tr>
+								<td>@row.Name</td>
+								<td>@row.Descriptor</td>
+								<td>@(string.Join(", ", row.LearnedMoves))</td>
+							</tr>
 						}
-						else
-						{
-							<span title="@node.Descriptor">@node.Name</span>
-						}
-
-						i++;
-						if (i < path.Nodes.Count)
-						{
-							<span> —> </span>
-						}
-					}
-				</div>
+					</tbody>
+				</table>
 			}
 		}
 	</div>
@@ -149,15 +142,12 @@
 			AllMoves[MoveFourId]
 		};
 
-		// No need to look for moves if our target mon learns them normally.
+		// No need to look for moves if our target mon learns normally.
 		var targetMoves = goalMoves.Where(x => target.Moves.Contains(x)).ToList();
 		if (targetMoves.Count() > 0)
-		{
-			ShortestPaths.Add(new() { Nodes = [new(target)], MovesGained = targetMoves.ToList() });
 			goalMoves.RemoveWhere(x => target.Moves.Contains(x));
-		}
 
-		// Group the mons by number of goal moves they have, then get the max number of moves
+		// Group the mons by number of goal moves they have, then get the max number of moves.
 		var monLookup = AllDigimon.ToLookup(x => x.Moves.Count(m => goalMoves.Contains(m)))
 			.MaxBy(x => x.Key);
 		if (monLookup == null)
@@ -165,41 +155,18 @@
 
 		// Our starting nodes are the mons with the most moves.
 		var startMons = monLookup.ToHashSet();
-		var trackStart = true;
+		var shortestPath = FindShortestPath(startMons, goalMoves, target);
 
-		while (goalMoves.Count != 0)
+		if (shortestPath != null)
 		{
-			var result = FindPathToMove(startMons, goalMoves);
-
-			if (result == null)
-				return;
-
-			if (trackStart)
-			{
-				trackStart = false;
-				var startMoves = result.Nodes.First().Digimon.Moves.Where(x => goalMoves.Contains(x)).ToHashSet();
-				ShortestPaths.Add(new()
-				{
-					Nodes = [result.Nodes.First()],
-					MovesGained = startMoves.ToList(),
-				});
-				goalMoves.RemoveWhere(x => startMoves.Contains(x));
-			}
-
-			ShortestPaths.Add(result);
-			goalMoves.RemoveWhere(x => result.Nodes.Last().Digimon.Moves.Contains(x));
-
-			startMons = new() { result.Nodes.Last().Digimon };
+			ShortestPaths.Add(shortestPath);
 		}
-
-		var finalPath = FindPathToTarget([ShortestPaths.Last().Nodes.Last().Digimon], target);
-		if (finalPath != null)
-			ShortestPaths.Add(finalPath);
 	}
 
-	private EvolutionPath? FindPathToMove(HashSet<Digimon> startNodes, HashSet<Move> targetMoves)
+	private EvolutionPath? FindShortestPath(HashSet<Digimon> startNodes, HashSet<Move> targetMoves, Digimon target)
 	{
-		var queue = new Queue<(List<EvolutionNode> path, HashSet<Digimon> visited, HashSet<Move> ownedMoves)>();
+		var validPaths = new List<EvolutionPath>();
+		var queue = new Queue<EvolutionPath>();
 
 		foreach (var start in startNodes)
 		{
@@ -207,73 +174,46 @@
 				.Where(targetMoves.Contains)
 				.ToHashSet();
 
-			queue.Enqueue((new List<EvolutionNode> { new(start) }, new HashSet<Digimon>() { start }, owned));
-		}
-
-		while (queue.Count > 0)
-		{
-			var (path, visited, ownedMoves) = queue.Dequeue();
-			var current = path[^1];
-
-			var newMoves = current.Digimon.Moves
-				.Where(m => targetMoves.Contains(m) && !ownedMoves.Contains(m))
-				.ToList();
-
-			if (newMoves.Count > 0)
-			{
-				return new EvolutionPath
-				{
-					Nodes = path,
-					MovesGained = newMoves
-				};
-			}
-
-			var nextOwned = new HashSet<Move>(ownedMoves);
-
-			foreach (var m in current.Digimon.Moves)
-			{
-				if (targetMoves.Contains(m))
-					nextOwned.Add(m);
-			}
-
-			foreach (var neighbor in GetNeighbors(current.Digimon))
-			{
-				if (visited.Add(neighbor.Digimon))
-				{
-					queue.Enqueue((new List<EvolutionNode>(path) { neighbor }, visited, nextOwned));
-				}
-			}
-		}
-
-		return null;
-	}
-
-	private EvolutionPath? FindPathToTarget(List<Digimon> startNodes, Digimon target)
-	{
-		var queue = new Queue<List<EvolutionNode>>();
-		var visited = new HashSet<Digimon>();
-
-		foreach (var start in startNodes)
-		{
-			queue.Enqueue(new List<EvolutionNode> { new(start) });
-			visited.Add(start);
+			queue.Enqueue(new([new(start, owned, null)], [start], targetMoves.Except(owned).ToHashSet()));
 		}
 
 		while (queue.Count > 0)
 		{
 			var path = queue.Dequeue();
-			var current = path[^1];
+			var current = path.Nodes[^1];
 
-			if (current.Digimon.Equals(target))
+			if (path.SeekTarget)
 			{
-				return new EvolutionPath { Nodes = path };
+				// As soon as this returns true, we've found our shortest path.
+				if (current.Digimon.Equals(target))
+				{
+					return path;
+				}
 			}
+			else
+			{
+				// Check the the current mon has any of the required moves.
+				var newMoves = current.Digimon.Moves
+					.Where(m => path.RequiredMoves.Contains(m))
+					.ToList();
 
+				// If so, remove the learned moves from the path and clear the visited list so
+				// we can begin searching for the next moves/target. This lets us go backwards if needed.
+				if (newMoves.Count > 0)
+				{
+					current.LearnedMoves.UnionWith(newMoves);
+					path.RequiredMoves.ExceptWith(newMoves);
+					path.Visited.Clear();
+					path.Visited.Add(current.Digimon);
+				}
+			}
+			
+			// Build a new Evolution Path for each neighbor and add them to the queue.
 			foreach (var neighbor in GetNeighbors(current.Digimon))
 			{
-				if (visited.Add(neighbor.Digimon))
+				if (path.Visited.Add(neighbor.Digimon))
 				{
-					queue.Enqueue(new List<EvolutionNode>(path) { neighbor });
+					queue.Enqueue(new(new(path.Nodes) { neighbor }, new(path.Visited), new(path.RequiredMoves)));
 				}
 			}
 		}
@@ -284,9 +224,9 @@
 	private IEnumerable<EvolutionNode> GetNeighbors(Digimon d)
 	{
 		foreach (var e in d.ToEvolutions)
-			yield return new(e.From, e);
+			yield return new(e.From, [], e);
 
 		foreach (var e in d.FromEvolutions)
-			yield return new(e.To, e);
+			yield return new(e.To, [], e);
 	}
 }
