@@ -240,12 +240,22 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 			{
 				var parts = line[2..].Split(" + ");
 
-				foreach (var part in parts)
-					tempEvolutions.Add(new()
-					{
-						From = digimonList[part],
-						To = workingDigimon,
-					});
+				tempEvolutions.Add(new()
+				{
+					From = digimonList[parts[0]],
+					DNAWith = digimonList[parts[1]],
+					To = workingDigimon,
+				});
+
+				if (parts[0] == "ExVeemon" || parts[0] == "Stingmon")
+					continue;
+
+				tempEvolutions.Add(new()
+				{
+					From = digimonList[parts[1]],
+					DNAWith = digimonList[parts[0]],
+					To = workingDigimon,
+				});
 
 				continue;
 			}
