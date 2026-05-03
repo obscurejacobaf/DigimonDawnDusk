@@ -145,7 +145,7 @@
 		// No need to look for moves if our target mon learns normally.
 		var targetMoves = goalMoves.Where(x => target.Moves.Contains(x)).ToList();
 		if (targetMoves.Count() > 0)
-			goalMoves.RemoveWhere(x => target.Moves.Contains(x));
+			goalMoves.ExceptWith(target.Moves);
 
 		// Group the mons by number of goal moves they have, then get the max number of moves.
 		var monLookup = AllDigimon.ToLookup(x => x.Moves.Count(m => goalMoves.Contains(m)))
@@ -194,17 +194,16 @@
 			{
 				// Check the the current mon has any of the required moves.
 				var newMoves = current.Digimon.Moves
-					.Where(m => path.RequiredMoves.Contains(m))
-					.ToList();
+					.Where(path.RequiredMoves.Contains)
+					.ToArray();
 
 				// If so, remove the learned moves from the path and clear the visited list so
 				// we can begin searching for the next moves/target. This lets us go backwards if needed.
-				if (newMoves.Count > 0)
+				if (newMoves.Length > 0)
 				{
 					current.LearnedMoves.UnionWith(newMoves);
-					path.RequiredMoves.ExceptWith(newMoves);
-					path.Visited.Clear();
-					path.Visited.Add(current.Digimon);
+					path.RequiredMoves = new(path.RequiredMoves.Except(newMoves).ToHashSet());
+					path.Visited = [current.Digimon];
 				}
 			}
 			
@@ -213,7 +212,7 @@
 			{
 				if (path.Visited.Add(neighbor.Digimon))
 				{
-					queue.Enqueue(new(new(path.Nodes) { neighbor }, new(path.Visited), new(path.RequiredMoves)));
+					queue.Enqueue(new(new(path.Nodes) { neighbor }, path.Visited, path.RequiredMoves));
 				}
 			}
 		}
