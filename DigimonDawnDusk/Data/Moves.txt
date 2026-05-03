@@ -406,7 +406,7 @@ MP Cost: 119
 Description: Slash 3 zones with dragon claws using a spinning charge
 Level Gained: 55
 Gained By: Cyberdramon, WarGreymon, Dorugoramon, BlackWarGreymon
-Mega Meteo Fall
+Mega Meteor Fall
 Effect & Range: 132, (OOOOO) Fixed
 MP Cost: 182
 Description: Drop meteors on 5 zones and cause devastation

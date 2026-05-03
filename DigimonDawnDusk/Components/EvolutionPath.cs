@@ -9,6 +9,8 @@ public class EvolutionPath(List<EvolutionNode> nodes, HashSet<Digimon> visited, 
 	public HashSet<Move> RequiredMoves { get; set; } = movesRequired;
 	public HashSet<Digimon> Visited { get; set; } = visited;
 	public List<EvolutionNode> Nodes { get; set; } = nodes;
+
+	public double Priority => Nodes.Count + (Nodes[^1].Evolution?.DNAWith == null ? 0 : 0.5);
 }
 
 public record EvolutionNode(Digimon Digimon, HashSet<Move> LearnedMoves, Evolution? Evolution = null) : IDescriptor
