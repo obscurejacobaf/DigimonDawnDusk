@@ -2,12 +2,12 @@
 
 namespace DigimonDawnDusk.Components;
 
-public class EvolutionPath(List<EvolutionNode> nodes, HashSet<Digimon> visited, HashSet<Move> movesRequired)
+public class EvolutionPath(List<EvolutionNode> nodes, Dictionary<Digimon, double> visited, HashSet<Move> movesRequired)
 {
 	public bool SeekTarget => RequiredMoves.Count == 0;
 
 	public HashSet<Move> RequiredMoves { get; set; } = movesRequired;
-	public HashSet<Digimon> Visited { get; set; } = visited;
+	public Dictionary<Digimon, double> Visited { get; set; } = visited;
 	public List<EvolutionNode> Nodes { get; set; } = nodes;
 
 	public double Priority => Nodes.Count + (Nodes[^1].Evolution?.DNAWith == null ? 0 : 0.5);

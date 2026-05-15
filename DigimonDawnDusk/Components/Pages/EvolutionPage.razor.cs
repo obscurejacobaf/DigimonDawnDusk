@@ -84,7 +84,7 @@ public partial class EvolutionPage(IDbContextFactory<DigimonDbContext> Factory)
 				.Where(targetMoves.Contains)
 				.ToHashSet();
 
-			var p = new EvolutionPath([new(start, owned, null)], [start], [.. targetMoves.Except(owned)]);
+			var p = new EvolutionPath([new(start, owned, null)], new() { [start] = 1 }, [.. targetMoves.Except(owned)]);
 			queue.Enqueue(p, p.Priority);
 		}
 
@@ -92,6 +92,9 @@ public partial class EvolutionPage(IDbContextFactory<DigimonDbContext> Factory)
 		{
 			var path = queue.Dequeue();
 			var current = path.Nodes[^1];
+
+			if (path.Priority > path.Visited[current.Digimon])
+				continue;
 
 			if (path.SeekTarget)
 			{
@@ -114,16 +117,17 @@ public partial class EvolutionPage(IDbContextFactory<DigimonDbContext> Factory)
 				{
 					current.LearnedMoves.UnionWith(newMoves);
 					path.RequiredMoves = [.. path.RequiredMoves.Except(newMoves).ToHashSet()];
-					path.Visited = [current.Digimon];
+					path.Visited = new() { [current.Digimon] = 1 };
 				}
 			}
 
 			// Build a new Evolution Path for each neighbor and add them to the queue.
 			foreach (var neighbor in GetNeighbors(current.Digimon))
 			{
-				if (path.Visited.Add(neighbor.Digimon))
+				var p = new EvolutionPath([.. path.Nodes, neighbor], path.Visited, path.RequiredMoves);
+				if (!path.Visited.TryGetValue(neighbor.Digimon, out var existingCost) || existingCost > p.Priority)
 				{
-					var p = new EvolutionPath([.. path.Nodes, neighbor], path.Visited, path.RequiredMoves);
+					path.Visited[neighbor.Digimon] = p.Priority;
 					queue.Enqueue(p, p.Priority);
 				}
 			}
