@@ -1,0 +1,500 @@
+Kuramon: Tsumemon (Level 6) + Kuramon
+Botamon: Lopmon (Level 6) + Botamon (Level 6)
+Moonmon: Lopmon (Level 6) + Moonmon (Level 6), obtained Moonmon
+Patamon: Airdramon (Level 6) + Tokomon (Level 6)
+SnowAgumon: Airdramon (Level 12) + SnowAgumon (Level 12)
+Goburimon:Apemon (Level 6) + Tsunomon (Level 6)
+Tapirmon: Apemon (Level 12) + Tapirmon (Level 12)
+Terriermon: Apemon (Level 6) + Gummymon (Level 6)
+Biyomon: Aquilamon (Level 12) + Biyomon(Level 12)
+Dorumon: Aquilamon (Level 6) + Dorimon (Level 6)
+Impmon: BomberNanimon (Level 6) + Pagumon (Level 6)
+Mushroomon: BomberNanimon (Level 6) + Budmon (Level 6)
+Hagurumon: Centarumon (Level 6) + Kapurimon (Level 6)
+Kokuwamon: Centarumon (Level 12) + Kokuwamon (Level 12)
+Terriermon: Centarumon (Level 6) + Gummymon (Level 6)
+Guilmon: DarkLizardmon (Level 6) + Gigimon (Level 6), obtained Guilmon
+Impmon: DarkLizardmon (Level 6) + Pagumon (Level 6)
+BlackAgumon: Devidramon (Level 6) + Botamon (Level 6)
+DemiDevimon: Devidramon (Level 6) + Pagumon (Level 6)
+DotFalcomon: Diatrymon (Level 6) + Tokomon (Level 6), obtained DotFalcomon
+Solarmon: Diatrymon (Level 12) + Solarmon (Level 12)
+DotAgumon: Dinohumon (Level 6) + Koromon (Level 6), obtained DotAgumon
+Hawkmon: Dinohumon (Level 12) + Hawkmon (Level 12)
+Kotemon: Dinohumon (Level 6) + Kapurimon (Level 6)
+Guilmon: DarkTyrannomon (Level 6) + Gigimon (Level 6), obtained Guilmon
+ShadowToyAgumon: DarkTyrannomon (Level 12) + ShadowToyAgumon (Level 12)
+Gizamon: Drimogemon (Level 12) + Gizamon (Level 12)
+Gomamon: Drimogemon (Level 6) + Poyomon (Level 6)
+DotAgumon: Ebidramon (Level 6) + Koromon (Level 6), got DotAgumon
+Syakomon: Ebidramon (Level 12) + Syakomon (Level 12)
+Dorumon: ExVeemon (Level 6) + Dorimon (Level 6)
+SnowAgumon: ExVeemon (Level 12) + SnowAgumon (Level 12)
+DotAgumon: Flarerizamon (Level 6) + Koromon (Level 6), obtained DotAgumon
+Solarmon: Flarerizamon (Level 12) + Solarmon (Level 12)
+Penguinmon: Frigimon (Level 12) + Penguinmon (Level 12)
+Salamon: Frigimon (Level 6) + Puttimon (Level 6)
+Otamamon: Gwappamon (Level 12) + Otamamon (Level 12)
+ToyAgumon: Gwappamon (Level 12) + ToyAgumon (Level 12)
+PawnChessmon (Black): Guardromon (Level 6) + Kapurimon (Level 6)
+PawnChessmon (White): Guardromon (Level 6) + Puttimon (Level 6)
+SnowGoblimon: IceDevimon (Level 12) + SnowGoblimon (Level 12)
+Tsukaimon: IceDevimon (Level 12) + Tsukaimon (Level 12)
+Shamanmon: Icemon (Level 6) + Dorimon (Level 6)
+SnowGoblimon: Icemon(Level 12) + SnowGoblimon (Level 12)
+Crabmon: KaratsukiNumemon (Level 6) + Poyomon (Level 6)
+Tapirmon: KaratsukiNumemon (Level 12) + Tapirmon (Level 12)
+Falcomon: Kogamon (Level 6) + Tokomon (Level 6)
+Kotemon: Kogamon (Level 6) + Kapurimon (Level 6)
+Kokuwamon: Kuwagamon (Level 12) + Kokuwamon (Level 12)
+Tentomon: Kuwagamon (Level 12) + Tentomon (Level 12)
+Kokuwamon: Mekanorimon (Level 12) + Kokuwamon (Level 12)
+ToyAgumon: Mekanorimon (Level 12) + ToyAgumon (Level 12)
+Agumon: Monochromon (Level 6) + Koromon (Level 6)
+Gotsumon: Monochromon (Level 12) + Gotsumon (Level 12)
+Aruraumon: MudFrigimon (Level 6) + Tanemon (Level 6)
+Mushroomon: MudFrigimon (Level 6) + Budmon (Level 6)
+Kotemon: Musyamon (Level 6) + Kapurimon (Level 6)
+Shamanmon: Musyamon (Level 6) + Dorimon (Level 6)
+Impmon: Nanimon (Level 6) + Pagumon (Level 6)
+Solarmon: Nanimon(Level 12) + Solarmon (Level 12)
+Floramon: Ninjamon (Level 6) + Tanemon (Level 6)
+Hawkmon: Ninjamon (Level 12) + Hawkmon (Level 12)
+Goburimon: Numemon (Level 6) + Tsunomon (Level 6)
+Hagurumon: Numemon (Level 6) + Kapurimon (Level 6)
+Monodramon: Reptiledramon (Level 6) + Chibomon (Level 6)
+ShadowToyAgumon: Reptiledramon (Level 12) + ShadowToyAgumon (Level 12)
+Candlemon: Saberdramon (Level 6) + Botamon (Level 6)
+DotFalcomon: Saberdramon (Level 6) + Tokomon (Level 6), obtained DotFalcomon
+Gabumon: Sangloupmon (Level 6) + Tsunomon (Level 6)
+Lunamon: Sangloupmon (Level 6) + Moonmon (Level 6)
+Gaomon: Seasarmon (Level 6) + Wanyamon (Level 6)
+Salamon: Seasarmon (Level 6) + Puttimon (Level 6)
+Crabmon: Snimon (Level 6) + Poyomon (Level 6)
+DoKunemon: Snimon (Level 6) + Budmon (Level 6)
+Coronamon: Sorcermon (Level 6) + Sunmon (Level 6)
+Kudamon: Sorcermon (Level 6) + Puttimon (Level 6), obtained Kudamon
+DotFalcomon: Starmon (Level 6) + Tokomon (Level 6), obtained DotFalcomon
+Hagurumon: Starmon (Level 6) + Kapurimon (Level 6)
+ToyAgumon: Starmon (Level 12) + ToyAgumon (Level 12)
+ShadowToyAgumon: Starmon (Level 12) + ShadowToyAgumon (Level 12)
+Floramon: Sunflowmon (Level 6) + Tanemon (Level 6)
+Monodramon: Sunflowmon (Level 6) + Chibomon (Level 6)
+Kunemon: Thunderballmon (Level 6) + Minomon (Level 6)
+Tentomon: Thunderballmon (Level 12) + Tentomon (Level 12)
+Armadillomon: Tortomon (Level 6) + Dorimon (Level 6)
+Gotsumon: Tortomon (Level 12) + Gotsumon (Level 12)
+Otamamon: Tortomon (Level 12) + Otamamon (Level 12)
+Biyomon: Unimon (Level 6) + Biyomon (Level 6)
+Patamon: Unimon (Level 6) + Tokomon (Level 6)
+Gizamon: Wendigomon (Level 12) + Gizamon (Level 12)
+Tsukaimon: Wendigomon (Level 12) + Tsukaimon (Level 12)
+Airdramon: AeroVeedramon (Level 12) + Monodramon (Level 12), obtained Airdramon
+Tyrannomon: AeroVeedramon (Level 12) + Guilmon (Level 12)
+Sorcermon: Antylamon (Level 12) + Renamon (Level 12)
+Wizardmon: Antylamon (Level 12) + Impmon (Level 12)
+Devimon: Argomon (Ultimate) (Level 12) + DemiDevimon (Level 12)
+Weedmon: Argomon (Ultimate) (Level 12) + Aruraumon (Level 12)
+Flymon: Arukenimon (Level 12) + Kunemon (Level 12)
+Wendigomon: Arukenimon (Level 12) + Lopmon (Level 12)
+Golemon: BigMamemon (Level 12) + Gotsumon (Level 12)
+Mekanorimon: BigMamemon (Level 12) + ShadowToyAgumon (Level 12)
+RedVegiemon: BigMamemon (Level 12) + Lalamon (Level 12)
+Vegiemon: BigMamemon (Level 12) + Floramon (Level 12)
+Hookmon: BishopChessmon (Level 12) + Hagurumon (Level 12)
+Wizardmon: BishopChessmon (Level 12) + Impmon (Level 12)
+DarkTyrannomon: BlackWarGrowlmon (Level 12) + BlackAgumon (Level 12)
+Reptiledramon: BlackWarGrowlmon (Level 12) + Monodramon (Level 12)
+Kiwimon: Blossomon (Level 12) + Penguinmon (Level 12)
+Octomon: Blossomon (Level 24) + Octomon (Level 24)
+Geremon: Brachiomon (Level 12) + Otamamon (Level 12), obtained Geremon
+Numemon: Brachiomon (Level 24) + Numemon (Level 24)
+Seadramon: Brachiomon (Level 12) + SnowAgumon (Level 12)
+Kogamon: Cherrymon (Level 12) + Mushroomon (Level 12)
+Ninjamon: Cherrymon (Level 12) + Floramon (Level 12)
+Ogremon: Cyberdramon (Level 12) + Goburimon (Level 12)
+Reptiledramon: Cyberdramon (Level 12) + Monodramon (Level 12)
+BomberNanimon: Datamon (Level 12) + PawnChessmon (Black) (Level 12)
+Thunderballmon: Datamon (Level 12) + Kokuwamon (Level 12)
+Diatrymon: Deramon (Level 12) + Muchomon (Level 12)
+Woodmon: Deramon (Level 12) + Aruraumon (Level 12)
+MoriShellmon: Digitamamon (Level 12) + Palmon (Level 12)
+Nanimon: Digitamamon (Level 12) + Goburimon (Level 12)
+ExVeemon: Dinobeemon (Level 12) + Veemon (Level 12)
+Stingmon: Dinobeemon (Level 12) + Wormmon (Level 12)
+Gwappamon: Divermon (Level 12) + Kamemon (Level 12)
+Hyogamon: Divermon (Level 12) + SnowGoblimon (Level 12)
+Drimogemon: DoruGreymon (Level 12) + Dorumon (Level 12)
+Garurumon: DoruGreymon (Level 12) + Gabumon (Level 12)
+Greymon: DoruGreymon (Level 12) + Agumon (Level 12)
+NiseDrimogemon: DoruGreymon (Level 6) + Dorimon (Level 6)
+Gesomon: Dragomon (Level 12) + Betamon (Level 12)
+Octomon: Dragomon (Level 24) + Octomon (Level 24)
+Geremon: Etemon (Level 12) + Otamamon (Level 12), obtained Geremon
+JungleMojyamon: Etemon (Level 12) + Gabumon (Level 12)
+Sukamon: Etemon (Level 12) + Solarmon (Level 12)
+Raremon: EXTyrannomon (Level 12) + Gizamon (Level 12)
+Tyrannomon: EXTyrannomon (Level 12) + Guilmon (Level 12)
+Numemon: Garbagemon (Level 24) + Numemon (Level 24)
+PlatinumSukamon: Garbagemon (Level 12) + Kotemon (Level 12)
+Roachmon: Garbagemon (Level 12) + DoKunemon (Level 12)
+Aquilamon: Garudamon (Level 12) + Hawkmon (Level 12)
+Saberdramon: Garudamon (Level 12) + Biyomon (Level 12)
+DarkLizardmon: Gigadramon (Level 12) + Candlemon (Level 12)
+SandYanmamon: Gigadramon (Level 12) + Tentomon (Level 12)
+Kogamon: Giromon (Level 12) + Mushroomon (Level 12)
+Kuwagamon: Giromon (Level 12) + DoKunemon (Level 12)
+Fugamon: GrapLeomon (Level 12) + Shamanmon (Level 12)
+Minotarumon: GrapLeomon (Level 12) + Goburimon (Level 12)
+Firamon: Karatenmon (Level 12) + Coronamon (Level 12)
+Garurumon: Karatenmon (Level 12) + Gabumon (Level 12)
+Kogamon: Karatenmon (Level 12) + Mushroomon (Level 12)
+Devimon: Kimeramon (Level 12) + DemiDevimon (Level 12)
+Kabuterimon: Kimeramon (Level 12) + Tentomon (Level 12)
+Dinohumon: Knightmon (Level 12) + Monodramon (Level 12)
+KnightChessmon (White): Knightmon (Level 12) + PawnChessmon (White) (Level 12)
+Omekamon: Knightmon (Level 12) + Kotemon (Level 12)
+Reppamon: Knightmon (Level 12) + Kudamon (Level 12)
+Snimon: Knightmon (Level 12) + Wormmon (Level 12)
+Devidramon: LadyDevimon (Level 12) + Tsukaimon (Level 12)
+Kokatorimon: LadyDevimon (Level 12) + Penguinmon (Level 12)
+Lekismon: LadyDevimon (Level 12) + Lunamon (Level 12)
+Vegiemon: Lilamon (Level 12) + Floramon (Level 12)
+Weedmon: Lilamon (Level 12) + Aruraumon (Level 12)
+Angemon: Lucemon Chaos Mode (Level 12) + Patamon (Level 12)
+Devimon: Lucemon Chaos Mode (Level 12) + DemiDevimon (Level 12)
+Grizzmon: MachGaogamon (Level 12) + Bearmon (Level 12)
+Guardromon: MachGaogamon (Level 12) + Hagurumon (Level 12)
+Clockmon: MagnaAngemon (Level 12) + Solarmon (Level 12)
+Starmon: MagnaAngemon (Level 12) + Kudamon (Level 12)
+Sunflowmon: Mamemon (Level 12) + Lalamon (Level 12)
+Vegiemon: Mamemon (Level 12) + Floramon (Level 12)
+Ebidramon: Mametyramon (Level 12) + Crabmon (Level 12)
+Monochromon: Mametyramon (Level 12) + BlackAgumon (Level 12)
+Shellmon: Mametyramon (Level 12) + Syakomon (Level 12)
+Drimogemon: Mammothmon (Level 12) + Dorumon (Level 12)
+Garurumon: Mammothmon (Level 12) + Gabumon (Level 12)
+Icemon: Mammothmon (Level 12) + Gotsumon (Level 12)
+Leomon: Mammothmon (Level 12) + Gaomon (Level 12)
+Gesomon: MarineDevimon (Level 12) + Betamon (Level 12)
+Vilemon: MarineDevimon (Level 12) + Impmon (Level 12)
+Fugamon: Matadormon (Level 12) + Shamanmon (Level 12)
+Vilemon: Matadormon (Level 12) + Impmon (Level 12)
+Flarerizamon: Megadramon (Level 6) + Botamon (Level 6)
+Yanmamon: Megadramon (Level 12) + Kunemon (Level 12)
+Flymon: MegaKabuterimon (Blue) (Level 12) + Kunemon (Level 12)
+NiseDrimogemon: MegaKabuterimon (Blue) (Level 6) + Dorimon (Level 6)
+Tortomon: MegaKabuterimon (Blue) (Level 12) + Kamemon (Level 12)
+Drimogemon: MegaKabuterimon (Red) (Level 12) + Dorumon (Level 12)
+KnightChessmon (White): MegaKabuterimon (Red) (Level 12) + PawnChessmon (White) (Level 12)
+Stingmon: MegaKabuterimon (Red) (Level 12) + Wormmon (Level 12)
+Airdramon: MegaSeadramon (Level 12) + Monodramon (Level 12), obtained Airdramon
+Ebidramon: MegaSeadramon (Level 12) + Crabmon (Level 12)
+GeoGreymon: MegaSeadramon (Level 12) + Agumon (Level 12)
+Reptiledramon: MetalGreymon (Level 12) + Monodramon (Level 12)
+Tankmon: MetalGreymon (Level 12) + ToyAgumon (Level 12)
+Ninjamon: MetalMamemon (Level 12) + Floramon (Level 12)
+PlatinumSukamon: MetalMamemon (Level 12) + Kotemon (Level 12)
+Mekanorimon: MetalTyrannomon (Level 12) + ShadowToyAgumon (Level 12)
+Tankmon: MetalTyrannomon (Level 12) + ToyAgumon (Level 12)
+Tyrannomon: MetalTyrannomon (Level 12) + Guilmon (Level 12)
+Golemon: Meteormon (Level 12) + Gotsumon (Level 12)
+PlatinumSukamon: Meteormon (Level 12) + Kotemon (Level 12)
+Frigimon: Monzaemon (Level 12) + SnowGoblimon (Level 12)
+Numemon: Monzaemon (Level 24) + Numemon (Level 24)
+Seasarmon: Monzaemon (Level 12) + Tapirmon (Level 12)
+Starmon: Monzaemon (Level 12) + Kudamon (Level 12)
+Bakemon: Mummymon (Level 12) + Tsukaimon (Level 12)
+Fugamon: Mummymon (Level 12) + Shamanmon (Level 12)
+Hookmon: Mummymon (Level 12) + Hagurumon (Level 12)
+Bakemon: Myotismon (Level 12) + Tsukaimon (Level 12)
+Sangloupmon: Myotismon (Level 12) + Dracmon (Level 12)
+Musyamon: Okuwamon (Level 12) + DemiDevimon (Level 12)
+SandYanmamon: Okuwamon (Level 12) + Tentomon (Level 12)
+Yanmamon: Okuwamon (Level 12) + Kunemon (Level 12)
+ExVeemon: Okuwamon (Level 12) + Veemon (Level 12)
+Stingmon: Okuwamon (Level 12) + Wormmon (Level 12)
+Frigimon: Pandamon (Level 12) + SnowGoblimon (Level 12)
+MudFrigimon: Pandamon (Level 12) + Gotsumon (Level 12), obtained MudFrigimon
+Birdramon: Parrotmon (Level 12) + Biyomon (Level 12)
+Unimon: Parrotmon (Level 24) + Unimon (Level 24)
+Clockmon: Phantomon (Level 12) + Solarmon (Level 12)
+Snimon: Phantomon (Level 12) + Wormmon (Level 12)
+Sorcermon: Piximon (Level 12) + Renamon (Level 12)
+Yanmamon: Piximon (Level 12) + Kunemon (Level 12)
+Gaogamon: Rapidmon (Level 12) + Gaomon (Level 12)
+Guardromon: Rapidmon (Level 12) + Hagurumon (Level 12)
+Deputymon: RizeGreymon (Level 12) + ToyAgumon (Level 12)
+Flarerizamon: RizeGreymon (Level 6) + Botamon (Level 6)
+SandYanmamon: Scorpiomon (Level 12) + Tentomon (Level 12)
+Snimon: Scorpiomon (Level 12) + Wormmon (Level 12)
+Angemon: Shakkoumon (Level 12) + Patamon (Level 12)
+Ankylomon: Shakkoumon (Level 12) + Armadillomon (Level 12)
+Apemon: Shawjamon (Level 12) + Shamanmon (Level 12), obtained Apemon
+IceDevimon: Shawjamon (Level 12) + Gizamon (Level 12)
+Sorcermon: Shawjamon (Level 12) + Renamon (Level 12)
+Hookmon: ShogunGekomon (Level 12) + Hagurumon (Level 12)
+Shellmon: ShogunGekomon (Level 12) + Syakomon (Level 12)
+Aquilamon: Silphymon (Level 12) + Hawkmon (Level 12)
+Gatomon: Silphymon (Level 12) + Salamon (Level 12)
+Akatorimon: Sinduramon (Level 12) + Muchomon (Level 12)
+Kokatorimon: Sinduramon (Level 12) + Penguinmon (Level 12)
+Devidramon: SkullGreymon (Level 12) + Tsukaimon (Level 12)
+Greymon: SkullGreymon (Level 12) + Agumon (Level 12)
+Monochromon: SkullGreymon (Level 12) + BlackAgumon (Level 12)
+Deputymon: SuperStarmon (Level 12) + ToyAgumon (Level 12)
+Ninjamon: SuperStarmon (Level 12) + Floramon (Level 12)
+MudFrigimon: Tekkamon (Level 12) + Gotsumon (Level 12), obtained MudFrigimon
+Thunderballmon: Tekkamon (Level 12) + Kokuwamon (Level 12)
+Ankylomon: Triceramon (Level 12) + Armadillomon (Level 12)
+Minotarumon: Triceramon (Level 12) + Goburimon (Level 12)
+Monochromon: Triceramon (Level 12) + BlackAgumon (Level 12)
+MoriShellmon: Triceramon (Level 12) + Palmon (Level 12)
+Seasarmon: Chirinmon (Level 12) + Tapirmon (Level 12)
+Unimon: Chirinmon (Level 24) + Unimon (Level 24)
+Nanimon: Vademon (Level 12) + Goburimon (Level 12)
+RedVegiemon: Vademon (Level 12) + Lalamon (Level 12)
+Centarumon: Vajramon (Level 12) + Lopmon (Level 12)
+Dinohumon: Vajramon (Level 12) + Monodramon (Level 12)
+Minotarumon: Vajramon (Level 12) + Goburimon (Level 12)
+Ankylomon: Vermilimon (Level 12) + Armadillomon (Level 12)
+GeoGreymon: Vermilimon (Level 12) + Agumon (Level 12)
+NiseDrimogemon: Vermilimon (Level 6) + Dorimon (Level 6)
+Gekomon: Volcamon (Level 12) + Otamamon (Level 12)
+JungleMojyamon: Volcamon (Level 12) + Gabumon (Level 12)
+Roachmon: Volcamon (Level 12) + DoKunemon (Level 12)
+JungleMojyamon: WereGarurumon (Black) (Level 12) + Gabumon (Level 12)
+Sangloupmon: WereGarurumon (Black) (Level 12) + Dracmon (Level 12)
+Hyogamon: WereGarurumon (Level 12) + SnowGoblimon (Level 12)
+Mojyamon: WereGarurumon (Level 12) + Bearmon (Level 12)
+DarkLizardmon: WarGrowlmon (Level 12) + Candlemon (Level 12)
+Flarerizamon: WarGrowlmon (Level 6) + Botamon (Level 6)
+Coelamon: Whamon (Level 12) + Syakomon (Level 12)
+Seadramon: Whamon (Level 12) + SnowAgumon (Level 12)
+Hyogamon: Zudomon (Level 12) + SnowGoblimon (Level 12)
+Leomon: Zudomon (Level 12) + Gaomon (Level 12)
+Ogremon: Zudomon (Level 12) + Goburimon (Level 12)
+Shellmon: Zudomon (Level 12) + Syakomon (Level 12)
+DoruGreymon: Alphamon (Level 24) + Dorugamon (Level 24)
+MagnaAngemon: Alphamon (Level 24) + Angemon (Level 24)
+Magnamon: Alphamon (Level 12) + Veemon (Level 12), obtained Miracle DE
+Blossomon: Anubismon (Level 24) + Weedmon (Level 24)
+Garudamon: Anubismon (Level 24) + Birdramon (Level 24)
+Karatenmon: Anubismon (Level 24) + Saberdramon (Level 24)
+Yatagaramon: Anubismon (Level 24) + Peckmon (Level 24)
+Machinedramon: Apocalymon (Level 36) + SkullGreymon, obtained Machinedramon
+MetalSeadramon: Apocalymon (Level 36) + MegaSeadramon
+Piedmon: Apocalymon (Level 36) + Matadormon, obtained Piedmon
+Puppetmon: Apocalymon (Level 36) + Tekkamon, obtained Puppetmon
+Diaboromon: Armageddemon (Level 36) + Infermon, obtained Diaboromon
+Infermon: Armageddemon (Level 24) + Chrysalimon (Level 24)
+Lilamon: Babamon (Level 24) + Sunflowmon (Level 24)
+Piximon: Babamon (Level 24) + Unimon (Level 24)
+Vademon: Babamon (Level 24) + RedVegiemon (Level 24), obtained Vademon
+GrapLeomon: BanchoLeomon (Level 24) + Leomon (Level 24)
+Pandamon: BanchoLeomon (Level 12) + Bearmon (Level 12), obtained Pandamon
+Matadormon: Beelzemon (Level 24) + Sangloupmon (Level 24)
+Mummymon: Beelzemon (Level 24) + Wizardmon (Level 24)
+BanchoLeomon: Beelzemon Blast Mode (Level 36) + GrapLeomon, obtained BanchoLeomon
+Beelzemon: Beelzemon Blast Mode (Level 36) + Mummymon, obtained Beelzemon
+BishopChessmon: BlackMegaGargomon (Level 24) + KnightChessmon (White) (Level 24)
+RookChessmon: BlackMegaGargomon (Level 24) + KnightChessmon (Black) (Level 24)
+Allomon: BlackWarGreymon (Level 12) + Hawkmon (Level 12), obtained Courage DE
+BlackWarGrowlmon: BlackWarGreymon (Level 24) + Growlmon (Level 24)
+Megadramon: BlackWarGreymon (Level 24) + Airdramon (Level 24)
+SkullGreymon: BlackWarGreymon (Level 24) + DarkTyrannomon (Level 24), obtained SkullGreymon
+Tekkamon: Boltmon (Level 24) + DarkLizardmon (Level 24)
+Volcamon: Boltmon (Level 24) + Omekamon (Level 24)
+Brachiomon: Cannondramon (Level 24) + Tortomon (Level 24), obtained Brachiomon
+Mametyramon: Cannondramon (Level 24) + Deputymon (Level 24)
+Myotismon: Cannondramon (Level 24) + Monochromon (Level 24)
+BlackWarGrowlmon: ChaosGallantmon (Level 24) + Growlmon (Level 24)
+Diaboromon: ChaosGallantmon (Level 36) + Infermon, obtained Diaboromon
+BanchoLeomon: Chaosmon (Level 36) + GrapLeomon, obtained BanchoLeomon
+Darkdramon: Chaosmon (Level 36) + Megadramon
+Varodurumon: Chaosmon (Level 36) + Sinduramon
+Monzaemon: Cherubimon (Good) (Level 24) + Grizzmon (Level 24)
+Prairiemon: Cherubimon (Good) (Level 12) + Patamon (Level 12), obtained Kindness DE
+Susanoomon: Chronomon Holy Mode (Level 36) + Magnamon
+Varodurumon: Chronomon Holy Mode (Level 36) + Sinduramon
+LadyDevimon: Daemon (Level 24) + Vilemon (Level 24)
+Myotismon: Daemon (Level 24) + Devimon (Level 24)
+Mametyramon: Darkdramon (Level 24) + Deputymon (Level 24)
+MetalGreymon: Darkdramon (Level 24) + Greymon (Level 24)
+MetalTyrannomon: Darkdramon (Level 24) + DarkTyrannomon (Level 24)
+EXTyrannomon: Devitamamon (Level 24) + Mekanorimon (Level 24)
+Pipismon: Devitamamon (Level 12) + Patamon (Level 12), obtained Love DE
+Scorpiomon: Devitamamon (Level 24) + Coelamon (Level 24)
+Toucanmon: Devitamamon (Level 12) + Hawkmon (Level 12), obtained Kindness DE
+Flamedramon: Dorugoramon (Level 12) + Veemon (Level 12), obtained Courage DE
+MegaKabuterimon (Blue): Dorugoramon (Level 24) + Kabuterimon (Level 24)
+GrapLeomon: Duftmon (Level 24) + Leomon (Level 24)
+SlashAngemon: Duftmon (Level 36) + MagnaAngemon
+Kenkimon: Eaglemon (Level 12) + Armadillomon (Level 12), obtained Friendship DE
+Owlmon: Eaglemon (Level 12) + Wormmon (Level 12), obtained Love DE
+Shakkoumon: Eaglemon (Level 24) + Angemon (Level 24), obtained Shakkoumon
+Garbagemon: Ebemon (Level 24) + Sukamon (Level 24)
+MetalMamemon: Ebemon (Level 24) + Tankmon (Level 24)
+Meteormon: Ebemon (Level 24) + Icemon (Level 24)
+Knightmon: Gallantmon (Level 24) + Clockmon (Level 24)
+MegaKabuterimon (Red): Gallantmon (Level 24) + Kabuterimon (Level 24)
+Gallantmon: Gallantmon Crimson Mode (Level 36) + WarGrowlmon, obtained Gallantmon
+Seraphimon: Gallantmon Crimson Mode (Level 36) + MagnaAngemon
+Digitamamon: Ghoulmon (Level 24) + KaratsukiNumemon (Level 24), obtained KaratsukiNumemon
+Monzaemon: Ghoulmon (Level 24) + Grizzmon (Level 24)
+Pandamon: Ghoulmon (Level 24) + Bearmon (Level 12), obtained Pandamon
+Etemon: Ghoulmon (Black) (Level 24) + Minotarumon (Level 24)
+Ponchomon: Ghoulmon (Black) (Level 12) + Patamon (Level 12), obtained Purity DE
+Gigadramon: GigaSeadramon (Level 24) + Devidramon (Level 24)
+Kenkimon: GigaSeadramon (Level 12) + Armadillomon (Level 12), obtained Friendship DE
+Tylomon: GigaSeadramon (Level 24) + Gatomon (Level 24), obtained Honesty DE
+Whamon: GigaSeadramon (Level 36) + Whamon (Level 36)
+Cyberdramon: Goldramon (Level 24) + Dinohumon (Level 24)
+Flaremon: Goldramon (Level 24) + Firamon (Level 24)
+MagnaAngemon: Goldramon (Level 24) + Angemon (Level 24)
+Seahomon: Goldramon (Level 12) + Armadillomon (Level 12), obtained Light DE
+Dinobeemon: GranKuwagamon (Level 24) + Flymon (Level 24), obtained Dinobeemon
+Scorpiomon: GranKuwagamon (Level 24) + Coelamon (Level 24)
+DoruGreymon: Gryphonmon (Level 24) + Dorugamon (Level 24)
+Toucanmon: Gryphonmon (Level 12) + Hawkmon (Level 12), obtained Kindness DE
+Arukenimon: Gulfmon (Level 24) + Dokugumon (Level 24)
+Volcamon: Gulfmon (Level 24) + DarkLizardmon (Level 24)
+MegaKabuterimon (Red): HerculesKabuterimon (Level 24) + Kabuterimon (Level 24)
+Okuwamon: HerculesKabuterimon (Level 24) + Kuwagamon (Level 24)
+Giromon: HiAndromon (Level 24) + BomberNanimon (Level 24)
+RookChessmon: HiAndromon (Level 24) + KnightChessmon (Black) (Level 24)
+Allomon: Imperialdramon Dragon Mode (Level 12) + Hawkmon (Level 12), obtained Courage DE
+RizeGreymon: Imperialdramon Dragon Mode (Level 24) + GeoGreymon (Level 24)
+Triceramon: Imperialdramon Dragon Mode (Black) (Level 24) + Tyrannomon (Level 24)
+Vermilimon: Imperialdramon Dragon Mode (Black) (Level 24) + Monochromon (Level 24)
+Imperialdramon Fighter Mode: Imperialdramon Paladin Mode (Level 36) + Paildramon, obtained Imperialdramon Fighter Mode
+Omnimon: Imperialdramon Paladin Mode (Level 36) + WarGreymon, obtained Omnimon
+Cherrymon: Jijimon (Level 24) + Woodmon (Level 24)
+Pandamon: Jijimon (Level 12) + Bearmon (Level 12), obtained Pandamon
+BigMamemon: JumboGamemon (Level 24) + Mekanorimon (Level 24)
+Seahomon: JumboGamemon (Level 12) + Armadillomon (Level 12), obtained Light DE
+Andromon: Justimon (Level 24) + Guardromon (Level 24)
+SuperStarmon: Justimon (Level 24) + Starmon (Level 24)
+Mamemon: KingChessmon (Level 24) + Thunderballmon (Level 24)
+ShogunGekomon: KingChessmon (Level 24) + Gekomon (Level 24)
+Karatenmon: Kuzuhamon (Level 24) + Saberdramon (Level 24)
+Taomon: Kuzuhamon (Level 24) + Kyubimon (Level 24)
+Mamemon: Lampmon (Level 24) + Thunderballmon (Level 24)
+Meteormon: Lampmon (Level 12) + Icemon (Level 24)
+Blossomon: Lilithmon (Level 24) + Weedmon (Level 24)
+MarineDevimon: Lilithmon (Level 24) + IceDevimon (Level 24)
+Blossomon: Lotusmon (Level 24) + Weedmon (Level 24)
+LadyDevimon: Lotusmon (Level 24) + Vilemon (Level 24)
+Gigadramon: Machinedramon (Level 24) + Devidramon (Level 24)
+Megadramon: Machinedramon (Level 24) + Airdramon (Level 24)
+MetalTyrannomon: Machinedramon (Level 24) + DarkTyrannomon (Level 24)
+Angewomon: Magnadramon (Level 24) + Gatomon (Level 24)
+Lilamon: Magnadramon (Level 24) + Sunflowmon (Level 24)
+Lillymon: Magnadramon (Level 24) + Togemon (Level 24)
+Myotismon: MaloMyotismon (Level 24) + Devimon (Level 24)
+Shadramon: MaloMyotismon (Level 12) + Wormmon (Level 12), obtained Courage DE
+Lillymon: MarineAngemon (Level 24) + Togemon (Level 24)
+MegaSeadramon: MarineAngemon (Level 24) + Seadramon (Level 24)
+Monzaemon: MarineAngemon (Level 24) + Grizzmon (Level 24)
+SuperStarmon: MarineAngemon (Level 24) + Starmon (Level 24)
+BigMamemon: MegaGargomon (Level 24) + Mekanorimon (Level 24), obtained BigMamemon
+Prairiemon: MegaGargomon (Level 24) + Patamon (Level 12), obtained Kindness DE
+BlackWarGrowlmon: Megidramon (Level 24) + Growlmon (Level 24)
+Shadramon: Megidramon (Level 24) + Wormmon (Level 12), obtained Courage DE
+Meteormon: MetalEtemon (Level 24) + Icemon (Level 24)
+ShogunGekomon: MetalEtemon (Level 24) + Gekomon (Level 24)
+Mammothmon: MetalGarurumon (Level 24) + Mojyamon (Level 24)
+MetalMamemon: MetalGarurumon (Level 24) + Tankmon (Level 24)
+MarineDevimon: MetalSeadramon (Level 24) + IceDevimon (Level 24)
+MetalTyrannomon: MetalSeadramon (Level 24) + DarkTyrannomon (Level 24)
+Scorpiomon: MetalSeadramon (Level 24) + Coelamon (Level 24)
+Kimeramon: Millenniummon (Level 24) + Devidramon (Level 24), obtained SkullGreymon
+Machinedramon: Millenniummon (Level 36) + SkullGreymon, obtained Machinedramon
+Knightmon: Minervamon (Level 24) + Clockmon (Level 24)
+WereGarurumon (Black): Minervamon (Level 24) + Ogremon (Level 24)
+MirageGaogamon: MirageGaogamon Burst Mode (Level 36) + MachGaogamon
+PrinceMamemon: MirageGaogamon Burst Mode (Level 36) + MetalMamemon
+Vikemon: MirageGaogamon Burst Mode (Level 36) + Zudomon
+Divermon: Neptunemon (Level 24) + Dolphmon (Level 24), obtained Divermon
+Shawjamon: Neptunemon (Level 24) + Gwappamon (Level 24)
+MetalGarurumon: Omnimon (Level 36) + WereGarurumon, obtained MetalGarurumon
+WarGreymon: Omnimon (Level 36) + MetalGreymon, obtained WarGreymon
+Silphymon: Ophanimon (Level 24) + Aquilamon (Level 24), obtained Silphymon
+Taomon: Ophanimon (Level 24) + Kyubimon (Level 24)
+Arukenimon: Parasimon (Level 24) + Dokugumon (Level 24)
+EXTyrannomon: Parasimon (Level 24) + Mekanorimon (Level 24)
+Datamon: Pharaohmon (Level 36) + Raremon (Level 24)
+Kongoumon: Pharaohmon (Level 12) + Wormmon (Level 12), obtained Miracle DE
+Lynxmon: Pharaohmon (Level 36) + Gatomon (Level 24), obtained Courage DE
+Taomon: Pharaohmon (Level 36) + Kyubimon (Level 24)
+Garudamon: Phoenixmon (Level 24) + Birdramon (Level 24)
+Sinduramon: Phoenixmon (Level 24) + Diatrymon (Level 24), obtained Sinduramon
+Arukenimon: Piedmon (Level 24) + Dokugumon (Level 24)
+Infermon: Piedmon (Level 24) + Chrysalimon (Level 24)
+Phantomon: Piedmon (Level 24) + Bakemon (Level 24)
+AeroVeedramon: Plesiomon (Level 24) + Veedramon (Level 24)
+Tylomon: Plesiomon (Level 24) + Gatomon (Level 24), obtained Honesty DE
+Zudomon: Plesiomon (Level 24) + Ikkakumon (Level 24)
+Giromon: PrinceMamemon (Level 24) + BomberNanimon (Level 24)
+Mamemon: PrinceMamemon (Level 24) + Thunderballmon (Level 24)
+Divermon: Pukumon (Level 24) + Dolphmon (Level 24), obtained Divermon
+Ponchomon: Pukumon (Level 12) + Chrysalimon (Level 12), obtained Purity DE
+Cherrymon: Puppetmon (Level 24) + Woodmon (Level 24)
+Garbagemon: Puppetmon (Level 24) + Sukamon (Level 24)
+Shurimon: Puppetmon (Level 12) + Hawkmon (Level 12), obtained Purity DE
+Antylamon: QueenChessmon (Level 24) + Wendigomon (Level 24)
+Crescemon: QueenChessmon (Level 24) + Lekismon (Level 24)
+Cyberdramon: QueenChessmon (Level 24) + Dinohumon (Level 24)
+Karatenmon: Ravemon (Level 24) + Saberdramon (Level 24)
+Shurimon: Ravemon (Level 12) + Hawkmon (Level 12), obtained Purity DE
+Ravemon: Ravemon Burst Mode (Level 36) + Yatagaramon
+Valkyrimon: Ravemon Burst Mode (Level 36) + Silphymon
+Varodurumon: Ravemon Burst Mode (Level 36) + Sinduramon
+Lillymon: Rosemon (Level 24) + Togemon (Level 24)
+Matadormon: Rosemon (Level 24) + Sangloupmon (Level 24)
+Babamon: Rosemon Burst Mode (Level 36) + Monzaemon
+Ophanimon: Rosemon Burst Mode (Level 36) + Angewomon, obtained Ophanimon
+Rosemon: Rosemon Burst Mode (Level 36) + Lilamon
+Lynxmon: SaberLeomon (Level 24) + Gatomon (Level 24), obtained Courage DE
+Zudomon: SaberLeomon (Level 24) + Ikkakumon (Level 24)
+Kabukimon: Sakuyamon (Level 24) + Gatomon (Level 24), obtained Purity DE
+Kyukimon: Sakuyamon (Level 24) + Apemon (Level 24)
+BlackRapidmon: Seraphimon (Level 24) + Centarumon (Level 24)
+Parrotmon: Seraphimon (Level 24) + Akatorimon (Level 24)
+Rapidmon: Seraphimon (Level 24) + Gargomon (Level 24)
+Shakkoumon: Seraphimon (Level 24) + Angemon (Level 24), obtained Shakkoumon
+Gallantmon: ShineGreymon Burst Mode (Level 36) + WarGrowlmon, obtained Gallantmon
+Imperialdramon Fighter Mode: ShineGreymon Burst Mode (Level 36) + Paildramon, obtained Imperialdramon Fighter Mode
+ShineGreymon: ShineGreymon Burst Mode (Level 36) + RizeGreymon
+Darkdramon: ShineGreymon Ruin Mode (Level 36) + Megadramon
+ShineGreymon: ShineGreymon Ruin Mode (Level 36) + RizeGreymon
+MegaKabuterimon (Blue): SkullMammothmon (Level 24) + Kabuterimon (Level 24)
+Myotismon: SkullMammothmon (Level 24) + Devimon (Level 24)
+SkullGreymon: SkullMammothmon (Level 24) + DarkTyrannomon (Level 24), obtained SkullGreymon
+Giromon: SlashAngemon (Level 24) + BomberNanimon (Level 24)
+Kyukimon: SlashAngemon (Level 24) + Apemon (Level 24)
+Piximon: SlashAngemon (Level 24) + Unimon (Level 24)
+Knightmon: Sleipmon (Level 24) + Clockmon (Level 24)
+Mammothmon: Sleipmon (Level 24) + Mojyamon (Level 24)
+Kongoumon: Susanoomon (Level 12) + Wormmon (Level 12), obtained Miracle DE
+Magnamon: Susanoomon (Level 12) + Veemon (Level 12), obtained Miracle DE
+SuperStarmon: Susanoomon (Level 24) + Starmon (Level 24)
+Yatagaramon: Susanoomon (Level 24) + Peckmon (Level 24)
+Angewomon: Valkyrimon (Level 24) + Gatomon (Level 24)
+Deramon: Valkyrimon (Level 24) + Kiwimon (Level 24)
+Owlmon: Valkyrimon (Level 12) + Wormmon (Level 12), obtained Love DE
+Silphymon: Varodurumon (Level 24) + Aquilamon (Level 24), obtained Silphymon
+Sinduramon: Varodurumon (Level 24) + Diatrymon (Level 24), obtained Sinduramon
+Dragomon: VenomMyotismon (Level 24) + Octomon (Level 24), obtained Dragomon
+Pipismon: VenomMyotismon (Level 12) + Patamon (Level 12), obtained Love DE
+Divermon: Vikemon (Level 24) + Dolphmon (Level 24), obtained Divermon
+Shakkoumon: Vikemon (Level 24) + Angemon (Level 24), obtained Shakkoumon
+WereGarurumon: Vikemon (Level 24) + Garurumon (Level 24)
+Whamon: Vikemon (Level 36) + Whamon (Level 36)
+Flamedramon: WarGreymon (Level 12) + Veemon (Level 12), obtained Courage DE
+Mametyramon: WarGreymon (Level 24) + Deputymon (Level 24)
+Dinobeemon: Zanbamon (Level 24) + Flymon (Level 24), obtained Dinobeemon
+Kabukimon: Zanbamon (Level 24) + Gatomon (Level 24), obtained Purity DE
+Tekkamon: Zanbamon (Level 24) + Omekamon (Level 24)
+MoonMillenniummon: ZeedMillenniummon (Level 36) + Kimeramon (Level 36), obtained MoonMillenniummon
+Gigadramon: ZeedMillenniummon (Level 24) + Devidramon (Level 24)

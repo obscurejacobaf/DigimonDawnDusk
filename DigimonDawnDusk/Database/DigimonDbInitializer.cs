@@ -15,6 +15,7 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 		InitNormalEvolution(context);
 		InitArmorEvolution(context);
 		InitDNAEvolution(context);
+		InitDNADegeneration(context);
 		InitMoves(context);
 	}
 
@@ -245,6 +246,7 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 					From = digimonList[parts[0]],
 					DNAWith = digimonList[parts[1]],
 					To = workingDigimon,
+					AllowBackwards = false,
 				});
 
 				if (parts[0] == "ExVeemon" || parts[0] == "Stingmon")
@@ -255,6 +257,7 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 					From = digimonList[parts[1]],
 					DNAWith = digimonList[parts[0]],
 					To = workingDigimon,
+					AllowBackwards = false,
 				});
 
 				continue;
@@ -277,6 +280,65 @@ public sealed class DigimonDbInitializer(IDbContextFactory<DigimonDbContext> fac
 
 		context.Evolutions.AddRange(evolutions);
 		context.SaveChanges();
+	}
+
+	private static void InitDNADegeneration(DigimonDbContext context)
+	{
+		using var stream = new FileStream(@"C:\Users\theja\source\repos\DigimonWorldDD\DigimonDawnDusk\Data\DNADegeneration.txt", FileMode.Open);
+		using var reader = new StreamReader(stream);
+
+		var digimonList = context.Digimon.ToDictionary(x => x.Name, StringComparer.OrdinalIgnoreCase);
+		var evolutions = new HashSet<Evolution>();
+
+		while (true)
+		{
+			var line = reader.ReadLine();
+			if (line == null)
+				break;
+
+			var parts = line.Split(':');
+			var to = parts[0];
+			var requirement = parts[1];
+			parts = parts[1].Trim().Split(" + ");
+			var name1 = GetDegenerateName(parts[0]);
+			var name2 = GetDegenerateName(parts[1]);
+
+			evolutions.Add(new()
+			{
+				AllowBackwards = false,
+				To = digimonList[to],
+				From = digimonList[name1],
+				DNAWith = digimonList[name2],
+				Requirements = requirement
+			});
+
+			evolutions.Add(new()
+			{
+				AllowBackwards = false,
+				To = digimonList[to],
+				From = digimonList[name2],
+				DNAWith = digimonList[name1],
+				Requirements = requirement
+			});
+		}
+
+		context.Evolutions.AddRange(evolutions);
+		context.SaveChanges();
+	}
+
+	private static string GetDegenerateName(string str)
+	{
+		var digimonName = new List<char>(str.Length);
+
+		for (var i = 0; i < str.Length; i++)
+		{
+			if (str[i] == ',' || (str[i] == '(' && str[i + 1] == 'L' && str[i + 2] == 'e' &&
+				str[i + 3] == 'v' && str[i + 4] == 'e' && str[i + 5] == 'l'))
+				break;
+			digimonName.Add(str[i]);
+		}
+
+		return new string([.. digimonName]).Trim();
 	}
 
 	private static void InitMoves(DigimonDbContext context)

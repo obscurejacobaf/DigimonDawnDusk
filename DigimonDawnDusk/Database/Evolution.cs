@@ -4,6 +4,8 @@ public class Evolution : IDescriptor
 {
 	public int EvolutionId { get; set; }
 	public string Requirements { get; set; } = default!;
+	public bool AllowForwards { get; set; } = true;
+	public bool AllowBackwards { get; set; } = true;
 
 	public virtual Digimon From { get; set; } = default!;
 	public virtual Digimon? DNAWith { get; set; }
@@ -12,7 +14,7 @@ public class Evolution : IDescriptor
 
 	public string Name => $"{From} -> {To}";
 
-	public string Descriptor => $"{(DNAWith == null ? "" : $"With {DNAWith} ")}{Requirements}";
+	public string Descriptor => $"{(DNAWith == null ? "" : $"With {DNAWith}. ")}{Requirements}";
 
 	public override bool Equals(object? obj) =>
 		obj is Evolution evolution &&

@@ -138,10 +138,10 @@ public partial class EvolutionPage(IDbContextFactory<DigimonDbContext> Factory)
 
 	private static IEnumerable<EvolutionNode> GetNeighbors(Digimon d)
 	{
-		foreach (var e in d.ToEvolutions)
+		foreach (var e in d.ToEvolutions.Where(x => x.AllowBackwards))
 			yield return new(e.From, [], e);
 
-		foreach (var e in d.FromEvolutions)
+		foreach (var e in d.FromEvolutions.Where(x => x.AllowForwards))
 			yield return new(e.To, [], e);
 	}
 }
